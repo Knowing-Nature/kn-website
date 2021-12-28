@@ -44,9 +44,9 @@ Great Britain and Ireland at: www.conchsoc.org/
 
 And the Field Studies Council has published an excellent key to the Land Snails of the British Isles which can be found here: [www.field-studies-council.org/shop/publications/land-snails-in-the-british-isles-2nd-edition/](https://www.field-studies-council.org/shop/publications/land-snails-in-the-british-isles-2nd-edition/)
 
-  ![](img_20200327_175244.jpg)
-  ![](img_20200329_085636.jpg)
-  ![](img_20200330_164312.jpg)
+  ![](snail1.jpg)
+  ![](snail2.jpg)
+  ![](carrot.jpg)
 
 Maggie’s home for woodlice
 
@@ -84,7 +84,7 @@ of soap, and a mashed garlic clove. The soap helps penetrate the waxy coating
 some invertebrates have protecting them, and garlic contains sulfur compounds
 which act as natural insecticides.
 
-  ![Ayesha’s window box for bees and butterflies](img-20200330-wa0001-1.jpg)
+  ![Ayesha’s window box for bees and butterflies](window-box.jpg)
 
 Send questions, comments, or photos of your invertebrate habitats to  [knowingnaturepodcast@gmail.com](mailto:knowingnaturepodcast@gmail.com)
 
