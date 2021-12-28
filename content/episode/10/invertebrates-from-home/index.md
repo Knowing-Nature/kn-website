@@ -116,8 +116,8 @@ found Lucidchart to be the more user friendly of the two.
 
 Made using: [https://](https://www.lucidchart.com/)[www.lucidchart.com](https://www.lucidchart.com/)[/](https://www.lucidchart.com/)
 
-  * ![](example-id-key-1-2.jpeg)
-  * ![](example-id-key-2-2.jpeg)
+  ![](example-id-key-1-2.jpeg)
+  ![](example-id-key-2-2.jpeg)
 
   
 Thi

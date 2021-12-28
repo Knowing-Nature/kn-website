@@ -6,6 +6,7 @@ draft: false
 slug: saving-the-shea-tree-with-agroforestry-in-uganda
 title: Saving the Shea Tree with Agroforestry in Uganda
 episode: 57
+image: sheatree2.jpg
 wordpress_id: 927
 categories:
 - Podcast
@@ -49,9 +50,9 @@ and and produces less smoke.
 time. This allows shea butter to be produced and sold during times of the year
 when other resources are more scarce.
 
-![Shea tree. Photo by Marco Schmidt.](vitellaria_paradoxa_marco-schmidt-2.jpg)
+![Shea tree. Photo by Marco Schmidt.](vitellaria_paradoxa_marco-schmidt.jpg)
 
-![Shea tree caterpillars. Photo by Rik Schuiling.](shea-caterpillars-rik-schuiling-tropcrop-tcs-1.jpg)
+![Shea tree caterpillars. Photo by Rik Schuiling.](shea-caterpillars-rik-schuiling-tropcrop-tcs.jpg)
 
 ## The problems
 
@@ -127,7 +128,7 @@ their revenue from the charcoal trade so they can feel threatened by the
 campaign.
 
 ![](sheatree1.jpg)
-![](sheatree2-1.jpg)
+![](sheatree2.jpg)
 ![](sheatree3.jpg)
 
 ### About charcoal

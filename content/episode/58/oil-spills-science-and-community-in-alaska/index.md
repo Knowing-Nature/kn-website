@@ -99,7 +99,7 @@ communities, so the possibility of an oil spill is very present.
 The experience of the programme also shows participants a range of job
 possibilities in ROV operation, design, and engineering.
 
-![](pwssc_discoveryoutreach.jpg)Students in Yakutat watch the feed of the underwater camera attached to their ROV. Photo by N. Webster
+![Students in Yakutat watch the feed of the underwater camera attached to their ROV. Photo by N. Webster](pwssc_discoveryoutreach.jpg)
 
 ## Summer camps
 
@@ -133,8 +133,8 @@ time for reflection in the programme so participants learn a great deal from
 each other. The range of partner organizations also adds a lot of variety to
 the experience.
 
-  * ![](pwssc_2.jpg)Freshwater monitoring. Copper River stewardship program.
-  * ![](pwssc_1-1.jpg)Measuring young fish. Copper River stewardship program.
+  ![Freshwater monitoring. Copper River stewardship program.](pwssc_2.jpg)
+  ![Measuring young fish. Copper River stewardship program.](pwssc_1.jpg)
 
 ## National Ocean Sciences Bowl (NOSB)
 
@@ -143,13 +143,13 @@ the experience.
   * Alaska Tsunami bowl has the added challenge of requiring a research paper and 15 minute presentation
 
 [More about NOSB](https://pwssc.org/education/national-ocean-sciences-bowl/) \- Prince William Sound Science Centre  
-[National Ocean Sciences Bowl ](http://nosb.org/)\- NOSB.org
+[National Ocean Sciences Bowl](http://nosb.org/) \- NOSB.org
 
 ## Further reading on topics discussed
 
 ### Oils spills and wildlife
 
-[How does oil impact marine life? ](https://oceanservice.noaa.gov/facts/oilimpacts.html)\- National Oceanic and Atmospheric Administration  
+[How does oil impact marine life?](https://oceanservice.noaa.gov/facts/oilimpacts.html) \- National Oceanic and Atmospheric Administration  
   
 [Oil spill effects and activities](https://www.operations.amsa.gov.au/kids-and-teachers-resources/kids/teachers/index.html) \- Australian Maritime Safety Authority: Kids
 
@@ -157,9 +157,7 @@ the experience.
 
 [American Scandal podcast: Exxon ](https://wondery.com/shows/american-scandal/episode/5678-exxon-valdez-oil-meets-water/)\- Wondery  
   
-[Remembering the _Exxon Valdez_ oil spill](https://www.theatlantic.com/photo/2014/03/remembering-the-exxon-valdez-oil-spill/100703/) \- The Atlantic  
+[Remembering the _Exxon Valdez_ oil spill](https://www.theatlantic.com/photo/2014/03/remembering-the-exxon-valdez-oil-spill/100703/) \- _The Atlantic_  
   
-[Wounded Wilderness: The _Exxon Valdez_ Oil Spill 30 Years Later](https://www.hakaimagazine.com/news/wounded-wilderness-the-exxon-valdez-oil-spill-30-years-later/) \- Hakai magazine
-
-## Related Resources from Knowing Nature
+[Wounded Wilderness: The _Exxon Valdez_ Oil Spill 30 Years Later](https://www.hakaimagazine.com/news/wounded-wilderness-the-exxon-valdez-oil-spill-30-years-later/) \- _Hakai_ magazine
 

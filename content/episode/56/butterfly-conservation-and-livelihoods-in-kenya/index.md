@@ -5,8 +5,8 @@ date: 2021-07-17 17:55:26+00:00
 draft: false
 slug: butterfly-conservation-and-livelihoods-in-kenya
 title: Butterfly conservation and livelihoods in Kenya
+image: butterflyonfinger.jpg
 episode: 56
-# url: /2021/07/17/ep-56-butterfly-conservation-and-livelihoods-in-kenya/
 wordpress_id: 674
 categories:
 - Podcast
@@ -27,7 +27,7 @@ butterflies for export to butterfly displays around the world.
 
 For more information check out the [Kipepeo Butterfly Project website](http://kipepeo.org/).
 
-![](ep56-kipepeo-1.jpg)
+![](kipepeo.jpg)
 
 ### Community relationships with the forest
 

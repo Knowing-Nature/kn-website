@@ -20,7 +20,7 @@ sessions, and get an overview of the huge variety of programmes they offer.
 
 [South London Botanical Institute Website](https://www.slbi.org.uk/)
 
-  * ![](slbi-garden-helen-firminger-059-667x500-1.jpg)Greenhouse entrance to the garden. Display of carnivorous plants on the left.
+  ![Greenhouse entrance to the garden. Display of carnivorous plants on the left.](slbi-garden-helen-firminger-059-667x500-1.jpg)
 
 ## **School sessions**
 
@@ -34,9 +34,9 @@ sessions, and get an overview of the huge variety of programmes they offer.
   * Trails around garden with challenges or questions to be completed in the garden
   * Hunts for leaves/flowers matching a description
 
-  * ![](0dfae6c1-74ce-448a-8213-3ab397a292a4.jpeg)Making a mini-pond
-  * ![](2a478972-2236-4264-8e67-6545fbe3514f.jpeg)Seed planting
-  * ![](f81d5f4b-4b01-47da-9f39-cfb102b92bc3.jpeg)Caring for herbs
+  ![Making a mini-pond](0dfae6c1-74ce-448a-8213-3ab397a292a4.jpeg)
+  ![Seed planting](2a478972-2236-4264-8e67-6545fbe3514f.jpeg)
+  ![Caring for herbs](f81d5f4b-4b01-47da-9f39-cfb102b92bc3.jpeg)
 
 ### Art/Drawing activity in the library
 
@@ -52,7 +52,7 @@ sessions, and get an overview of the huge variety of programmes they offer.
   * Seed features and dispersal methods
   * Flowers and draw/identify parts of flowers
 
-  * ![](fungi-for-all-ages-667x500-1.jpg)Fungi ID microscope workshop
+  ![Fungi ID microscope workshop](fungi-for-all-ages-667x500.jpg)
 
 ## Family event - **Apple day**
 
@@ -60,9 +60,9 @@ sessions, and get an overview of the huge variety of programmes they offer.
   * Apple prints with cut apples and paint
   * Apple monsters using natural materials
 
-  * ![](apple-monsters.jpg)Apple Monsters
-  * ![](img_20141010_125114707.jpg)Crypto-zoological specimen
-  * ![](apple-day.jpg)
+  ![Apple Monsters](apple-monsters.jpg)
+  ![Crypto-zoological specimen](img_20141010_125114707.jpg)
+  ![](apple-day.jpg)
 
 ## Guided walks and ethnobotany
 
