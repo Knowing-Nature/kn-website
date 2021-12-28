@@ -1,0 +1,14 @@
+.episode-tag {
+	position: absolute;
+	bottom: var(--card-padding);
+	left: var(--card-padding);
+	background-color: #57A99A;
+	color: white;
+	font-weight: bold;
+	padding: 8px 16px;
+	border-radius: var(--tag-border-radius);
+}
+
+.article-image a {
+	position: relative;
+}

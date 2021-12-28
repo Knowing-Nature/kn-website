@@ -8,9 +8,10 @@ title: Philosophy and the environmental movement
 episode: 55
 image: thinkingwalkingcover.jpg
 wordpress_id: 669
+categories:
+- Podcast
 tags:
 - Philosophy
-- Podcast
 ---
 
 https://mcdn.podbean.com/mf/web/iwkvvz/Ep_55_-_Thinking_while_walking6r1ox.mp3
