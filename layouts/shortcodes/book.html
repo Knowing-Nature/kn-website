@@ -1,0 +1,19 @@
+<div class="book-details">
+	<div class="book-cover">
+		<a href='{{ .Get "publisher-link" }}'><img src='{{ .Get "cover" }}'/></a>
+	</div>
+	<div class="book-details-grid">
+		<div class="book-detail-key">Ages</div>
+			{{ .Get "ages" }}
+		<div class="book-detail-key">Author</div>
+			{{ .Get "author" }}
+		<div class="book-detail-key">Illustrator</div>
+			{{ .Get "illustrator" }}
+		<div class="book-detail-key">Publisher</div>
+			<a class="book-detail-value" href='{{ .Get "publisher-link" }}'>{{ .Get "publisher" }}</a>
+		<div class="book-detail-key">Published</div>
+			{{ .Get "date" | time.Format "2 January 2006" }}
+		<div class="book-detail-key">Length</div>
+			{{ .Get "pages" }} pages
+	</div>
+</div>

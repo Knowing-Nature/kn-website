@@ -12,3 +12,43 @@
 .article-image a {
 	position: relative;
 }
+
+.article-page {
+	.main-article {
+		.article-content {
+			.book-details {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: flex-start;
+
+				padding: 1em;
+				border-radius: var(--tag-border-radius);
+				background-color: var(--accent-color);
+				color: var(--accent-color-text);
+
+				a {
+					color: var(--accent-color-text);
+					text-decoration: underline;
+				}
+
+				.book-cover img {
+					float: left;
+					height: 175px;
+					width: auto;
+				}
+
+				.book-details-grid {
+					display: grid;
+					font-size: 12pt;
+					grid-template-columns: 6em 1fr;
+					gap: 0 15px;
+
+					.book-detail-key {
+						text-align: right;
+						font-weight: bold;
+					}
+				}
+			}
+		}
+	}	
+}

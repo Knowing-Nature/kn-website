@@ -15,13 +15,14 @@ tags:
 - Oceans
 ---
 
-  * Author: Mordicai Gerstein
-  * Illustrator: Mordicai Gerstein
-  * Publisher: Roaring Brook Press
-  * November 21, 2017
-  * 40 Pages 
-  * 5-10 years 
-  * ISBN 9781626725058
+{{<book ages="5–10 years"
+        author="Mordicai Gerstein"
+        illustrator="Mordicai Gerstein"
+        cover="boyandthewhale.jpg"
+        publisher="Roaring Brook Press"
+        publisher-link="https://us.macmillan.com/books/9781626725058/the-boy-and-the-whale"
+        date="2017-11-21"
+        pages="40">}}
 
 ## Curriculum links
 
