@@ -4,13 +4,13 @@ comments: true
 date: 2021-04-05 07:17:17+00:00
 draft: false
 slug: embedding-climate-in-curriculum-and-hope-enhancing-programmes
-title: Journal Club - Climate in curriculum; benefits of hope enhancing programmes
+title: Climate in curriculum; benefits of hope enhancing programmes
 episode: 48
 image: teachthefuture.jpg
 wordpress_id: 554
 categories:
-- Journal club
 - Podcast
+- Journal Club
 tags:
 - Eco-anxiety
 - Education

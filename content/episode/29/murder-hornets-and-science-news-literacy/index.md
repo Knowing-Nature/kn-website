@@ -9,7 +9,7 @@ episode: 29
 wordpress_id: 318
 categories:
 - Podcast
-- Journal club
+- Journal Club
 ---
 
 https://mcdn.podbean.com/mf/web/5xhkas/Ep_29_-_Murder_hornets_and_science_news_literacyajblx.mp3

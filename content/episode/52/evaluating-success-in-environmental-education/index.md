@@ -10,7 +10,7 @@ image: evaluatingsuccess.jpg
 wordpress_id: 615
 categories:
 - Podcast
-- Journal club
+- Journal Club
 tags:
 - Education
 - Evaluation

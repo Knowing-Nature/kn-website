@@ -4,12 +4,12 @@ comments: true
 date: 2020-08-17 08:25:00+00:00
 draft: false
 slug: journal-club-uncertainty-and-the-nature-of-science
-title: "Journal Club: Uncertainty and the nature of science"
+title: Uncertainty and the nature of science
 episode: 27
 wordpress_id: 302
 categories:
-- Journal Club
 - Podcast
+- Journal Club
 tags:
 - Education
 - Science

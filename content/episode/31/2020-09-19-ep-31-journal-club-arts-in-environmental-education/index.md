@@ -3,13 +3,13 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-09-19 07:52:59+00:00
 draft: false
-slug: journal-club-arts-in-environmental-education
-title: Journal club - Arts in environmental education
+slug: arts-in-environmental-education
+title: Arts in environmental education
 episode: 31
 wordpress_id: 336
 categories:
 - Podcast
-- Journal club
+- Journal Club
 tags:
 - Art
 - Pedagogy

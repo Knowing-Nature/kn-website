@@ -3,13 +3,13 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-11-22 11:07:11+00:00
 draft: false
-slug: journal-club-ways-of-knowing
-title: Journal Club - Ways of Knowing
+slug: ways-of-knowing
+title: Ways of Knowing
 episode: 36
 wordpress_id: 379
 categories:
 - Podcast
-- Journal club
+- Journal Club
 tags:
 - Decolonizing
 - Environmental education
