@@ -141,13 +141,13 @@ recipies. Try it:
 
 [Background information on the Great Famine in China](https://www.npr.org/2012/11/10/164732497/a-grim-chronicle-of-chinas-great-famine) \- NPR (10 November, 2012)
 
-[Black absence in green spaces](https://theecologist.org/2019/oct/10/black-absence-green-spaces) \- Opinion piece in the Ecologist by Beth Collier (10 October, 2019
+[Black absence in green spaces](https://theecologist.org/2019/oct/10/black-absence-green-spaces) \- Opinion piece in the Ecologist by Beth Collier (10 October, 2019)
 
 [Balancing the needs of nature and people in an urban park. Discussion with Ken Greenway about topics including foraging and managing it in an urban park.](https://knowingnaturepodcast.wordpress.com/2021/04/19/ep-50-balancing-needs-of-nature-and-people-in-a-cemetery-park/?fbclid=IwAR1gXlh54CYXT2tqdtAbZSyuDyQgTwIk3AJqVmyF7ETvNBTClrRWpeh-rhI) \- Knowing Nature Episode 50
 
 ## More about the book
 
-[Andrea Wang's we](https://andreaywang.com/books/picture-books/watercress/)[bsite page about the book ](https://andreaywang.com/books/picture-books/watercress/)\- AndreaYWang.com
+[Andrea Wang's we](https://andreaywang.com/books/picture-books/watercress/)[bsite page about the book](https://andreaywang.com/books/picture-books/watercress/) \- AndreaYWang.com
 
 [Listen to Andrea Wang talk about the book and how her experiences informed the story. Andrea also provides some discussion prompts and activity ideas.](https://forum.teachingbooks.net/2021/03/andrea-wang-on-watercress/) \- TeachingBooks
 

@@ -18,6 +18,7 @@ We always love to hear ways you make the natural world relevant and exciting in 
 
 * [Email](mailto:knowingnaturepodcast@gmail.com)
 * [Twitter](https://twitter.com/kn_podcast)
+* [YouTube](https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA)
 
 ## Intro/Outro music
 

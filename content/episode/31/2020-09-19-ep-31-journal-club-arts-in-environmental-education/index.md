@@ -6,7 +6,7 @@ draft: false
 slug: arts-in-environmental-education
 title: Arts in environmental education
 episode: 31
-wordpress_id: 336
+music: Gradual_Sunrise
 categories:
 - Podcast
 - Journal Club
@@ -98,12 +98,3 @@ Press. DOI:10.3998/mpub.11649046.21
 Stivaktakis, Stathis & Krevetzakis, Evangelia. (2018). Learning Science
 through the Arts: The Theory and the Educational Possibilities. Journal of
 Advances in Education Research. 3. DOI:10.22606/jaer.2018.31007.
-
-## Questions? Comments?
-
-Send them to: knowingnaturepodcast@gmail.com
-
-Tweet us @kn_podcast
-
-**Music in this episode** : Gradual Sunrise by David Hilowitz
-

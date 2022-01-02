@@ -5,7 +5,8 @@ date: 2020-01-19 16:01:31+00:00
 draft: false
 slug: plants-to-pick-or-not-to-pick
 title: "Plants: To pick or not to pick"
-wordpress_id: 40
+episode: 2
+music: Selfish
 categories:
 - Podcast
 tags:

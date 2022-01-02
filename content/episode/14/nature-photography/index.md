@@ -7,7 +7,7 @@ slug: nature-photography
 title: Nature photography
 image: oak-tree-star-trail_final.jpg
 episode: 14
-wordpress_id: 137
+music: Selfish
 categories:
 - Podcast
 tags:

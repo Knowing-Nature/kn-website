@@ -6,7 +6,7 @@ draft: false
 slug: successful-bug-hunting
 title: Successful bug hunting
 episode: 20
-wordpress_id: 193
+music: Selfish
 categories:
 - Podcast
 tags:
@@ -25,7 +25,7 @@ any outdoor setting.
   * A who’s who of reliable invertebrates to expect. (8:17)
   * Suggestions for how to plan effective lessons incorporating bug hunting. (16:20)
 
-Setting up the space
+## Setting up the space
 
 Choose an area of your school yard which will be relatively undisturbed. Make
 sure there will be enough space for the whole class to hunt at the same time.
@@ -42,7 +42,7 @@ Don’t over design the space. Logs piles which are too rigidity/neatly arranged
 will quickly look like a disaster zone. Consider having a well defined log
 area rather than perfect stacks of logs.
 
-**Log piles**
+### Log piles
 
 Logs 40-60cm long, 10 cm diameter is a good compromise of small enough for
 most kids to look under easily and safely, take a while to break down, not too
@@ -53,7 +53,7 @@ if at all possible, allows kids to spread out.
 Upturned flower pots and coarse wood chip is a good substitute if a log pile
 is not possible.
 
-**Bushes/shrubs**
+### Bushes/shrubs
 
 Can shake branches and catch what falls out on beating trays, old
 sheets/pillow cases, or large pieces of paper. Choose native species which are
@@ -65,7 +65,7 @@ Rose family like roses and bramble are fantastic, but thorny. More a risk to
 nets and equipment than kids once they recognize it. Thornless varieties are
 available.
 
-**Meadow areas**
+### Meadow areas
 
 Wildflower meadow seed mixes are tempting and host many species, but do not
 stand up to 'investigation' by kids. Grasses are more robust to trampling and
@@ -76,27 +76,27 @@ Include yellow rattle, parasitizes grasses and reduces their vigour. Robust
 flowering plants to include: clovers, vetches, buttercups, wild geraniums,
 mints.
 
-Invertebrates to count on
+## Invertebrates to count on
 
-**Ants**
+### Ants
 
   * Follow them back to their nests, or follow them to their aphid herds
   * Look for soldiers, some ant species have specialized guard workers, look for larger ants with wider heads
 
-**Woodlice**
+### Woodlice
 
   * Look for flat vs rounded species, newly moulted woodlice can look almost white
   * Flip them over and look for white patches or spots on the tail end, these are for breathing. Like gills they need to stay moist to exchange oxygen with air.
 
-**Snails and slugs**
+### Snails and slugs
 
   * Can be found under logs and upturned flower pots on sunny days.
   * Snails are great for getting started identifying because there aren’t too many different species and  they can generally be identified by looking at their shells. No microscopes or dissection necessary. 
   * Look for a hole on the side of their head for breathing, this is the pneumostome.
 
-Planning an effective lesson
+## Planning an effective lesson
 
-**Developing appreciation for animals or habitat**
+### Developing appreciation for animals or habitat
 
   * Spending time in the environment and with the animals is what is most important. 
   * Being an interested adult and sharing in the experience is the most important support.
@@ -105,7 +105,7 @@ Planning an effective lesson
   * Range of equipment available but not necessary to use, paper and pencils, camera, field guides
   * Introduction mainly about health and safety, use of equipment, and treatment of animals
 
-**Exploring habitats**
+### Exploring habitats
 
   * Frame looking for invertebrates with concepts about habitats. 
   * Consider collecting from specific habitats/microhabitats and observing in separate containers so they can be compared
@@ -113,7 +113,7 @@ Planning an effective lesson
   * Point out different locations which might be good for exploration
   * Steer discussions towards where animals were found and what they might have been doing there
 
-**Classification**
+### Classification
 
   * Frame looking for invertebrates with what types of invertebrates they might find
   * Sort or isolate animals collected for more detailed observation
@@ -121,7 +121,7 @@ Planning an effective lesson
   * Role focus during collection becomes again monitoring H&S, animal welfare
   * Once invertebrate have been collected, refocus on observing invertebrates and applying classification skills/knowledge
 
-**In general**
+### In general
 
   * May be helpful to refocus the group between collecting and observing
     * Recap classification and invertebrate orders, key characteristics

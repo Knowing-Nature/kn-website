@@ -6,7 +6,7 @@ draft: false
 slug: gloucestershire-wildlife-trust
 title: Gloucestershire Wildlife Trust
 episode: 39
-wordpress_id: 416
+music: Marble_Machine
 categories:
 - Podcast
 ---
@@ -14,11 +14,11 @@ categories:
 {{<audio src="https://mcdn.podbean.com/mf/web/t973qs/Ep_39_-_Gloucestershire_wildlife_trust6ce02.mp3" >}}
 
 An interview with Lorna Fox - Head of Engagement and Learning at
-Gloucestershire wildlife trust
+Gloucestershire Wildlife Trust
 
-## About Gloucestershire wildlife trust
+## About Gloucestershire Wildlife Trust
 
-  * Manages around 60 sites in Gloucestershire, including Sites of Special Scientific INterest, and some Iron Age archaeological sites.
+  * Manages around 60 sites in Gloucestershire, including Sites of Special Scientific Interest, and some Iron Age archaeological sites.
   * Most sites are very wild and do not have a visitor centre, but are beautiful and environmentally significant sites.
   * Crickley Hill and Greystones Farm are Gateway sites, which feature more facilities like visitors centres and cafes.
 
@@ -28,10 +28,10 @@ Find out more at the [Gloucestershire Wildlife Trust website](https://www.glouce
 
 More details can be found on their [Learning pages. ](https://www.gloucestershirewildlifetrust.co.uk/learning)
 
-#### Minibeast Detectives/Scientists
+### Minibeast Detectives/Scientists
 
 Popular with classes of all ages and families. Particularly popular with Early
-Years - KS1 (Age 3-7)
+Years - KS1 (Age 3–7)
 
 Format of the session lends itself to being informal and open, or more formal.
 
@@ -42,7 +42,7 @@ Individuals can participate in the session in ways which suit them.
 
 Simple but effective equipment, facilitated by knowledgeable staff.
 
-#### Iron age experience
+### Iron age experience
 
   * Bookable by schools at real Iron Age site.
   * Half or whole day experiences in reconstruction of the settlement
@@ -52,7 +52,7 @@ Simple but effective equipment, facilitated by knowledgeable staff.
   * Much more structured than Minibeast Detective because of how busy the day is.
   * Programme is still booked in winter months, when bookings for other sessions are low.
 
-#### Restore our future
+### Restore our future
 
 We know that single visits can be great experiences which support learning.
 However these single experiences are not well linked to behaviour or attitude
@@ -66,5 +66,7 @@ spaces.
   * Aim is for partnerships to take place over a number of years so the wildlife trust can really support the embedding of a school culture with strong link to nature and the environment.
   * Length of partnership is important to ensure it is bedded in and not dependant on a single teacher or administrator’s enthusiasm.
 
-Gloucestershire schools interested in the programme should contact Gloucestershire Wildlife trust at: [info@gloucestershirewildlifetrust.co.uk](mailto:info@gloucestershirewildlifetrust.co.uk)Or contact Lorna Fox directly at: lorna.fox@gloucestershirewildlifetrust.co.uk
+Gloucestershire schools interested in the programme should contact Gloucestershire Wildlife Trust at: info@gloucestershirewildlifetrust.co.uk
+
+Or contact Lorna Fox directly at: lorna.fox@gloucestershirewildlifetrust.co.uk
 

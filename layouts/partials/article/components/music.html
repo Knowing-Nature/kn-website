@@ -1,0 +1,9 @@
+<div class="music">
+{{ if eq .Params.music "Gradual_Sunrise" }}
+  Music used in this episode: "<a href='https://freemusicarchive.org/music/David_Hilowitz/Gradual_Sunrise/David_Hilowitz_-_Film_Cue_179_-_Gradual_Sunrise'>Gradual Sunrise</a>" by David Hilowitz
+{{ else if eq .Params.music "Selfish" }}
+  Music used in this episode: "<a href='https://freemusicarchive.org/music/Derek_Clegg/Good_Graces/Derek_Clegg_-_Good_Graces_-_10_Selfish_1829'>Selfish</a>" by Derek Clegg
+{{ else if eq .Params.music "Marble_Machine" }}
+  Music used in this episode: "<a href='https://wintergatan.net'>Marble Machine</a>" by Wintergatan
+{{ end }}
+</div>

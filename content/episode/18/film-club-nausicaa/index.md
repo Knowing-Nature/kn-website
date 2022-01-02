@@ -6,7 +6,7 @@ draft: false
 slug: film-club-nausicaa
 title: Film club – Nausicaa
 episode: 18
-wordpress_id: 181
+music: Selfish
 categories:
 - Podcast
 - Film club

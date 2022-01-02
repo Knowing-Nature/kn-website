@@ -6,7 +6,7 @@ draft: false
 slug: film-club-arachnophobia
 title: Film Club - Arachnophobia
 episode: 34
-wordpress_id: 365
+music: Gradual_Sunrise
 categories:
 - Podcast
 - Film club
@@ -15,7 +15,6 @@ tags:
 ---
 
 {{<audio src="https://mcdn.podbean.com/mf/web/phvfr6/Ep_34_-Film_Club-_Arachnophobia60wtq.mp3" >}}
-{{<audio src="" >}}
 
 Arachnophobia (1990) Directed by Frank Marshall
 
@@ -84,12 +83,3 @@ knowledge of spider behaviour is necessary to find and destroy the nest.
   * Caring about the human impact of science
 
 [The making of Arachnophobia](https://www.youtube.com/watch?v=fmT913TXK3I&t=1079s&ab_channel=dvdmc7) \- YouTube video
-
-#### **GET IN TOUCH WITH US!**
-
-  * email – knowingnaturepodcast@gmail.com
-  * Twitter: @KN_podcast
-  * [Knowing Nature on YouTube](https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA)
-
-**Music in this episode** – Gradual Sunrise by David Hilowitz
-

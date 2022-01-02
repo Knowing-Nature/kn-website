@@ -6,7 +6,7 @@ draft: false
 slug: murder-hornets-and-science-news-literacy
 title: '"Murder hornets" and science news literacy'
 episode: 29
-wordpress_id: 318
+music: Selfish
 categories:
 - Podcast
 - Journal Club

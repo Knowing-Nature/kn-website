@@ -7,7 +7,7 @@ slug: philosophy-and-the-environmental-movement
 title: Philosophy and the environmental movement
 episode: 55
 image: thinkingwalkingcover.jpg
-wordpress_id: 669
+music: Marble_Machine
 categories:
 - Podcast
 tags:

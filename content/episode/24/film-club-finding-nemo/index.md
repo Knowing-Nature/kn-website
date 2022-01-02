@@ -3,13 +3,15 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-08-08 10:15:00+00:00
 draft: false
-slug: film-club-finding-nemo
-title: Film Club - Finding Nemo
+slug: finding-nemo
+title: Finding Nemo
 episode: 24
-wordpress_id: 281
+music: Selfish
 categories:
 - Podcast
 - Film club
+tags:
+- Oceans
 ---
 
 {{<audio src="https://mcdn.podbean.com/mf/web/b25q5b/Ep_24_-Film_club-_Finding_Nemo91nsk.mp3" >}}
@@ -35,7 +37,7 @@ What the film did well
   * Gill’s trauma in being taken from the ocean and failed attempts to escape
   * Didn’t address how this can impact whole ecosystems and continued pressure can harm survival of species
 
-TMilitz, TA and Foale, S. The “Nemo Effect”: Perception and reality of _Finding Nemo_ 's impact on the marine aquarium fisheries. _Fish Fish_. 2017; 18: 596– 606. doi: [10.1111/faf.12202](https://doi.org/10.1111/faf.12202).
+TMilitz, TA and Foale, S. The “Nemo Effect”: Perception and reality of _Finding Nemo_'s impact on the marine aquarium fisheries. _Fish Fish_. 2017; 18: 596– 606. doi: [10.1111/faf.12202](https://doi.org/10.1111/faf.12202).
 
 **Positive depiction of sharks** (mostly)
 

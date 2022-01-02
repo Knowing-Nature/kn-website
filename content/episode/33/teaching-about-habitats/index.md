@@ -6,7 +6,7 @@ draft: false
 slug: teaching-about-habitats
 title: Teaching about habitats
 episode: 33
-wordpress_id: 350
+music: Gradual_Sunrise
 categories:
 - Podcast
 ---
@@ -114,12 +114,4 @@ Take advantage of the opportunities presented by outdoor venues
   * Look for how parts of the habitat relate to others.
   * Investigate details which are more difficult in classroom settings such as the character and behaviour of animals.
   * Examine how habitat margins blend into each other
-
-#### Get in touch with us!
-
-  * email – knowingnaturepodcast@gmail.com
-  * Twitter: @KN_podcast
-  * [Knowing Nature on YouTube](https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA)
-
-**Music in this episode  **– Gradual Sunrise by David Hilowitz
 

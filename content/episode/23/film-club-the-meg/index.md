@@ -3,13 +3,13 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-08-01 08:55:10+00:00
 draft: false
-slug: film-club-the-meg
-title: Film Club - The Meg
+slug: the-meg
+title: The Meg
 episode: 23
-wordpress_id: 208
+music: Selfish
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Sharks
 ---

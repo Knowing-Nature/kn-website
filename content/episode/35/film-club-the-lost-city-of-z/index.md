@@ -6,7 +6,7 @@ draft: false
 slug: film-club-the-lost-city-of-z
 title: Film Club - The Lost City of Z
 episode: 35
-wordpress_id: 369
+music: Gradual_Sunrise
 categories:
 - Podcast
 - Film club
@@ -123,12 +123,3 @@ series of expeditions to find what he has called The Lost City of Z.
   * Does little to challenge Fawcett’s exclusion of his wife from his expeditions
   * Contemporary with Marianne North, who went on similar expeditions on her own
     * [About Marianne North ](https://www.botanicalartandartists.com/about-marianne-north.html)\- BotanicalArtAndArtists.com 
-
-#### **GET IN TOUCH WITH US!**
-
-  * email – knowingnaturepodcast@gmail.com
-  * Twitter: @KN_podcast
-  * [Knowing Nature on YouTube](https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA)
-
-**Music in this episode** – Gradual Sunrise by David Hilowitz
-

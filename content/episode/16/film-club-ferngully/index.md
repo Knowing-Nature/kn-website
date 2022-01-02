@@ -3,11 +3,10 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-05-30 08:50:59+00:00
 draft: false
-slug: episode-16-film-club-ferngully
-title: Episode 16 - Film club - Ferngully
-type: post
-url: /2020/05/30/episode-16-film-club-ferngully/
-wordpress_id: 172
+slug: ferngully
+title: Ferngully
+episode: 16
+music: Selfish
 categories:
 - Podcast
 - Film club
@@ -15,8 +14,7 @@ tags:
 - Deforestation
 ---
 
-https://knowingnature.podbean.com/mf/play/t1i2qq/Ep_16-Film_club-
-_Ferngully_654jh.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/t1i2qq/Ep_16-Film_club-_Ferngully_654jh.mp3">}}
 
 Discussion about environmental and conservation themes in the film Ferngully.
 Film recommended for ages 5-12.

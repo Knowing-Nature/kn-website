@@ -6,7 +6,7 @@ draft: false
 slug: ways-of-knowing
 title: Ways of Knowing
 episode: 36
-wordpress_id: 379
+music: Gradual_Sunrise
 categories:
 - Podcast
 - Journal Club
@@ -24,7 +24,7 @@ Indigenous, and Neo-indigenous ways of knowing, to hopefully offer insights to
 science educators. Better understanding of these ways of knowing could help
 build bridges between our knowledge systems and other ways of knowing.
 
-#### Article Discussed
+## Article Discussed
 
 Aikenhead, G.S., Ogawa, M. (2007). Indigenous knowledge and science revisited.
 _Cultural Studies of Science Education._ 2, 539–620.
@@ -44,7 +44,7 @@ _Cultural Studies of Science Education._ 2, 539–620.
   * **Influenced by positivism**
     * A system of thought which attempts to produce a science free from any worldview or ideology. Emphasis is on inductive and deductive logic applied impartially to theory-neutral observations. Making use of empirical and experimental methods. The thinking being that this produces objective, value-free, universal, secure knowledge of nature.  
 
-## **Indigenous ways of knowing**
+## Indigenous ways of knowing
 
   * **Tend not to make use of dichotomies.  **
 
@@ -71,7 +71,7 @@ _Cultural Studies of Science Education._ 2, 539–620.
   * **Circular/Cyclical sense of time.**
     * Embraces cycles and patterns. Time is dynamic but is not a linear progression.
 
-## **Neo-indigenous ways of knowing**
+## Neo-indigenous ways of knowing**
 
 The authors identify neo-indigenous cultures as
 
@@ -116,8 +116,7 @@ environment they inhabit.
 
 ## Discussion Notes
 
-#### **Have you seen or encountered examples of different ways of
-understanding the world?**
+### Have you seen or encountered examples of different ways of understanding the world?
 
   * **Ways of dealing with death and grief**
     * [End of life care: The importance of culture and ethnicity](https://www.issuelab.org/resources/17334/17334.pdf)
@@ -152,8 +151,8 @@ solely relying on this may lead to developing misconceptions.
       * [My octopus teacher - Netflix](https://www.netflix.com/gb/title/81045007)
       * [The octopus in my house - BBC ](https://www.newstatesman.com/the-octopus-in-my-house-bbc-two-review)
 
-#### **What do you already do, or have done, which could be adapted to these
-different paradigms?**
+### Adapting to different paradigms
+What do you already do, or have done, which could be adapted to these different paradigms?
 
   * **Incorporate more art into environmental communication**
 
@@ -170,12 +169,4 @@ different paradigms?**
   * **Rethink dichotomies**
     * Rethinking person/animal dichotomy might help with building respect
     * Similarly rethinking the animate/inanimate dichotomy might help people have greater respect for the environments they depend on
-
-#### **GET IN TOUCH WITH US!**
-
-  * email – knowingnaturepodcast@gmail.com
-  * Twitter: @KN_podcast
-  * [Knowing Nature on YouTube](https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA)
-
-**Music in this episode  **– Gradual Sunrise by David Hilowitz
 

@@ -6,7 +6,7 @@ draft: false
 slug: the-rubbish-episode
 title: The rubbish episode
 episode: 3
-wordpress_id: 47
+music: Selfish
 categories:
 - Podcast
 tags:

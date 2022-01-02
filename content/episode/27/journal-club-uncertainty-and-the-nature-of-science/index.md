@@ -6,7 +6,7 @@ draft: false
 slug: journal-club-uncertainty-and-the-nature-of-science
 title: Uncertainty and the nature of science
 episode: 27
-wordpress_id: 302
+music: Selfish
 categories:
 - Podcast
 - Journal Club

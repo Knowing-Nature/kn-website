@@ -7,7 +7,7 @@ slug: embedding-climate-in-curriculum-and-hope-enhancing-programmes
 title: Climate in curriculum; benefits of hope enhancing programmes
 episode: 48
 image: teachthefuture.jpg
-wordpress_id: 554
+music: Marble_Machine
 categories:
 - Podcast
 - Journal Club

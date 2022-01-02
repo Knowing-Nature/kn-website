@@ -3,13 +3,13 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-07-18 09:10:54+00:00
 draft: false
-slug: film-club-jurassic-park
-title: Film Club - Jurassic Park
+slug: jurassic-park
+title: Jurassic Park
 episode: 21
-wordpress_id: 198
+music: Selfish
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Dinosaurs
 ---

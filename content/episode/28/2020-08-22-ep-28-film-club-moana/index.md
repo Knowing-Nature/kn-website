@@ -3,11 +3,11 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-08-22 07:45:00+00:00
 draft: false
-slug: film-club-moana
-title: "Film Club: Moana"
+slug: moana
+title: Moana
 episode: 28
 image: moana.jpg
-wordpress_id: 309
+music: Selfish
 categories:
 - Film club
 - Podcast
@@ -26,7 +26,7 @@ You may want to watch the film first and think about:
   * How does the movie make you feel about the ocean? How does it give you that feeling?
   * Who, if anyone, is the villain of the movie?
 
-## **What the film did well**
+## What the film did well
 
 **Accurate depiction of ecology and geology**
 
@@ -87,7 +87,7 @@ You may want to watch the film first and think about:
   * Even in the Land of Monsters, part of what makes the scene magical is the perspective on the ocean
   * The ocean's draw comes from the vast size, horizon, peace, danger
 
-## **What the film missed the mark on**
+## Where the film missed the mark
 
 **Perspective is very human-centric**
 
@@ -99,7 +99,7 @@ You may want to watch the film first and think about:
   * Hesitant about whether the world can support moving to new islands forever
   * Surely there are only so many islands Maui can pull from the ocean
 
-## **Other thoughts**
+## Other thoughts
 
 **Gaia hypothesis**
 
@@ -107,7 +107,7 @@ Living things depend on and interact with inorganic parts of the environment,
 creating a self regulating system. This is similar to the way in which
 predator-prey relationships form self-regulating systems.
 
-Wikipedia entry - <https://en.wikipedia.org/wiki/Gaia_hypothesis>
+You can learn more at [Wikipedia(https://en.wikipedia.org/wiki/Gaia_hypothesis).
 
   * The ocean represents the inorganic parts of the ecosystem, nudging humans restore balance by returning the Heart
 

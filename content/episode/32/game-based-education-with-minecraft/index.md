@@ -6,6 +6,7 @@ draft: false
 slug: game-based-education-with-minecraft
 title: Game-based education with Minecraft
 episode: 32
+music: Gradual_Sunrise
 type: post
 url: /2020/09/26/ep-32-game-based-education-with-minecraft/
 wordpress_id: 342
@@ -98,6 +99,4 @@ And the podcast here:
   * email - knowingnaturepodcast@gmail.com
   * Twitter: @KN_podcast
   * [Knowing Nature on YouTube](https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA)
-
-**Music in this episode** \- Gradual Sunrise by David Hilowitz
 

@@ -6,6 +6,7 @@ draft: false
 slug: ocean-school
 title: Ocean school
 episode: 38
+music: Gradual_Sunrise
 image: ocean-school.png
 wordpress_id: 405
 categories:
@@ -51,12 +52,4 @@ home, as well as a preview of the more in-depth resources which are also
 available.
 
 [Ocean school - Learn from home](https://help.oceanschool.nfb.ca/learn-from-home)
-
-#### **GET IN TOUCH WITH US!**
-
-  * email: knowingnaturepodcast@gmail.com
-  * Twitter: @KN_podcast
-  * [Knowing Nature on YouTube](https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA)
-
-**Music in this episode** – Gradual Sunrise by David Hilowitz
 
