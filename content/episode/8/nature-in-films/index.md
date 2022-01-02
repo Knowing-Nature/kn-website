@@ -19,7 +19,7 @@ tags:
 - Tourism
 ---
 
-https://knowingnature.podbean.com/mf/play/pi3gmd/Ep_8_-_Nature_in_film.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/pi3gmd/Ep_8_-_Nature_in_film.mp3" >}}
 
 In this episode we explore how nature is depicted in films and share ideas for
 using film to explore themes in ecology and conservation.

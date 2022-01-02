@@ -16,7 +16,7 @@ tags:
 - Terrariums
 ---
 
-https://knowingnature.podbean.com/mf/play/9ws3qh/Ep_12_-_Plants_at_home.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/9ws3qh/Ep_12_-_Plants_at_home.mp3" >}}
 
 While were all stuck at home its a great time to get to know your plants a bit
 better. Take this time to get on top of those house plant care tasks. This can

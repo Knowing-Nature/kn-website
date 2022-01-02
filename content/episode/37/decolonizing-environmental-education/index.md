@@ -14,7 +14,7 @@ tags:
 - Pedagogy
 ---
 
-https://mcdn.podbean.com/mf/web/piwfup/Ep_37_-_Decolonizing_environmental_education73tp5.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/piwfup/Ep_37_-_Decolonizing_environmental_education73tp5.mp3" >}}
 
 ## How does environmental education reproduce colonial structures and
 mindsets?

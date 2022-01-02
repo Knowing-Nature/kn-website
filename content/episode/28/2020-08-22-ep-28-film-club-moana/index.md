@@ -16,7 +16,7 @@ tags:
 - Ways of knowing
 ---
 
-https://mcdn.podbean.com/mf/web/8gzb3n/Ep_28_-Film_club-_Moanaanam4.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/8gzb3n/Ep_28_-Film_club-_Moanaanam4.mp3" >}}
 
 Discussion about environmental themes in the 2016 Disney film, Moana. Directed
 by Ron Clements and John Musker.

@@ -17,7 +17,7 @@ tags:
 - Science
 ---
 
-https://mcdn.podbean.com/mf/web/mgqby7/Ep_54_-_Bumblebees_and_citizen_scienceagp4f.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/mgqby7/Ep_54_-_Bumblebees_and_citizen_scienceagp4f.mp3" >}}
 
 Podcast interview with Dr. Richard Comont from the Bumblebee Conservation
 Trust about the citizen science projects they are involved in. He tells us

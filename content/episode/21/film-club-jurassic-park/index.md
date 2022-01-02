@@ -14,7 +14,7 @@ tags:
 - Dinosaurs
 ---
 
-https://knowingnature.podbean.com/mf/play/ltpnab/Ep_21_-Film_Club-_Jurassic_Park_6ne79.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/ltpnab/Ep_21_-Film_Club-_Jurassic_Park_6ne79.mp3" >}}
 
 Discussion of the 1993 classic of palaeontology, Jurassic Park, directed by
 Steven Spielberg. Based on the book by Michael Crichton. Guests on this

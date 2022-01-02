@@ -18,7 +18,7 @@ tags:
 - Pedagogy
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/93au39/Ep_58_-_Oil_spills_science_and_community_in_Alaska6cef0.mp3" caption="your caption" >}}
+{{<audio src="https://mcdn.podbean.com/mf/web/93au39/Ep_58_-_Oil_spills_science_and_community_in_Alaska6cef0.mp3" >}}
 
 Discussion about environmental education in Cordova, Alaska. How the programs
 at the Prince William Sound Science Centre address the legacy of the Exxon

@@ -18,7 +18,7 @@ tags:
 - Sustainability
 ---
 
-https://mcdn.podbean.com/mf/web/tz9ytj/Ep_53_-Film_Club-_Seaspiracyaofle.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/tz9ytj/Ep_53_-Film_Club-_Seaspiracyaofle.mp3" >}}
 
 Discussion with Rosie and Cristina about the 2021 documentary Seaspiracy. We
 discuss its successes and failings as a piece of science communication or

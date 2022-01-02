@@ -18,7 +18,7 @@ tags:
 - Farming
 ---
 
-https://mcdn.podbean.com/mf/web/8td8ht/Ep_56_-_Kipepeo_Butterfly_Projecta336y.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/8td8ht/Ep_56_-_Kipepeo_Butterfly_Projecta336y.mp3" >}}
 
 Interview with the manager of the Kipepeo Butterfly Project, a conservation
 initiative manged in part by the National Museum of Kenya. The project works

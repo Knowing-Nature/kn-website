@@ -19,7 +19,7 @@ tags:
 - Worms
 ---
 
-https://knowingnature.podbean.com/mf/play/p5fy7a/Ep_10b_-_Invertebrates_in_our_homes.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/p5fy7a/Ep_10b_-_Invertebrates_in_our_homes.mp3" >}}
 
 A short add-on to our last episode. I asked some friends to share the homes
 they're created for invertebrates, and tell us about how they put the habitats

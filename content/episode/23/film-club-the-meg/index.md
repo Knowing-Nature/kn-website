@@ -14,7 +14,7 @@ tags:
 - Sharks
 ---
 
-https://mcdn.podbean.com/mf/web/u232zc/ep_23_-film_club-_the_meg80g9g.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/u232zc/ep_23_-film_club-_the_meg80g9g.mp3" >}}
 
 Discussion about the 2018 film The Meg, directed by Jon Turtletaub.
 

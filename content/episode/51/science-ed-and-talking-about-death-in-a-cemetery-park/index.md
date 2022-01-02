@@ -12,7 +12,7 @@ categories:
 - Podcast
 ---
 
-https://mcdn.podbean.com/mf/web/t78jad/Ep_51_-_Rocks_erosion_and_decomposition_in_a_cemetery_park7cu3g.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/t78jad/Ep_51_-_Rocks_erosion_and_decomposition_in_a_cemetery_park7cu3g.mp3" >}}
 
 Interview with Dimuthu about the education programme at the Soanes Centre in
 Tower Hamlets Cemetery park. Dim walks us through a few of the sessions he

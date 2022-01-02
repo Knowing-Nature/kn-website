@@ -17,7 +17,7 @@ tags:
 - Spiders
 ---
 
-https://knowingnature.podbean.com/mf/play/a6j8tm/Ep_11_-_Spiders_at_home.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/a6j8tm/Ep_11_-_Spiders_at_home.mp3" >}}
 
 This episode we continue the invertebrate theme but focusing on spiders.
 

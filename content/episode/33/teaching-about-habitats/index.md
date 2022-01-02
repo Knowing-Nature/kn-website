@@ -11,7 +11,7 @@ categories:
 - Podcast
 ---
 
-https://mcdn.podbean.com/mf/web/zrmg7e/Ep_33_-_Teaching_about_habitats8a4l4.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/zrmg7e/Ep_33_-_Teaching_about_habitats8a4l4.mp3" >}}
 
 ### **What is a habitat?**
 

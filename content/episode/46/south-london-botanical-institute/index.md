@@ -12,7 +12,7 @@ categories:
 - Podcast
 ---
 
-https://mcdn.podbean.com/mf/web/w3t5pv/Ep_46_-_South_London_Botanical_Instituteatb6u.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/w3t5pv/Ep_46_-_South_London_Botanical_Instituteatb6u.mp3" >}}
 
 Interview with Sarah Webley, Education and Outreach Coordinator at the South
 London Botanical Institute. We discuss how they structure their school

@@ -13,7 +13,7 @@ tags:
 - News
 ---
 
-https://knowingnature.podbean.com/mf/play/q7u8yi/Ep_7_-_2019_Nature_news.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/q7u8yi/Ep_7_-_2019_Nature_news.mp3" >}}
 
 Space News
 

@@ -17,7 +17,7 @@ tags:
 - Film
 ---
 
-https://mcdn.podbean.com/mf/web/uvmun7/Ep_45_-Film_Club-_Arrival5zx2v.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/uvmun7/Ep_45_-Film_Club-_Arrival5zx2v.mp3" >}}
 
 When gigantic spaceships touchdown in 12 locations around the world. Linguist
 Louise Banks is approached to lead a team attempting to find a way to

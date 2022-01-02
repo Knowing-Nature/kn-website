@@ -13,7 +13,7 @@ categories:
 - Podcast
 ---
 
-https://mcdn.podbean.com/mf/web/rafwu8/Ep_32_-_Game-based_education_with_Minecraft87j4i.mp3
+{{<audio src="https://mcdn.podbean.com/mf/web/rafwu8/Ep_32_-_Game-based_education_with_Minecraft87j4i.mp3" >}}
 
 An interview with Sarah Elliott, teacher at the Royal Ontario Museum (ROM),
 about using Minecraft for remote engagement with students.

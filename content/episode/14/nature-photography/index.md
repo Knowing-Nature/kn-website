@@ -17,7 +17,7 @@ tags:
 - Photography
 ---
 
-https://knowingnature.podbean.com/mf/play/ki4g4z/Ep14-Naturephotography9roy2.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/ki4g4z/Ep14-Naturephotography9roy2.mp3" >}}
 
 This episode we are joined by environmental educators Maggie and Paul to talk
 about photography. We share tips and experiences using cameras and Paul and

@@ -13,7 +13,7 @@ tags:
 - Invertebrates
 ---
 
-https://knowingnature.podbean.com/mf/play/pbii89/Ep_10_-_Invertebrates_from_home.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/pbii89/Ep_10_-_Invertebrates_from_home.mp3" >}}
 
 More ideas for engaging with nature while we’re all stuck indoors. This
 episode we look at how to get started studying invertebrate from the comfort
