@@ -15,13 +15,14 @@ tags:
 - Plants
 ---
 
-  * Author: Andrea Wang
-  * Illustrator: Jason Chin
-  * Publisher: Neal Porter Books
-  * Mar 30, 2021 
-  * 32 Pages 
-  * 4-8 years 
-  * ISBN 9780823446247
+{{<book ages="4–8 years"
+        author="Andrea Wang"
+        illustrator="Jason Chin"
+        cover="watercress-cover.jpg"
+        publisher="Neal Porter Books"
+        publisher-link="https://www.penguinrandomhouse.com/books/648171/watercress-by-by-andrea-wang-illustrated-by-jason-chin/"
+        date="2021-03-30"
+        pages="32">}}
 
 ## Publisher's summary
 
