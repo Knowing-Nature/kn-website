@@ -21,14 +21,4 @@ connect with the natural world.
 
 [More books](https://knowingnaturepodcast.wordpress.com/resources/picture-books/)
 
-### Follow Knowing Nature
-
-Get new content delivered directly to your inbox!
-
-[jetpack_subscription_form show_subscribers_total="false"
-button_on_newline="true" custom_font_size="16px" custom_border_radius="0"
-custom_border_weight="1" custom_padding="15" custom_spacing="10"
-submit_button_classes="has-text-color has-background-color has-background has-
-primary-background-color" email_field_classes=""
-show_only_email_and_button="true"]
 

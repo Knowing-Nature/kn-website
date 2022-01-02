@@ -14,6 +14,9 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# NPM
+/node_modules/
+
 # Hugo
 .hugo_build.lock
 /resources/
