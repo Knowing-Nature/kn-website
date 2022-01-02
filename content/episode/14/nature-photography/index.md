@@ -115,11 +115,4 @@ Tips:
   * Don’t be afraid to make mistakes! The wonderful thing about digital photography is that it is very forgiving to experimentation.
   * Look carefully at your surroundings. 
 
-Share your photos with us, we'd love to see them! Send them in to:
-knowingnaturepodcast@gmail.com
-
-Tweet them to us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+[Share your photos](/about) with us, we'd love to see them!

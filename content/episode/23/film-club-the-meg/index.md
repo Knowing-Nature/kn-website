@@ -68,12 +68,4 @@ James Cameron's Deepsea Challenge (2014)
 
 Deep Blue Sea (1999)
 
-Send in your questions and comments:
-
-Email: knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+Send in your questions and comments. [Get in touch](/about).

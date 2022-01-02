@@ -176,12 +176,4 @@ Teaching tips
     * Excitement will need to come from curiosity to learn details about the habitat
     * If the group is not used to working in natural spaces may be more beneficial and productive to plan for them to be doing more freeform exploration
 
-Questions or comments?
-
-Email : knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+Questions or comments? [Get in touch](/about).

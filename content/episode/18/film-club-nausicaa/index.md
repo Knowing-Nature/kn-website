@@ -64,11 +64,4 @@ issue in a film.
 
 **Books** \- The Drowned world (1962) by J. G. Ballard
 
-What did you think? Did we miss something? Send us your thoughts!
-knowingnaturepodcast@gmail.com
-
-Tweet us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+What did you think? Did we miss something? [Send us your thoughts](/about)!

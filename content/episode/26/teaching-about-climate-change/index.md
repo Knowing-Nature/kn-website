@@ -76,12 +76,4 @@ Asah, Stanley & Bengston, David & Westphal, Lynne. (2012). The Influence of
 Childhood: Operational Pathways to Adulthood Participation in Nature-Based
 Activities. Environment and Behavior. 44. 545-569.
 
-**Send in your questions and comments**!
-
-Email: knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Music: Selfish by Derek Clegg. Attribution-Noncommercial-Share Alike 3.0 US
-License
-
+**Send in your questions and comments**! [Contact us here](/about).

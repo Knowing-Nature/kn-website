@@ -89,12 +89,4 @@ possible. This will reduce the pressure on wild populations.
   * [Vancouver Aquarium](https://www.vanaqua.org/)
   * [Monterey Bay aquarium](https://www.montereybayaquarium.org/)
 
-**Send in your questions and comments**!
-
-Email: knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+**Send in your questions and comments**! [Get in touch here](/about).

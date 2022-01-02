@@ -11,8 +11,7 @@ categories:
 - Podcast
 ---
 
-https://knowingnature.podbean.com/mf/play/8i5c87/Ep19-_Video_games_and_enviro-
-ed_9mjnq.mp3
+{{<audio src="https://knowingnature.podbean.com/mf/play/8i5c87/Ep19-_Video_games_and_enviro-ed_9mjnq.mp3">}}
 
 How games can support engagement **** with nature
 
@@ -94,11 +93,5 @@ concepts, teamwork, or communication skills etc?
 
   * Use developer patch notes as a model for keeping track of learning and ideas. Real world example of professionals acknowledging mistakes and correcting them.
 
-What did you think? Do you have a game recommendation? Send us your thoughts!
-knowingnaturepodcast@gmail.com
-
-Tweet us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
+Do you have a game recommendation? [Send us your thoughts](/about)!
 

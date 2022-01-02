@@ -86,9 +86,4 @@ which act as natural insecticides.
 
   ![Ayesha’s window box for bees and butterflies](window-box.jpg)
 
-Send questions, comments, or photos of your invertebrate habitats to  [knowingnaturepodcast@gmail.com](mailto:knowingnaturepodcast@gmail.com)
-
-Intro/Outro music: Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-
+Send us questions, comments, or photos of your invertebrate habitats!

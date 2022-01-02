@@ -117,7 +117,7 @@ the Birkians develop willing partnerships with the dragons and confronting an
 enemy who has dominated them; using dragons for his own ends against their
 will.
 
-Real world connections
+## Real world connections
 
   * Animals as pets. Is there a difference between ‘domestic’ animals and ‘wild’ animals as pets?
   * Animals in zoos vs. circuses
@@ -134,7 +134,7 @@ pros/cons/feasibility of totally segregating people and wildlife.
   * Conservation in-situ (in the wild) vs. ex-situ (in captivity)
   * Pros and cons of conservation areas which allow access to people.
 
-Papers discussed
+## Papers discussed
 
 Kim, Hyounggon & Richardson, Sarah. (2003). Motion Picture Impacts on
 Destination Images. Annals of Tourism Research. 30. 216-237.
@@ -144,10 +144,4 @@ Prevot, Anne-Caroline & Julliard, Romain & Clayton, Susan. (2014). Historical
 evidence for nature disconnection in a 70-year time series of Disney animated
 films. Public understanding of science (Bristol, England). 24.
 10.1177/0963662513519042.
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 

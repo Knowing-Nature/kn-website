@@ -136,12 +136,5 @@ Questions: Beliefs About Science Guide Responses to Uncertainty in Climate
 Change Risk Communication. Risk analysis : an official publication of the
 Society for Risk Analysis. 32. 992-1002.
 
-Questions? Comments?
-
-Send them to: knowingnaturepodcast@gmail.com
-
-Tweet us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
+Questions? Comments? [Get in touch here](/about).
 

@@ -20,10 +20,3 @@ Another tour through the Mammal hall at the Natural History Museum in London.
 This tour focuses on some of the weird and wonderful mammal orders and their
 reproductive strategies. We end with considerations for designing a tour for a
 general audience.
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-

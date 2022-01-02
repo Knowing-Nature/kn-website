@@ -134,9 +134,4 @@ Made with [https://](https://www.visme.co/)[www.visme.co](https://www.visme.co/)
   * Sometimes the key characteristics aren’t easily visible
     * Very small, internal, genetic differences
 
-Send us questions or comments at [knowingnaturepodcast@gmail.com](mailto:knowingnaturepodcast@gmail.com)
-
-Intro/Outro music: Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-
+Send us questions or comments on our [About Us](/about) page.

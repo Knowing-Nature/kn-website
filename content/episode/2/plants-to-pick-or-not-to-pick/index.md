@@ -91,10 +91,3 @@ wildflower sightings to Plantlife who can put together data from all the
 participants and map the spread of wildflowers across the UK.
 
 Grow your own plants!
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-

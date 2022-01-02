@@ -84,9 +84,4 @@ excellent, low pressure, way of exercising phonics skills. There’s no right or
 wrong answer because you make up your own word!
 
   
-Send us questions or comments at [knowingnaturepodcast@gmail.com](mailto:knowingnaturepodcast@gmail.com)
-
-Intro/Outro music: Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-
+Send us questions or comments on our [About Us](/about) page.

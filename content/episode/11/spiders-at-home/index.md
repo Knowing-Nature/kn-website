@@ -177,7 +177,6 @@ Find more information from
   * British arachnological society: <http://britishspiders.org.uk/>
   * American arachnological society: <http://www.americanarachnology.org/>
 
-Send your questions, comments, or photos of your spider cakes and web sketches to  [knowingnaturepodcast@gmail.com](mailto:knowingnaturepodcast@gmail.com)
-
-Intro/Outro music: Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/) licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+Send us your questions, comments, or photos of your spider cakes and web sketches!
+You can find more on the [About Us](/about) page.
 

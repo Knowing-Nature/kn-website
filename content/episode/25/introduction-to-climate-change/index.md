@@ -104,12 +104,4 @@ Sources for more information
 
 [The Great Big Lesson for Climate and Nature: Live from COP26 ](https://youtu.be/HExapQfulPg)\- AimHi Earth via Youtube
 
-**Send in your questions and comments**!
-
-Email: knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Music: Selfish by Derek Clegg. Attribution-Noncommercial-Share Alike 3.0 US
-License
-
+Questions or comments? [Get in touch](/about)!

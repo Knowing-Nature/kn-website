@@ -72,10 +72,4 @@ will be much more difficult for animals to move to new locations. What will be
 the long term consequences of being cut off from other turtles, porcupines, or
 opossums?
 
-Send us your thoughts on the film to: [knowingnaturepodcast@gmail.com](mailto:knowingnaturepodcast@gmail.com)
-
-Tweet us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+[Send us your thoughts](/about) on the film!

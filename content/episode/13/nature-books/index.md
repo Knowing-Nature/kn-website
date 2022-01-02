@@ -69,9 +69,4 @@ the kapok tree.
 Wonderful story with simple illustrations. Tell the story of a boy growing up
 and the tree which is always there, giving of itself to support him.
 
-Have a book recommendation for us? Send it in to:
-knowingnaturepodcast@gmail.com
-
-Music: Selfish by Derek Clegg. Attribution-Noncommercial-Share Alike 3.0 US
-License
-
+Have a book recommendation for us? [Send it in](/about)!

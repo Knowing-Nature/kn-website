@@ -143,12 +143,4 @@ Planning an effective lesson
     * In hot dry spells log piles can become dry, and their normal residents can move underground. You can cheat by watering the log pile a few hours before use. 
     * Grass and shrubs work well on sunny days and in dry spells, but are not great in wetter conditions. Insects found can be squashed by soggy nets or can drown in trays.
 
-Questions or commments?
-
-Email : knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+Questions or commments? [Get in touch](/about).

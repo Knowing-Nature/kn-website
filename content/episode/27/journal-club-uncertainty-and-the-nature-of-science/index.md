@@ -104,12 +104,4 @@ Retzbach, A., & Maier, M. (2015). Communicating Scientific Uncertainty: Media
 Effects on Public Engagement With Science. Communication Research, 42(3),
 429–456. <https://doi.org/10.1177/0093650214534967>
 
-**Send in your questions and comments**!
-
-Email: knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Music: Selfish by Derek Clegg. Attribution-Noncommercial-Share Alike 3.0 US
-License
-
+Send in your questions and comments! [Get in touch here](/about).

@@ -29,10 +29,3 @@ World: A Theoretical Framework for Empirical Results. _Source: Children, Youth
 and Environments Children and the Natural Environment, and Other Papers
 Children, Youth and Environments_ , _17_ (174), 144–170.
 https://doi.org/10.7721/chilyoutenvi.17.4.0144  
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-

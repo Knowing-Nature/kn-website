@@ -15,23 +15,16 @@ tags:
 
 {{<audio src="https://knowingnature.podbean.com/mf/play/q7u8yi/Ep_7_-_2019_Nature_news.mp3" >}}
 
-Space News
+## Space News
 
   * [Astronomers take first photo of a black hole.](https://www.jpl.nasa.gov/edu/news/2019/4/19/how-scientists-captured-the-first-image-of-a-black-hole/)
 
-Animal news
+## Animal News
 
   * [Deer seen for first time in 30 years](http://www.sci-news.com/biology/silver-backed-chevrotain-07794.html)
   * [Nene no longer listed as endangered by us fish and wildlife service, now just threatened](http://www.honolulumagazine.com/Honolulu-Magazine/July-2019/Meet-the-Guardians-of-the-Nene-Who-Are-Helping-to-Save-Hawaiis-Endangered-Bird/)
   * [Researchers show that rats enjoy playing hide and seek.](https://www.sciencemag.org/news/2019/09/lab-rats-play-hide-and-seek-fun-it-new-study-shows)
 
-Emerging issues
+## Emerging issues
 
 [EPA moving to approve human antibiotics to combat citrus greening](https://www.nature.com/articles/d41586-019-00875-7)
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-

@@ -19,10 +19,3 @@ tags:
 A tour through the Mammal hall at the Natural History Museum in London. This
 tour focuses on teeth and diets. We end with some thoughts on how to structure
 a tour for children and family audiences.
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-

@@ -147,10 +147,5 @@ doors.
 
 [Council for Learning Outside the Classroom](https://www.lotc.org.uk/) \- ‘Plan & Deliver’ and ‘Resources’ pages
 
-Send you questions or comments to: knowingnaturepodcast@gmail.com
-
-Follow us on twitter! @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
+Send us your questions or comments. [Learn more here](/about).
 

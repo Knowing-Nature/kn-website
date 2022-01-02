@@ -17,10 +17,3 @@ tags:
 
 Pollution and garbage. Why they're problems and ideas for engaging with the
 issue.
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-

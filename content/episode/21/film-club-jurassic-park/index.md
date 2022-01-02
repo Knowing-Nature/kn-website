@@ -112,12 +112,4 @@ official wildlife monitoring schemes.
 <https://www.myfossil.org/resources/citizen-science/> \- Fossil citizen
 science project run out of the Florida Museum of Natural History
 
-Questions or comments?
-
-Email : knowingnaturepodcast@gmail.com
-
-Twitter: @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+Questions or comments? [Get in touch](/about).

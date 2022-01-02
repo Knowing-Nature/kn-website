@@ -111,12 +111,4 @@ Wikipedia entry - <https://en.wikipedia.org/wiki/Gaia_hypothesis>
 
   * The ocean represents the inorganic parts of the ecosystem, nudging humans restore balance by returning the Heart
 
-Share your ideas about the movie with us!
-
-Send them in to: knowingnaturepodcast@gmail.com
-
-Tweet them to us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+Share your ideas about the movie with us! [Get in touch](/about).

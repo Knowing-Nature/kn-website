@@ -83,10 +83,5 @@ elements for turning your terrarium into a micro landscape.
 
 Check out: [Serpa Design on Youtube](https://www.youtube.com/user/SerpaDesign) for great tutorials and ideas. 
 
-Send us your photos of what you're growing!
-
-knowingnaturepodcast@gmail.com
-
-Music: Selfish by Derek Clegg. Attribution-Noncommercial-Share Alike 3.0 US
-License
+[Send us photos](/about) of what you're growing!
 

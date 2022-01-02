@@ -87,10 +87,5 @@ know the lives of those who live within the forest and appreciates the beauty
 of the habitat. It's a great reminder to environmental educators that there is
 more than one way to learn about the environment.
 
-Send us your thoughts on the film to: knowingnaturepodcast@gmail.com
-
-Tweet us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
+Send us any thoughts you had on the film! Find out how on the [About Us](/about) page.
 

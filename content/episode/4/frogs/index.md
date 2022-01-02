@@ -17,10 +17,3 @@ tags:
 
 All about frogs! With ideas for engaging with amphibians, including tips for
 raising tadpoles and issues to consider if you want to keep them as pets.
-
-Intro/Outro music:
-
-Selfish by [Derek Clegg](http://freemusicarchive.org/music/Derek_Clegg/)
-
-licensed under a [Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-

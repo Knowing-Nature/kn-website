@@ -177,12 +177,4 @@ perspectives of the sources used in this later article.
 
 [What you need to know about ‘murder hornets’ - Science News for Students](https://www.sciencenewsforstudents.org/article/what-you-need-to-know-about-murder-hornets)
 
-Questions? Comments?
-
-Send them to: knowingnaturepodcast@gmail.com
-
-Tweet us @kn_podcast
-
-Intro/Outro music: Selfish by Derek Clegg. Attribution-Noncommercial-Share
-Alike 3.0 US License
-
+Questions? Comments? [Get in touch](/about).
