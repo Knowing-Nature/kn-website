@@ -3,19 +3,16 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-11-19 19:48:53+00:00
 draft: true
-title: The bug girl
-type: post
-url: /
+title: The Bug Girl
+image: bug-girl-cover.jpg
 wordpress_id: 936
 categories:
-- People and plants
 - Picture books
 tags:
+- People and plants
 - Foraging
 - Plants
 ---
-
-![](bug-girl-cover.jpg)
 
   * Author: Jackie Azúa Kramer
   * Illustrator: Magdalena Mora

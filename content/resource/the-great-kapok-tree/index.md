@@ -5,8 +5,7 @@ date: 2021-10-31 21:56:10+00:00
 draft: false
 slug: the-great-kapok-tree
 title: The Great Kapok Tree
-type: post
-url: /2021/10/31/the-great-kapok-tree/
+image: greatkapoktree-cover.png
 wordpress_id: 918
 categories:
 - Picture books
@@ -18,8 +17,6 @@ tags:
 - Rainforest
 ---
 
-![](greatkapoktree-cover.png)
-
   * Author: Lynne Cherry
   * Illustrator: Lynne Cherry
   * Publisher: Houghton Mifflin Harcourt
@@ -28,7 +25,7 @@ tags:
   * 6-10 years 
   * ISBN 9780590980685
 
-Curriculum links:
+## Curriculum links
 
   * Habitats
   * Needs of living things
@@ -148,19 +145,19 @@ tall trees.
 
 ## Further exploration of themes in the book
 
-#### Economics of deforestation
+### Economics of deforestation
 
 [Amazon deforestation leads to economic boom and bust](https://www.newscientist.com/article/dn17298-amazon-deforestation-leads-to-economic-boom-and-bust/) \- New Scientist
 
 [Why is palm oil so cheap?](https://youtu.be/vvKgnRPThKI) \- Bussiness Insider via Youtube
 
-#### Fighting raindorest deforestation
+### Fighting raindorest deforestation
 
 [Amazonia Undercover: unexpected allies against deforestation. Discussion about the documentary.](https://globalcanopy.org/insights/insight/amazonia-undercover-unexpected-allies-against-deforestation/) \- GlobalCanopy.org  
   
 [The link between healthcare and deforestation on Borneo ](https://www.bbc.co.uk/programmes/b08hnly0)\- BBC - Costing the Earth
 
-#### More in the importance of rainforests
+### More in the importance of rainforests
 
 [Study suggests droughts weaken the Amazon’s capacity to bounce back](https://news.mongabay.com/2021/12/barrage-of-droughts-weakens-amazons-capacity-to-bounce-back-study-finds/) \- Mongabay
 
@@ -172,8 +169,6 @@ tall trees.
 
 ## Tried any activities?
 
-If you've used this book with your class we'd love to hear about it! Photos,
+If you've used this book with your class [we'd love to hear about it](/contact)! Photos,
 stories, comments, or suggestions. We love them all!
-
-## Related resources from Knowing Nature
 

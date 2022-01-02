@@ -4,19 +4,16 @@ comments: true
 date: 2021-12-03 15:07:32+00:00
 draft: true
 title: A Different Pond
-type: post
-url: /
+image: different-pond-cover.jpg
 wordpress_id: 1340
 categories:
-- People and animals
 - Picture books
 tags:
+- People and animals
 - Diversity
 - Fishing
 - Immigration
 ---
-
-![](different-pond-cover.jpg)
 
   * Author: Bao Phi
   * Publisher: Capstone
@@ -24,10 +21,6 @@ tags:
   * 32 pages
   * 5-8 years
   * ISBN: 9781479597468
-
-### Curriculum links
-
-  * 
 
 ## Publisher's summary
 

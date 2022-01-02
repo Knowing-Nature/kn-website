@@ -5,8 +5,7 @@ date: 2021-11-01 16:27:27+00:00
 draft: false
 slug: i-wish-you-knew
 title: I Wish You Knew
-type: post
-url: /2021/11/01/i-wish-you-knew/
+image: wishyouknew-cover.jpg
 wordpress_id: 862
 categories:
 - Picture books
@@ -17,8 +16,6 @@ tags:
 - Mental health
 ---
 
-![](wishyouknew-cover-2.jpg)
-
   * Author: Jackie Azúa Kramer
   * Illustrator: Magdalena Mora
   * Publisher: Roaring Brook Press
@@ -28,23 +25,21 @@ tags:
   * ISBN 978-1250226303 (I wish you knew)
   * ISBN 978-1250814784 (Ojalá Supieras)
 
-### Curriculum links
+## Curriculum links
 
   * Personal, social, health and economic education (PSHE)
   * Class community building
 
 ## Publisher's summary
 
-When Estrella's father has to leave because  
- _he wasn't born here, like her_ ,  
-She misses him. And she wishes people knew the way it affects her. At home. At
+When Estrella's father has to leave because _he wasn't born here, like her_,
+she misses him. And she wishes people knew the way it affects her. At home. At
 school.  
  _Always_.
 
 But a school wrapped around a hundred-year-old oak tree is the perfect place
-to share and listen.  
-Some kids miss family, some kids are hungry, some kids live in shelters.  
-But nobody is alone.
+to share and listen. Some kids miss family, some kids are hungry, some kids live
+in shelters. But nobody is alone.
 
 A story about deportation, divided families, and the importance of community
 in the midst of uncertainty.
@@ -96,7 +91,7 @@ will bloom.
 
 ## Discussion ideas
 
-****S** haring circles** \- This is a way of talking through topics or
+**Sharing circles** \- This is a way of talking through topics or
 resolving problems. See the links below for more details on how to use sharing
 circles.
 
@@ -150,17 +145,17 @@ school year, along with bulbs which will grow up the following spring. Or the
 planter might have a central small tree or shrub which will always be there,
 and each year's class could plant smaller flowers around it.
 
-![](wishyouknew-page2-3.jpg)
+![](wishyouknew-page-2.jpg)
 
 ## Further exploration of themes in the book
 
-#### **Supporting students**
+### **Supporting students**
 
 [Teaching Students in Tough Situations](https://blog.advancementcourses.com/articles/teaching-students-tough-situations/) \- Advancement Courses
 
 [Helping Students Cope With a Difficult Year; tips on supporting emotion regulation and building strong relationships](https://www.edutopia.org/article/helping-students-cope-difficult-year) \- Edutopia
 
-#### **Ecotherapy and benefits of exposure to nature**
+### **Ecotherapy and benefits of exposure to nature**
 
 [Ecotherapy – A Forgotten Ecosystem Service: A Review ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6085576/)\- Frontiers in Psychology (Academic journal article)  
   
@@ -173,6 +168,4 @@ and each year's class could plant smaller flowers around it.
 [About the author](https://www.jackieazuakramer.com/) \- jackieazuakramer.com
 
 [Interview with the author and illustrator about the book](https://www.lasmusasbooks.com/blog/an-interview-with-the-author-and-illustrator-behind-i-wish-you-knew) \- Las Musas
-
-## Related resources from Knowing Nature
 

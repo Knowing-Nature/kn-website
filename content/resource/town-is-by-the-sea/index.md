@@ -5,8 +5,7 @@ date: 2021-11-08 12:22:25+00:00
 draft: false
 slug: town-is-by-the-sea
 title: Town is by the Sea
-type: post
-url: /2021/11/08/town-is-by-the-sea/
+image: townisbythesea-cover.jpg
 wordpress_id: 1103
 categories:
 - Picture books
@@ -18,8 +17,6 @@ tags:
 - Mining
 ---
 
-![](townisbythesea-cover-1.jpg)
-
   * Author: Joanne Schwartz
   * Illustrator: Sydney Smith
   * Publisher: Walker Books Ltd
@@ -28,8 +25,7 @@ tags:
   * 5-8 years 
   * ISBN 9781406378863
 
-###  
-Curriculum links
+## Curriculum links
 
   * History
   * Personal, social, health and economic education ( PSHE )
@@ -102,8 +98,8 @@ could change and think of how they might be able to make that change happen.
 
 ## Activity ideas
 
-(History)  
- **Visit a mine or factory** \- As the industrial revolution recedes farther
+### History: Visit a mine or factory
+As the industrial revolution recedes farther
 into the past, there are many communities where former mines and manufacturing
 facilities have reopened as heritage sites. Often these places are important
 to the area's transition into a different economy. These sites are also often
@@ -111,8 +107,8 @@ staffed by local people with strong connections to that industrial heritage.
 Simply visitng and speaking with the staff and volunteers is wonderful way to
 honor that heritage and support their community.
 
-(Art)  
- **Paint the sea** \- The sea is a recurring theme throughout the book, and
+### Art: Paint the sea
+The sea is a recurring theme throughout the book, and
 the paintings of it are beautifuly calming. Watch videos of ocean waves as a
 calming transition from other activities and to observe the shapes and
 patterns waves make. Create a seascape using one of more painting techniques.  
@@ -120,24 +116,24 @@ patterns waves make. Create a seascape using one of more painting techniques.
 \- [Paint beautiful gouache waves ](https://youtu.be/ewZQdYUMZpA)\- Youtube (techniques work with poster/tempera paint)   
 \- [Acrylic Painting Tutorial - How To Paint Waves ](https://youtu.be/lfNHdQQDiuY)\- Youtube (techniques work with poster/tempera paint)
 
-![](townbythesea_page-1.jpg)
+![](townbythesea_page.jpg)
 
-(Art)  
- **Emotions in figures** \- Look at how the illustrator uses subtle cues to
+### Art: Emotions in figures
+Look at how the illustrator uses subtle cues to
 tell the redear how the characters are feeling. Try drawing simple stick
 figures in different poses that show different emotions. How does changing the
 position of the head change how it feels? Adding a line for a mouth, how do
 changes in the shape of the line change how it feels?
 
-(Science/Geography)  
- **Where do materials come from?** \- Kids research materials which come from
+### Geography: Where do materials come from?
+Kids research materials which come from
 the ground and how they are extracted. What everyday objects use materials
 which come from mining? What are the environmental consequences of different
 type of mining? Taking this project further, kids could consider what life
 would be like humans reduced or stopped mining.
 
-(History/Geography)  
- **What happens when a mine closes?** \- There are many communities around the
+### History: What happens when a mine closes?
+There are many communities around the
 world which formed because of, and continue to depend upon, mining. Kids could
 research what has happened to mining towns when the mines closed, and think
 about how people's lives might have changed. What are the consequences for
@@ -145,8 +141,8 @@ smaller bussinesses if a big part of the community loses their jobs? What
 might affect how easy or difficult it might be for people to get other jobs?
 How could communities be supported to make the transition easier?
 
-  * [How Ex-Miners Turn Toxic Land into Lavender Farms ](https://youtu.be/3rCxAdRo-h4)\- Business Insider via YouTube
-  * [Coal communities in transition: A case study of Colstrip, Montana ](https://media.rff.org/documents/RFF_Report_21-01_Colstrip_Case_Study.pdf)\- Resources for the Future; Envirionmental defense fund
+  * [How Ex-Miners Turn Toxic Land into Lavender Farms](https://youtu.be/3rCxAdRo-h4) \- Business Insider via YouTube
+  * [Coal communities in transition: A case study of Colstrip, Montana](https://media.rff.org/documents/RFF_Report_21-01_Colstrip_Case_Study.pdf) \- Resources for the Future; Envirionmental defense fund
 
 ## More about the book
 
@@ -158,7 +154,7 @@ How could communities be supported to make the transition easier?
 
 ## Further exploration of themes in the book
 
-#### **Career aspirations**
+### Career aspirations
 
 [The jobs you're most likely to inherit from your mother and father](https://www.nytimes.com/interactive/2017/11/22/upshot/the-jobs-youre-most-likely-to-inherit-from-your-mother-and-father.html) \- The New York Times  
   
@@ -166,11 +162,9 @@ How could communities be supported to make the transition easier?
   
 [A framework for student goal setting](https://www.edutopia.org/article/framework-student-goal-setting) \- Edutopia
 
-#### **Transitioning away from mining**
+### Transitioning away from mining
 
 [Appalachia is transitioning from coal. Here’s what it could learn from Germany.](https://us.boell.org/en/2019/11/01/appalachia-transitioning-coal-heres-what-it-could-learn-germany) \- Heinrich Boell Foundation  
   
 [This Kentucky coal town is fighting for survival long after the war on coal is over](https://www.cnbc.com/2018/03/29/the-kentucky-coal-town-fighting-to-survive-after-coal-mining-closings.html) \- CNBC
-
-## Related resources from Knowing Nature
 
