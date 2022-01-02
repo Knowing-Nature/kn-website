@@ -27,6 +27,7 @@ params:
     mainSections:
         - post
         - episode
+        - resource
     featuredImageField: image
     rssFullContent: true
     favicon:
@@ -52,7 +53,7 @@ params:
         toc: true
         readingTime: true
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
