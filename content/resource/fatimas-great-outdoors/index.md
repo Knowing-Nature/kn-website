@@ -5,8 +5,7 @@ date: 2021-10-18 16:50:41+00:00
 draft: false
 slug: fatimas-great-outdoors
 title: Fatima's Great Outdoors
-type: post
-url: /2021/10/18/fatimas-great-outdoors/
+image: fatimasgreatoutoors.jpg
 wordpress_id: 807
 categories:
 - Picture books
@@ -15,8 +14,6 @@ tags:
 - Diversity
 - Outdoors
 ---
-
-![](fatimasgreatoutoors.jpg)
 
   * Author: Ambreen Tariq
   * Illustrator: Stevie Lewis
@@ -137,8 +134,8 @@ the background easier. You can also reverse the order of the other layers so
 all the darker layers are towards the back. If working on paper, postcard-
 sized pictures can make this a faster activity.
 
-  * ![](backgroundlight-1.png)
-  * ![](backgrounddark-1.png)
+![Light background](backgroundlight.png)
+![Dark background](backgrounddark.png)
 
 **Campout cookbook —** Often food for camping is depicted as roasting
 marshmallows or hotdogs on sticks. Kids could think about foods they like to
@@ -164,7 +161,7 @@ Have lunch/snack in your campsite!
 
 ## Further exploration of themes in the book
 
-#### **Race and the Great Outdoors**
+### Race and the Great Outdoors
 
 [Find out more about Ambreen and the @BrownPeopleCamping campain to improve diversity amongst users of public lands and the outdoors](https://www.brownpeoplecamping.com/media) \- BrownPeopleCamping.com
 
@@ -176,11 +173,11 @@ Have lunch/snack in your campsite!
 
 [As COVID-hit Brits escape to the country, minorities face rural racism ](https://www.reuters.com/article/us-britain-race-rural-trfn-idUSKBN27S0LO)\- Reuters
 
-#### **Things to do outside**
+### Things to do outside
 
 [Ideas for things to do while camping out in a backyard or patio](https://outdoorafro.com/2020/05/ten-backyard-camping-ideas-from-outdoor-afro/) \- OutdoorAfro
 
-#### **Emotional Literacy**
+### Emotional Literacy
 
 [Social and Emotional Learning, not just for kids](https://www.cultofpedagogy.com/sel-adults/) \- Cult of Pedagogy
 
@@ -194,6 +191,6 @@ Have lunch/snack in your campsite!
 
 ## Tried any activities?
 
-If you've used this book with your class we'd love to hear about it! Photos,
+If you've used this book with your class [we'd love to hear about it](/contact)! Photos,
 stories, comments, or suggestions. We love them all!
 
