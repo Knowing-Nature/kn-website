@@ -16,11 +16,12 @@
 .article-page {
 	.main-article {
 		.article-content {
-			.book-details {
+			.media-callout {
 				display: flex;
 				flex-wrap: wrap;
 				justify-content: center;
 				row-gap: 20px;
+				column-gap: 10px;
 
 				padding: 1em;
 				max-width: max-content;
@@ -33,19 +34,19 @@
 					text-decoration: underline;
 				}
 
-				.book-cover img {
+				.media-thumb img {
 					float: left;
 					height: 175px;
 					width: auto;
 				}
 
-				.book-details-grid {
+				.media-callout-grid {
 					display: grid;
 					font-size: 12pt;
 					grid-template-columns: 6em 1fr;
 					gap: 0 15px;
 
-					.book-detail-key {
+					.media-callout-key {
 						text-align: right;
 						font-weight: bold;
 					}

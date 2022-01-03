@@ -6,6 +6,7 @@ draft: false
 slug: jurassic-park
 title: Jurassic Park
 episode: 21
+image: jurassic-park.jpg
 music: Selfish
 categories:
 - Podcast
@@ -15,6 +16,15 @@ tags:
 ---
 
 {{<audio src="https://knowingnature.podbean.com/mf/play/ltpnab/Ep_21_-Film_Club-_Jurassic_Park_6ne79.mp3" >}}
+
+{{<film director="Steven Spielberg"
+        starring="Sam Neill, Laura Dern, Jeff Goldblum"
+        thumb="jurassic-park.jpg"
+        release-date="1993-06-09"
+        runtime="2h7m"
+        rating="PG"
+        justwatch-link="https://www.justwatch.com/us/movie/jurassic-park-i"
+        imdb-link="https://www.imdb.com/title/tt0107290">}}
 
 Discussion of the 1993 classic of palaeontology, Jurassic Park, directed by
 Steven Spielberg. Based on the book by Michael Crichton. Guests on this
