@@ -10,8 +10,7 @@
     "hugo:build": "hugo -d build",
     "hugo:serve": "hugo server",
     "hugo:clean": "shx rm -rf build public resources",
-    "new-loud": "node scripts/new.js",
-    "new": "npm run --silent new-loud"
+    "new": "node scripts/new.js"
   },
   "repository": {
     "type": "git",
