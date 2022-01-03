@@ -1,6 +1,4 @@
-const { orderBy } = require('natural-orderby')
 const fs = require("fs")
-// const readline = require('readline')
 const inquirer = require('inquirer');
 const { execSync } = require('child_process');
 const slugify = require('slugify')
@@ -31,6 +29,7 @@ inquirer
 
 
 function createEpisode(newPost) {
+	const { orderBy } = require('natural-orderby')
 	const path = 'content/episode/'
 
 	const dirsArray = fs.readdirSync(path).filter((file) => {
