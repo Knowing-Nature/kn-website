@@ -18,7 +18,7 @@ tags:
 - Pedagogy
 ---
 
-{{<podbean id="8g2yw-112f6e1-pb">}}
+{{<podbean id="8g2yw-112f6e1">}}
 
 Discussion about environmental education in Cordova, Alaska. How the programs
 at the Prince William Sound Science Centre address the legacy of the Exxon
