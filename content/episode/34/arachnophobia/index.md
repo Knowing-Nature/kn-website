@@ -6,6 +6,7 @@ draft: false
 slug: film-club-arachnophobia
 title: Film Club - Arachnophobia
 episode: 34
+image: arachnophobia.jpg
 music: Gradual_Sunrise
 categories:
 - Podcast

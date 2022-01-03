@@ -6,6 +6,7 @@ draft: false
 slug: murder-hornets-and-science-news-literacy
 title: '"Murder hornets" and science news literacy'
 episode: 29
+image: hornet.jpg
 music: Selfish
 categories:
 - Podcast

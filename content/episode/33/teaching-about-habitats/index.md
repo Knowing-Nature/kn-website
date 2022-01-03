@@ -6,14 +6,17 @@ draft: false
 slug: teaching-about-habitats
 title: Teaching about habitats
 episode: 33
+image: habitats.jpg
 music: Gradual_Sunrise
 categories:
 - Podcast
+tags:
+- Habitats
 ---
 
 {{<audio src="https://mcdn.podbean.com/mf/web/zrmg7e/Ep_33_-_Teaching_about_habitats8a4l4.mp3" >}}
 
-### **What is a habitat?**
+## What is a habitat?
 
 Common definition is: A habitat is an animal’s home.
 
@@ -28,7 +31,7 @@ A better definition to use might be: 'The area where an organism lives' or
 A bird makes its nest (its home) in a tree (microhabitat), or in a forest
 (habitat).
 
-### **What makes a specific habitat?**
+## What makes a specific habitat?
 
 Often the answer is: Temperature, rainfall, animals, plants
 
@@ -59,7 +62,7 @@ extension because it leads to the abiotic, or nonliving, elements of an area.
 Climate patterns, soil conditions, topography (how flat or steep an area is,
 what direction a slope faces).
 
-### **What is important about habitats?**
+## What is important about habitats?
 
 It’s where animals live. It's where an animal gets their food, water, shelter,
 space.
@@ -74,7 +77,7 @@ They blend into and affect surrounding habitats.
   * Winds blowing over the sahara desert pick up dust and carry it around the world. This dust acts as fertilizer for algae in the oceans, and even the Amazon rainforest. ([Science Daily](https://www.sciencedaily.com/releases/2015/02/150224102847.htm))
   * Salmon runs bring nutrients from the ocean back into the continents. Which can be an important fertilizer for the thick forests along the Pacific coast of North America. ([KQED - There's something fishy about these trees...](https://www.kqed.org/science/1915421/theres-something-fishy-about-these-trees-deep-look) ; [BMC Ecology](https://bmcecol.biomedcentral.com/articles/10.1186/1472-6785-2-4))
 
-### **What does this mean for teaching about habitats?**
+## What does this mean for teaching about habitats?
 
   * Habitats provide for the needs of living things
   * Habitats are interrelated
@@ -95,7 +98,7 @@ connections. Understanding how parts of a system work together is important in
 making considered decisions and solving big problems with many many different
 stakeholders.
 
-### **What might this look like in a lesson or classroom?  **
+## What might this look like in a lesson or classroom?
 
   * Look at things from different perspectives and at different scales. 
     * Focus on microhabitats, like the bottom of a pond, or a rotting log. Explore the details of the needs of the living things there and how they depend on the very specific qualities of that space.
@@ -106,7 +109,7 @@ stakeholders.
     * How did climate and geography affect historical events? ([Climate change helped destroy these four ancient civilizations](https://www.weforum.org/agenda/2019/03/our-turn-next-a-brief-history-of-civilizations-that-fell-because-of-climate-change/) \- World Economic Forum)
     * How did events in other parts of the world affect the place you are studying? ([Why did Danish Vikings moved to England](https://sciencenordic.com/denmark-society--culture-videnskabdk/why-danish-vikings-moved-to-england/1442885) \- Science Nordic.com)
 
-### What does this mean for outdoor education?
+## What does this mean for outdoor education?
 
 Take advantage of the opportunities presented by outdoor venues
 

@@ -6,6 +6,7 @@ draft: false
 slug: arts-in-environmental-education
 title: Arts in environmental education
 episode: 31
+image: art.jpg
 music: Gradual_Sunrise
 categories:
 - Podcast

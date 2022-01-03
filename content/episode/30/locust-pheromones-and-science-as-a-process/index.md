@@ -6,6 +6,7 @@ draft: false
 slug: locust-pheromones-and-science-as-a-process
 title: Locust pheromones and science as a process
 episode: 30
+image: locust.jpg
 music: Selfish
 categories:
 - Podcast
