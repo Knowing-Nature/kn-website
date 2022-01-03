@@ -6,7 +6,7 @@ draft: false
 slug: jurassic-park
 title: Jurassic Park
 episode: 21
-image: jurassic-park.jpg
+image: trex.jpg
 music: Selfish
 categories:
 - Podcast
