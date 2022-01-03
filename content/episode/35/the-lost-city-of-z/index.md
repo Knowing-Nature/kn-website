@@ -75,9 +75,9 @@ series of expeditions to find what he has called The Lost City of Z.
       * Theorized that 'white indians' from Europe had crossed the Atlantic and civilized them
 
   * Related reading
-    * [The hero of The Lost City of Z was no hero ](https://www.washingtonpost.com/posteverything/wp/2017/04/12/the-hero-of-the-lost-city-of-z-was-no-hero/)\- The Washington Post - article
+    * [The hero of The Lost City of Z was no hero](https://www.washingtonpost.com/posteverything/wp/2017/04/12/the-hero-of-the-lost-city-of-z-was-no-hero/) \- The Washington Post - article
     * [Cannibalism and the politics of bloodshed](https://www.cambridge.org/core/books/making-of-an-imperial-polity/cannibalism-and-the-politics-of-bloodshed/D4D05AE81BBADD074FBCDC09504605D3/core-reader) \- The Making of an Imperial Polity - book chapter
-    * [What is the white saviour trope ](https://shadowandmovies.com/what-is-the-white-savior-trope-green-book/)\- ShowAndMovies.com - post
+    * [What is the white saviour trope](https://shadowandmovies.com/what-is-the-white-savior-trope-green-book/) \- ShowAndMovies.com - post
 
 ## Problematic points
 
@@ -122,4 +122,4 @@ series of expeditions to find what he has called The Lost City of Z.
 
   * Does little to challenge Fawcett’s exclusion of his wife from his expeditions
   * Contemporary with Marianne North, who went on similar expeditions on her own
-    * [About Marianne North ](https://www.botanicalartandartists.com/about-marianne-north.html)\- BotanicalArtAndArtists.com 
+    * [About Marianne North](https://www.botanicalartandartists.com/about-marianne-north.html) \- BotanicalArtAndArtists.com

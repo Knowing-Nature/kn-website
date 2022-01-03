@@ -56,7 +56,7 @@ in a historic cemetery park.
 
   * Useful books
     * [Nettle Cookbook](https://books.google.co.uk/books/about/Nettle_Cookbook.html?id=afnMrQEACAAJ&redir_esc=y) \- Natural History Museum
-    * [Food for Free ](https://richardmabey.co.uk/food-for-free/)\- Richard Fortey
+    * [Food for Free](https://richardmabey.co.uk/food-for-free/) \- Richard Fortey
 
 ## Batwalks
 

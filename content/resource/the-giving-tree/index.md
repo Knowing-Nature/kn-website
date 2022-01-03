@@ -129,7 +129,7 @@ harvested every few years. Try your hand a simple willow weaving projects. If
 you have access to enough material, you might even weave your own willow
 baskets, or even weave fences for flower beds.
 
-  * [Willow fish ](https://youtu.be/qVlFrBLICrA)\- Big Green Art via YouTube
+  * [Willow fish](https://youtu.be/qVlFrBLICrA) \- Big Green Art via YouTube
   * [How I Braided a Willow Fence For The Garden](https://youtu.be/cZDwnu6QyWA) \- The Farm Dream via YouTube  
 
 **What plants give people** \- The boy in the story goes to the apple tree for
@@ -159,7 +159,7 @@ improved story.
 
 ## More about the book
 
-[We Need to Talk About ‘The Giving Tree’; Kids and parents need to understand that there’s a big difference between selflessness and generosity. ](https://www.nytimes.com/2020/04/15/parenting/we-need-to-talk-about-the-giving-tree.html)\- New York Times  
+[We Need to Talk About ‘The Giving Tree’; Kids and parents need to understand that there’s a big difference between selflessness and generosity.](https://www.nytimes.com/2020/04/15/parenting/we-need-to-talk-about-the-giving-tree.html) \- New York Times
 [  
 “The Giving Tree” at Fifty: Sadder Than I Remembered (reflecting on the book
 and author)](https://www.newyorker.com/books/page-turner/giving-

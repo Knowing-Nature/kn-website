@@ -155,7 +155,7 @@ tall trees.
 
 [Amazonia Undercover: unexpected allies against deforestation. Discussion about the documentary.](https://globalcanopy.org/insights/insight/amazonia-undercover-unexpected-allies-against-deforestation/) \- GlobalCanopy.org  
   
-[The link between healthcare and deforestation on Borneo ](https://www.bbc.co.uk/programmes/b08hnly0)\- BBC - Costing the Earth
+[The link between healthcare and deforestation on Borneo](https://www.bbc.co.uk/programmes/b08hnly0) \- BBC - Costing the Earth
 
 ### More in the importance of rainforests
 
@@ -165,7 +165,7 @@ tall trees.
 
 [Activity ideas for different curriculum area](https://www.teachingideas.co.uk/library/books/the-great-kapok-tree)[s](https://www.teachingideas.co.uk/library/books/the-great-kapok-tree) \- TeachingIdeas.co.uk
 
-[Creator Interview: Lynne Cherry ](http://www.judynewmanatscholastic.com/blog/2020/04/interview-lynne-cherry-great-kapok-tree/)\- Judy Newman at Scholastic
+[Creator Interview: Lynne Cherry](http://www.judynewmanatscholastic.com/blog/2020/04/interview-lynne-cherry-great-kapok-tree/) \- Judy Newman at Scholastic
 
 ## Tried any activities?
 

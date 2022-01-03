@@ -162,7 +162,7 @@ grading the effort out of 100, final product is just celebrated.
 
 [Smithsoniam Magazine article](https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/) about the possibility of tree communicating with one another, and why Peter Wohlleben anthropomorphizes trees and uses narrative style in his science books.
 
-[Edutopia article ](https://www.edutopia.org/blog/project-based-learning-getting-started-basics-andrew-miller)on getting started with project based learning.
+[Edutopia article](https://www.edutopia.org/blog/project-based-learning-getting-started-basics-andrew-miller) on getting started with project based learning.
 
 [Making time for project based learning](https://spencerauthor.com/pbl-time/)
 

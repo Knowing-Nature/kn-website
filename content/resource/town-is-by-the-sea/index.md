@@ -113,8 +113,8 @@ the paintings of it are beautifuly calming. Watch videos of ocean waves as a
 calming transition from other activities and to observe the shapes and
 patterns waves make. Create a seascape using one of more painting techniques.  
 \- [Watercolour tutorial // How to Paint Waves](https://youtu.be/J-LDUK-XhRM) \- Youtube  
-\- [Paint beautiful gouache waves ](https://youtu.be/ewZQdYUMZpA)\- Youtube (techniques work with poster/tempera paint)   
-\- [Acrylic Painting Tutorial - How To Paint Waves ](https://youtu.be/lfNHdQQDiuY)\- Youtube (techniques work with poster/tempera paint)
+\- [Paint beautiful gouache waves](https://youtu.be/ewZQdYUMZpA) \- Youtube (techniques work with poster/tempera paint)
+\- [Acrylic Painting Tutorial - How To Paint Waves](https://youtu.be/lfNHdQQDiuY) \- Youtube (techniques work with poster/tempera paint)
 
 ![](townbythesea_page.jpg)
 
@@ -150,7 +150,7 @@ How could communities be supported to make the transition easier?
 
 [Language arts unit on Town is by the Sea](https://knowingnaturepodcast.files.wordpress.com/2021/11/town_is_by_the_sea_book_topic.pdf) \- Teachwire.net
 
-[More activities and discussion ideas ](https://www.castofthousands.co.uk/book/town-is-by-the-sea)\- Cast of Thousands
+[More activities and discussion ideas](https://www.castofthousands.co.uk/book/town-is-by-the-sea) \- Cast of Thousands
 
 ## Further exploration of themes in the book
 

@@ -128,7 +128,7 @@ Looking at the completed pictures, how does the relative scale of fishing gear
 and wildlife make students feel? What methods seem likely to be more
 sustainable? Which methods help fishers make a living? Why do bigger fishing
 nets make fish fingers to cost less?  
-[Fishing gear and risks to wildlife ](https://www.fisheries.noaa.gov/national/bycatch/fishing-gear-and-risks-protected-species)\- National Oceanic and Atmospheric Administration  
+[Fishing gear and risks to wildlife](https://www.fisheries.noaa.gov/national/bycatch/fishing-gear-and-risks-protected-species) \- National Oceanic and Atmospheric Administration
 [Commercial fishing methods](https://britishseafishing.co.uk/commercial-fishing-methods/) \- British Sea Fishing
 
 ![](sitkasciencecentre.jpg)Scuplture made from plastic littler collected from the beach. Sitka Sound Science Centre.
@@ -137,11 +137,11 @@ nets make fish fingers to cost less?
 
 ### Lost fishing gear
 
-[Challenges and misperceptions around global fishing gear loss estimates ](https://www.sciencedirect.com/science/article/pii/S0308597X21001330)\- Journal of Marine Policy
+[Challenges and misperceptions around global fishing gear loss estimates](https://www.sciencedirect.com/science/article/pii/S0308597X21001330) \- Journal of Marine Policy
 
 ### Whales
 
-[Population status ](https://iwc.int/status)\- International whaling commision  
+[Population status](https://iwc.int/status) \- International whaling commision
 [Why do whales breach?](https://www.whalefacts.org/why-do-whales-breach/) \- WhaleFacts.org
 
 ## More about the book

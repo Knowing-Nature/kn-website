@@ -111,7 +111,7 @@ ask questions directly.
 
 [What is Project-based Learning](https://www.pblworks.org/what-is-pbl) \- PBL works  
   
-[Project-based learning ](https://www.edutopia.org/project-based-learning)\- Edutopia
+[Project-based learning](https://www.edutopia.org/project-based-learning) \- Edutopia
 
 ## More about the book
 

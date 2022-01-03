@@ -69,7 +69,7 @@ charcoal use, production, and trade allows charcoal produced in the Shea Belt
 to be exported to regions which have banned charcoal production from locally
 harvested trees without address the demand for charcoal.
 
-  * [Rush to turn ‘black diamonds’ into cash eats up Uganda’s forests, fruits ](https://news.mongabay.com/2021/06/rush-to-turn-black-diamonds-into-cash-eats-up-ugandas-forests-fruits/)\- Mongabay
+  * [Rush to turn ‘black diamonds’ into cash eats up Uganda’s forests, fruits](https://news.mongabay.com/2021/06/rush-to-turn-black-diamonds-into-cash-eats-up-ugandas-forests-fruits/) \- Mongabay
   * [The charcoal grey market in Kenya, Uganda, and South Sudan](https://globalinitiative.net/analysis/charcoal-market-kenya-uganda-south-sudan/) \- Global Initiative against Transnational Organized Crime
 
 **Changing agricultural practices** \- Shea trees are traditionally not
@@ -155,7 +155,7 @@ https://youtu.be/Q7ktkxQuCjI
 
 [5 reasons why many conservation efforts fail](https://news.mongabay.com/2016/03/5-reasons-why-many-conservation-efforts-fail/) \- Mongabay
 
-[The link between healthcare and deforestation on Borneo ](https://www.bbc.co.uk/programmes/b08hnly0)\- BBC - Costing the Earth
+[The link between healthcare and deforestation on Borneo](https://www.bbc.co.uk/programmes/b08hnly0) \- BBC - Costing the Earth
 
 [Key reasons why tree planting so often fails](https://www.naturebasedsolutionsinitiative.org/news/key-reasons-why-tree-planting-so-often-fails/) \- Nature Based Solutions Initiative
 

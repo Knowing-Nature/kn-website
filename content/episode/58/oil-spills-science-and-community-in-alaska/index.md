@@ -59,7 +59,7 @@ resources.
   * Sessions wrap-up by sharing what happend during the session
   * If participants are leaving early, staff try to have 1-on-1 chat with before they go
 
-Book mentioned in the episode: [What is a scientist? ](https://www.goodreads.com/book/show/1979845.What_Is_a_Scientist_)\- Goodreads
+Book mentioned in the episode: [What is a scientist?](https://www.goodreads.com/book/show/1979845.What_Is_a_Scientist_) \- Goodreads
 
 For book and activity ideas, check out the [Knowing Nature's picture book pages](https://knowingnaturepodcast.wordpress.com/resources/picture-books/)
 
@@ -147,15 +147,15 @@ the experience.
 
 ## Further reading on topics discussed
 
-### Oils spills and wildlife
+### Oil spills and wildlife
 
 [How does oil impact marine life?](https://oceanservice.noaa.gov/facts/oilimpacts.html) \- National Oceanic and Atmospheric Administration  
   
 [Oil spill effects and activities](https://www.operations.amsa.gov.au/kids-and-teachers-resources/kids/teachers/index.html) \- Australian Maritime Safety Authority: Kids
 
-### Exxon Valdez Oils spill disaster
+### Exxon Valdez Oil spill disaster
 
-[American Scandal podcast: Exxon ](https://wondery.com/shows/american-scandal/episode/5678-exxon-valdez-oil-meets-water/)\- Wondery  
+[American Scandal podcast: Exxon](https://wondery.com/shows/american-scandal/episode/5678-exxon-valdez-oil-meets-water/) \- Wondery
   
 [Remembering the _Exxon Valdez_ oil spill](https://www.theatlantic.com/photo/2014/03/remembering-the-exxon-valdez-oil-spill/100703/) \- _The Atlantic_  
   

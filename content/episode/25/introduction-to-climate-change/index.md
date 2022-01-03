@@ -102,6 +102,6 @@ Sources for more information
 
 [Tyndall Centre for Climate Change Research](https://www.tyndall.ac.uk/)
 
-[The Great Big Lesson for Climate and Nature: Live from COP26 ](https://youtu.be/HExapQfulPg)\- AimHi Earth via Youtube
+[The Great Big Lesson for Climate and Nature: Live from COP26](https://youtu.be/HExapQfulPg) \- AimHi Earth via Youtube
 
 Questions or comments? [Get in touch](/about)!

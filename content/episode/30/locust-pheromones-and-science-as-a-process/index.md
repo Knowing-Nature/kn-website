@@ -20,7 +20,7 @@ tags:
 
 [Catching plague locusts with their own scent](https://www.nature.com/articles/d41586-020-02264-x) \- 12 August, 2020 - Nature news and views
 
-[Chemical that causes locusts to gather in swarm clouds could also be used to lure the pests to their death, scientists claim ](https://www.dailymail.co.uk/sciencetech/article-8622673/The-pheromone-causes-locusts-swarm-revealed.html)\- 13 August 2020 - Daily Mail
+[Chemical that causes locusts to gather in swarm clouds could also be used to lure the pests to their death, scientists claim](https://www.dailymail.co.uk/sciencetech/article-8622673/The-pheromone-causes-locusts-swarm-revealed.html) \- 13 August 2020 - Daily Mail
 
 [Scientists have identified the scent that makes some locusts swarm. They could use the pheromone to trap and kill the insects](https://www.businessinsider.com/locust-swarms-controlled-killed-using-own-scent-2020-8?r=US&IR=T) \- 12 August, 2020 - Business Insider 
 

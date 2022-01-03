@@ -171,7 +171,7 @@ Have lunch/snack in your campsite!
 
 [The BAME women making the outdoors more inclusive](https://www.theguardian.com/travel/2020/dec/02/the-bame-women-making-the-british-outdoors-more-inclusive) \- The Guardian
 
-[As COVID-hit Brits escape to the country, minorities face rural racism ](https://www.reuters.com/article/us-britain-race-rural-trfn-idUSKBN27S0LO)\- Reuters
+[As COVID-hit Brits escape to the country, minorities face rural racism](https://www.reuters.com/article/us-britain-race-rural-trfn-idUSKBN27S0LO) \- Reuters
 
 ### Things to do outside
 
@@ -187,7 +187,7 @@ Have lunch/snack in your campsite!
 
 [Recorded Live storytime and Q+A with the author](https://fb.watch/8EpJ7rME9b/) \- Penguin Kids publisher (hosted on Facebook; 1 hour)
 
-[More discussion questions to go with the story ](https://librarylessonswithbooks.com/fatimas-great-outdoors-picture-book-lesson-activity/)\- LibraryLessonsWithBooks.com
+[More discussion questions to go with the story](https://librarylessonswithbooks.com/fatimas-great-outdoors-picture-book-lesson-activity/) \- LibraryLessonsWithBooks.com
 
 ## Tried any activities?
 

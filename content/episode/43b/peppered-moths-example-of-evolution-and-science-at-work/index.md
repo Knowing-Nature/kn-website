@@ -79,7 +79,7 @@ were presumed eaten. He also observed some of the moths through binoculars and
 recorded what they were eaten by, and found it was indeed birds doing the
 eating.
 
-[Read more about Majerus' research ](https://royalsocietypublishing.org/doi/10.1098/rsbl.2011.1136)\- Royal Society: Biology Letters
+[Read more about Majerus' research](https://royalsocietypublishing.org/doi/10.1098/rsbl.2011.1136) \- Royal Society: Biology Letters
 
 ## Activity ideas
 

@@ -97,11 +97,11 @@ circles.
 
   * [The power of sharing circles](http://www.expandedlearning360-365.com/blog/the-power-of-sharing-circles) \- expandedlearning360-365.com  
 
-  * [Using circle practice in the classroom. Circle discussions foster community and intimacy in a classroom, and can serve academic and social and emotional purposes. ](https://www.edutopia.org/article/using-circle-practice-classroom)\- Edutopia  
+  * [Using circle practice in the classroom. Circle discussions foster community and intimacy in a classroom, and can serve academic and social and emotional purposes.](https://www.edutopia.org/article/using-circle-practice-classroom) \- Edutopia
 
   * [About sharing circles](https://passthefeather.ca/sharing-circles/) \- PassTheFeather.ca  
 
-  * [A whole school approach to using circle time ](https://knowingnaturepodcast.files.wordpress.com/2021/10/introducing_circle_time.pdf)\- PDF from Kent County Council
+  * [A whole school approach to using circle time](https://knowingnaturepodcast.files.wordpress.com/2021/10/introducing_circle_time.pdf) \- PDF from Kent County Council
 
 **Waiting and patience** \- Kids can share about occasions they've had to wait
 for something. They might also think about things that cannot be rushed and
@@ -157,7 +157,7 @@ and each year's class could plant smaller flowers around it.
 
 ### **Ecotherapy and benefits of exposure to nature**
 
-[Ecotherapy – A Forgotten Ecosystem Service: A Review ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6085576/)\- Frontiers in Psychology (Academic journal article)  
+[Ecotherapy – A Forgotten Ecosystem Service: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6085576/) \- Frontiers in Psychology (Academic journal article)
   
 [Nature and mental health; Ideas to try in Nature](https://www.mind.org.uk/information-support/tips-for-everyday-living/nature-and-mental-health/ideas-to-try-in-nature/) \- Mind.org  
   
