@@ -29,9 +29,9 @@ spider produces hundreds of drone offspring with their father's lethal bite.
   * How does the film depict spiders? Are they monsters or animals?
   * How does the film depict scientists? Are the villains, heroes, or support?
 
-# Arachnology (Spider science)
+## Arachnology (Spider science)
 
-### **The expedition**
+### The expedition
 
   * Some accurate-ish field collection techniques
   * Extremely well-funded expedition to have a helicopter
@@ -39,7 +39,7 @@ spider produces hundreds of drone offspring with their father's lethal bite.
     * Many species in tropical regions are adapted to narrow habitat range
     * Temperature difference in the sinkhole could be enough to isolate
 
-### **Social spiders**
+### Social spiders
 
   * There are several dozen species of spiders which live in social groups
 
@@ -51,12 +51,12 @@ spider produces hundreds of drone offspring with their father's lethal bite.
     * Delena cancerides - the flat huntsman spider
   * colonies up to 300, but they are highly aggressive and commonly cannibalistic toward members from other colonies.
 
-### **Invasive species**
+### Invasive species
 
   * All the pieces of the invasive species concept are in the film, though it does not use the term
   * No longer contained by the temperature gradient and geography, new spider could spread across the countryside
 
-# Depiction of spiders
+## Depiction of spiders
 
 Plays on common fears of spiders such as the way they move, and large numbers
 of spiders, lurking small dark places etc. Doesn’t make up exaggerated monster
@@ -66,7 +66,7 @@ spider with lots of ‘powers’.
   * Doesn’t do anything to dissuade you from your fears
   * Doesn’t do as much to alter the image of spiders in the same way that Jaws gave sharks the reputation for being bloodthirsty monsters
 
-# Depiction of science
+## Depiction of science
 
 There are some elements of the film which cast science/scientists as the
 villains.
