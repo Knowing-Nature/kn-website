@@ -23,7 +23,6 @@ tags:
         release-date="1993-06-09"
         runtime="2h7m"
         rating="PG"
-        justwatch-link="https://www.justwatch.com/us/movie/jurassic-park-i"
         imdb-link="https://www.imdb.com/title/tt0107290">}}
 
 Discussion of the 1993 classic of palaeontology, Jurassic Park, directed by

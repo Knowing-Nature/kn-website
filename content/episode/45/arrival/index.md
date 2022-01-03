@@ -3,10 +3,10 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-03-15 07:15:00+00:00
 draft: false
-slug: film-club-arrival
-title: Film Club - Arrival
+slug: arrival
+title: Arrival
 episode: 45
-image: arrival.jpg
+image: heptapods.jpg
 music: Marble_Machine
 categories:
 - Podcast
@@ -18,6 +18,14 @@ tags:
 ---
 
 {{<audio src="https://mcdn.podbean.com/mf/web/uvmun7/Ep_45_-Film_Club-_Arrival5zx2v.mp3" >}}
+
+{{<film director="Denis Villeneuve"
+        starring="Amy Adams, Jeremy Renner, Forest Whitaker"
+        thumb="arrival.jpg"
+        release-date="2016-09-02"
+        runtime="1h56m"
+        rating="PG-13"
+        imdb-link="https://www.imdb.com/title/tt2543164">}}
 
 When gigantic spaceships touchdown in 12 locations around the world. Linguist
 Louise Banks is approached to lead a team attempting to find a way to
