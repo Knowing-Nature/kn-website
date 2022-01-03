@@ -15,13 +15,14 @@ tags:
 - Turtles
 ---
 
-  * Author: Philippe Cousteau and Deborah Hopkinson
-  * Illustrator: Meilo So
-  * Publisher: Chronicle Books
-  * April 5, 2016
-  * 48 pages
-  * 5-8 years
-  * ISBN: 9781452112411
+{{<book ages="5–8 years"
+        author="Philippe Cousteau and Deborah Hopkinson"
+        illustrator="Meilo So"
+        cover="followthemoonhome.jpg"
+        publisher="Chronicle Books"
+        publisher-link="https://www.chroniclebooks.com/products/follow-the-moon-home"
+        date="2016-04-05"
+        pages="48">}}
 
 ## Curriculum links
 
