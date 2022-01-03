@@ -6,12 +6,17 @@ draft: false
 slug: game-based-education-with-minecraft
 title: Game-based education with Minecraft
 episode: 32
+image: minecraft.jpg
 music: Gradual_Sunrise
 type: post
 url: /2020/09/26/ep-32-game-based-education-with-minecraft/
 wordpress_id: 342
 categories:
 - Podcast
+tags:
+- Games
+- Video games
+
 ---
 
 {{<audio src="https://mcdn.podbean.com/mf/web/rafwu8/Ep_32_-_Game-based_education_with_Minecraft87j4i.mp3" >}}

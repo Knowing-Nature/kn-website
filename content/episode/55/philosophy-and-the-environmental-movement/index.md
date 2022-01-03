@@ -22,25 +22,24 @@ his latest book, Thinking While Walking.
 
 For more information about Martin Bunzl, head to his website. [www.mbunzl.org](https://sites.google.com/site/mbunzl/home?authuser=0)
 
-![Thinking while Walking](thinkingwalkingcover.jpg)
 
-**What does philosophy bring to environmental discussions?**
+## What does philosophy bring to environmental discussions?
 
   * Framework for thinking about ethics, including the question of what things have '[moral standing](https://www.britannica.com/topic/moral-standing)'
   * Thinking about the nature of risks.
   * Together with historians, philosophy can highlight the historical/cultural roots of our assumptions about what concepts are universal.
 
-**Philosophical thought experiments tend to use an abstract thinker/decider,
-doesn't this miss the importance of individual circumstances?**
+## Philosophical thought experiments tend to use an abstract thinker/decider,
+doesn't this miss the importance of individual circumstances?
 
   * The goal of philosophical thought experiments is to highlight that there may be erroneous assumptions driving an argument.
 
   * Philosophers try to show that assumptions should not be taken for granted because they may lead to inconsistent results.
 
-  * From a policy perspective is is important to situate the thinker. Not all choices are available to everyone. Circumstances play a role in what constitutes a rational choice. People living in poor areas may risk the consequences of climate change by using fossil fuels because that is the affordable and available choice to help their children survive.
+  * From a policy perspective it is important to situate the thinker. Not all choices are available to everyone. Circumstances play a role in what constitutes a rational choice. People living in poor areas may risk the consequences of climate change by using fossil fuels because that is the affordable and available choice to help their children survive.
 
-**Could you talk us through thinking about sacrificing the welfare of some
-species in order to tackle climate change?**
+## Could you talk us through thinking about sacrificing the welfare of some
+species in order to tackle climate change?
 
   * This is relevant to think about because it seems likely that we will need to use geoengineering to tackle climate change, for example by adding lime to areas of ocean upwelling. ([Science Daily article](https://www.sciencedaily.com/releases/2008/07/080721001742.htm))
 
@@ -48,8 +47,8 @@ species in order to tackle climate change?**
 
   * In environmental terms, people tend to think that we should stop doing anything bad. We also can't do anything temporarily bad for the greater good afterwards. This seems like a poorly examined assumption because there is no magical solution which avoids all harm.
 
-**People do need to come to conclusions and make decisions. How should people
-use philosophy to help approach making decisions.**
+## People do need to come to conclusions and make decisions. How should people
+use philosophy to help approach making decisions.
 
   * Not quite a fair question because it isn't the job of philosophy to make decisions. Philosophy brings to light hidden assumptions, how you might have contradictions, how you might approach making a decision.
 
@@ -57,9 +56,9 @@ use philosophy to help approach making decisions.**
 
   * It is tempting to teach from the perspective of making individual choices and actions. However with most environmental issues individual actions are unlikely to have significant impact. These issues require collective decisions for national or global communities.
 
-**Conservation of habitats of locations often means sort of freezing or
-holding it in a particular state.** **What are the philosophical angles on
-this issue?**
+## Conservation of habitats of locations often means sort of freezing or
+holding it in a particular state. What are the philosophical angles on
+this issue?
 
   * Freezing a habitat in a particular state seems to deny the natural process of selection, which is change.
 
@@ -69,8 +68,8 @@ this issue?**
 
   * Experiencing a sense of being awed or humbled by the beauty of nature. Other cultures have a way of relating to nature which instils a sense of respect towards it. This may be our only hope, in the long run, for stopping desecration of nature.
 
-**Once we have come to a conclusion or a decision, shouldn't we still revisit
-it and rethink it in light of new experience or knowledge?**
+## Once we have come to a conclusion or a decision, shouldn't we still revisit
+it and rethink it in light of new experience or knowledge?
 
   * If I come to an analytic conclusion like 2+2=4, I don't necessarily need to revisit it. However with empirical knowledge we do need to be open to revision.
 
