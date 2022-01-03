@@ -9,7 +9,7 @@ episode: 35
 music: Gradual_Sunrise
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Amazon
 - Decolonizing

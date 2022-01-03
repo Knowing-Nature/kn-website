@@ -10,7 +10,7 @@ image: white-fang.jpg
 music: Marble_Machine
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Pioneers
 - Wolves

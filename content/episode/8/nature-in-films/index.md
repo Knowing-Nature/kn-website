@@ -9,12 +9,12 @@ episode: 8
 music: Selfish
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Avatar
 - Film
-- How to train your dragon
-- Lion king
+- How to Train Your Dragon
+- Lion King
 - Nature
 - Tourism
 ---

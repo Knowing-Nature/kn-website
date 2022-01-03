@@ -9,7 +9,7 @@ episode: 34
 music: Gradual_Sunrise
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Arachnids
 ---

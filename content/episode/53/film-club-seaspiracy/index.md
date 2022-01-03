@@ -3,18 +3,17 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-05-17 07:30:00+00:00
 draft: false
-slug: film-club-seaspiracy
-title: Film Club - Seaspiracy
+slug: seaspiracy
+title: Seaspiracy
 episode: 53
 image: seaspiracy.jpg
 music: Marble_Machine
 categories:
 - Podcast
+- Film Club
 tags:
-- Film club
 - Fishing
 - Oceans
-- Seaspiracy
 - Sustainability
 ---
 

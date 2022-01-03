@@ -4,12 +4,12 @@ comments: true
 date: 2020-06-27 10:02:00+00:00
 draft: false
 slug: film-club-nausicaa
-title: Film club – Nausicaa
+title: Film Club – Nausicaa
 episode: 18
 music: Selfish
 categories:
 - Podcast
-- Film club
+- Film Club
 ---
 
 {{<audio src="https://knowingnature.podbean.com/mf/play/sgtchu/Ep_18_-_Film_club_Nausicaa_87p7z.mp3" >}}

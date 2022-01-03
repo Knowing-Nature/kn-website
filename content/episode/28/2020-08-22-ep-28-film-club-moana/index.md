@@ -9,7 +9,7 @@ episode: 28
 image: moana.jpg
 music: Selfish
 categories:
-- Film club
+- Film Club
 - Podcast
 tags:
 - Oceans

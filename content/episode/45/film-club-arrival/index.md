@@ -10,7 +10,7 @@ image: arrival.jpg
 music: Marble_Machine
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Aliens
 - Climate change

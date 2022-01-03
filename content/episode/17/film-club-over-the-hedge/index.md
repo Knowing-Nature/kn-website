@@ -4,12 +4,12 @@ comments: true
 date: 2020-06-07 16:45:39+00:00
 draft: false
 slug: film-club-over-the-hedge
-title: Film club - Over the Hedge
+title: Film Club - Over the Hedge
 episode: 17
 music: Selfish
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Urban wildlife
 ---

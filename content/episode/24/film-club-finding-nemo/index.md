@@ -9,7 +9,7 @@ episode: 24
 music: Selfish
 categories:
 - Podcast
-- Film club
+- Film Club
 tags:
 - Oceans
 ---
