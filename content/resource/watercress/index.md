@@ -15,7 +15,7 @@ tags:
 - Plants
 ---
 
-{{<book ages="4–8 years"
+{{<book ageFrom="4" ageTo="8"
         author="Andrea Wang"
         illustrator="Jason Chin"
         cover="watercress-cover.jpg"

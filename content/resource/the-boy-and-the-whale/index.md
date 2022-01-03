@@ -15,7 +15,7 @@ tags:
 - Oceans
 ---
 
-{{<book ages="5–10 years"
+{{<book ageFrom="5" ageTo="10"
         author="Mordicai Gerstein"
         illustrator="Mordicai Gerstein"
         cover="boyandthewhale.jpg"

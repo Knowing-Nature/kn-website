@@ -15,7 +15,7 @@ tags:
 - Turtles
 ---
 
-{{<book ages="5–8 years"
+{{<book ageFrom="5" ageTo="8"
         author="Philippe Cousteau and Deborah Hopkinson"
         illustrator="Meilo So"
         cover="followthemoonhome.jpg"
