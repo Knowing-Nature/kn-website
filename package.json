@@ -25,6 +25,7 @@
   "devDependencies": {
     "fs": "^0.0.1-security",
     "hugo-bin-extended": "^0.91.2",
+    "inquirer": "^8.2.0",
     "natural-orderby": "^2.0.3",
     "shx": "^0.3.3",
     "slugify": "^1.6.4"
