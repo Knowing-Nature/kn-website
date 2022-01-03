@@ -6,6 +6,7 @@ draft: false
 slug: film-club-the-lost-city-of-z
 title: Film Club - The Lost City of Z
 episode: 35
+image: lostcity.jpg
 music: Gradual_Sunrise
 categories:
 - Podcast
@@ -25,7 +26,7 @@ to chart a river in the Amazon. During the journey he encounters remnants and
 stories of a lost city in the jungle. The experience leads him to embark on a
 series of expeditions to find what he has called The Lost City of Z.
 
-### You may want to watch the movie first and think about:
+## You may want to watch the movie first and think about:
 
   * How is the Amazon depicted?
   * What does the movie make you think about the Amazon and the people who live there?
@@ -66,7 +67,7 @@ series of expeditions to find what he has called The Lost City of Z.
     * Over the course of the film Fawcett starts to see amazon as a home for people and, he suspects, a civilization
     * Remains of city has since been found in the Xingu river basin, now called Kuhikugu
 
-### Relationship with amazonian peoples
+## Relationship with amazonian peoples
 
   * Fawcett begins with British colonial views of Amazonian peoples’ as primitives/savages. His views are depicted as changing in subsequent expeditions
     * Impressed by their fishing techniques and their ability to cultivate the jungle
@@ -74,7 +75,7 @@ series of expeditions to find what he has called The Lost City of Z.
     * In reality Fawcett was more conflicted about Amazon peoples
       * Theorized that 'white indians' from Europe had crossed the Atlantic and civilized them
 
-  * Related reading
+### Related reading
     * [The hero of The Lost City of Z was no hero](https://www.washingtonpost.com/posteverything/wp/2017/04/12/the-hero-of-the-lost-city-of-z-was-no-hero/) \- The Washington Post - article
     * [Cannibalism and the politics of bloodshed](https://www.cambridge.org/core/books/making-of-an-imperial-polity/cannibalism-and-the-politics-of-bloodshed/D4D05AE81BBADD074FBCDC09504605D3/core-reader) \- The Making of an Imperial Polity - book chapter
     * [What is the white saviour trope](https://shadowandmovies.com/what-is-the-white-savior-trope-green-book/) \- ShowAndMovies.com - post
