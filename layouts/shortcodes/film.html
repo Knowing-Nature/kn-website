@@ -1,0 +1,19 @@
+<div class="media-callout">
+	<div class="media-thumb">
+		<a href='{{ .Get "publisher-link" }}'><img src='{{ .Get "cover" }}'/></a>
+	</div>
+	<div class="media-callout-grid">
+		<div class="media-callout-key">Ages</div>
+			{{ .Get "ages" }}
+		<div class="media-callout-key">Author</div>
+			{{ .Get "author" }}
+		<div class="media-callout-key">Illustrator</div>
+			{{ .Get "illustrator" }}
+		<div class="media-callout-key">Publisher</div>
+			<a href='{{ .Get "publisher-link" }}'>{{ .Get "publisher" }}</a>
+		<div class="media-callout-key">Published</div>
+			{{ .Get "date" | time.Format "2 January 2006" }}
+		<div class="media-callout-key">Length</div>
+			{{ .Get "pages" }} pages
+	</div>
+</div>
