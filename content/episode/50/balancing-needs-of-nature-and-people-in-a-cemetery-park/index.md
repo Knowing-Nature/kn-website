@@ -15,7 +15,7 @@ tags:
 - Urban nature
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/cbcsd4/Ep_50_-_Balancing_needs_of_nature_and_people_in_a_cemetery_park86xwj.mp3" >}}
+{{<podbean id="">}}
 
 Interview with Kenneth Greenway about balancing the needs of people and nature
 in a historic cemetery park.

@@ -12,7 +12,7 @@ categories:
 - Podcast
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/abcxqv/Knowing_Nature_-_episode_1_mixdown.mp3" >}}
+{{<podbean id="" >}}
 
 Welcome to the Knowing Nature. A podcast exploring and engaging with the
 natural world.

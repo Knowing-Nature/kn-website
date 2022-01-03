@@ -14,7 +14,7 @@ tags:
 - Lesson planning
 ---
 
-{{<audio src="https://knowingnature.podbean.com/mf/play/out6vy/Ep_21_-_Successful_bug_hunt_9jvb1.mp3" >}}
+{{<podbean id="">}}
 
 As we think about moving into the new school year I hope teachers will try and
 make more use of outdoor spaces. A staple outdoor activity is the bug hunt or

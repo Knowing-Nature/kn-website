@@ -14,7 +14,7 @@ tags:
 - Habitats
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/zrmg7e/Ep_33_-_Teaching_about_habitats8a4l4.mp3" >}}
+{{<podbean id="">}}
 
 ## What is a habitat?
 

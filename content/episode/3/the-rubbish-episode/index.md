@@ -13,7 +13,7 @@ tags:
 - Pollution
 ---
 
-{{<audio src="https://knowingnature.podbean.com/mf/play/6bq7h8/Ep_3_-_The_rubish_episode.mp3" >}}
+{{<podbean id="">}}
 
 Pollution and garbage. Why they're problems and ideas for engaging with the
 issue.

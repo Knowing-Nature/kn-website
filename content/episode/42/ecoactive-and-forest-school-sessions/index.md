@@ -12,7 +12,7 @@ categories:
 - Podcast
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/mtxiy6/Ep_42_-_EcoActive72n78.mp3" >}}
+{{<podbean id="">}}
 
 Interview with environmental educator Catia about her work with EcoActive.
 

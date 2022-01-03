@@ -12,7 +12,7 @@ categories:
 - Podcast
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/si4edy/Ep_47_-_Art_and_meaningful_work_kids_are_proud_to_take_home63fxe.mp3" >}}
+{{<podbean id="">}}
 
 Interview with Educator and Artist Charlotte about her experiences
 facilitating social painting events with PopUp Painting, and helping people

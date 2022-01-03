@@ -14,7 +14,7 @@ tags:
 - Oceans
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/b25q5b/Ep_24_-Film_club-_Finding_Nemo91nsk.mp3" >}}
+{{<podbean id="">}}
 
 Discussion of the 2003 film Finding Nemo, directed by Andrew Stanton.
 Featuring guests Ayesha and Rosie.

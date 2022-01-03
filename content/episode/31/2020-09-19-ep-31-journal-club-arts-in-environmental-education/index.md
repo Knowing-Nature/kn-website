@@ -17,7 +17,7 @@ tags:
 - Science
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/m2k9dn/Ep_31_-Journal_club-_Art_in_environmental_education981e2.mp3" >}}
+{{<podbean id="">}}
 
 ## Framing paper
 

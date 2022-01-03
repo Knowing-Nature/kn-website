@@ -17,7 +17,7 @@ tags:
 - Insects
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/25h5pw/Ep_40_-_Activities_for_early_yearsa88r1.mp3" >}}
+{{<podbean id="">}}
 
 Interview with freelance educator Gini Trower about her work with afterschool
 clubs and nursery groups. She shares her experience getting started as a

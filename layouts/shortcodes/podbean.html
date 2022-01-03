@@ -1,0 +1,16 @@
+<!-- <figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+  <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    {{ with .Get "src" }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+  </audio>
+  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure> -->
+
+<iframe title='Episode {{.Page.Params.episode}}: {{ .Page.Title }}'
+        allowtransparency="true"
+        height="150"
+        width="50%"
+        style="border: none; min-width: min(100%, 430px);"
+        scrolling="no"
+        data-name="pb-iframe-player"
+        src='https://www.podbean.com/player-v2/?i={{ .Get "id" }}&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=7'>
+</iframe>

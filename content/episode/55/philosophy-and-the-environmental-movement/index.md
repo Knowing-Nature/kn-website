@@ -14,7 +14,7 @@ tags:
 - Philosophy
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/iwkvvz/Ep_55_-_Thinking_while_walking6r1ox.mp3" >}}
+{{<podbean id="">}}
 
 Conversation with Professor Martin Bunzl about what philosophy has to add to
 discussions around environmental issues. We also look at some of the themes in

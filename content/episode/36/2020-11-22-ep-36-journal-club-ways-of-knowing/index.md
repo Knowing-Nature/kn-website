@@ -17,7 +17,7 @@ tags:
 - Ways of knowing
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/fdd5cj/Ep_36_-Journal_Club-_Ways_of_knowing7mrdr.mp3" >}}
+{{<podbean id="">}}
 
 Exploration of similarities and differences among Eurocentric sciences,
 Indigenous, and Neo-indigenous ways of knowing, to hopefully offer insights to

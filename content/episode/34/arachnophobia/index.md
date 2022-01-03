@@ -15,7 +15,7 @@ tags:
 - Arachnids
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/phvfr6/Ep_34_-Film_Club-_Arachnophobia60wtq.mp3" >}}
+{{<podbean id="">}}
 
 Arachnophobia (1990) Directed by Frank Marshall
 

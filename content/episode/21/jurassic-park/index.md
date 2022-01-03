@@ -14,7 +14,7 @@ tags:
 - Dinosaurs
 ---
 
-{{<audio src="https://knowingnature.podbean.com/mf/play/ltpnab/Ep_21_-Film_Club-_Jurassic_Park_6ne79.mp3" >}}
+{{<podbean id="">}}
 
 {{<film director="Steven Spielberg"
         starring="Sam Neill, Laura Dern, Jeff Goldblum"

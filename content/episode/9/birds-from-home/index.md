@@ -13,7 +13,7 @@ tags:
 - Birds
 ---
 
-{{<audio src="https://knowingnature.podbean.com/mf/play/eb23uy/Ep_9_-_Birds_from_home.mp3" >}}
+{{<podbean id="">}}
 
 Engaging with nature can be difficult because it often involves working on
 very different scales than we are used to. Things can be too small to see, too

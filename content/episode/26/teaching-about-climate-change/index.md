@@ -13,7 +13,7 @@ tags:
 - Climate change
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/ajtwbj/Ep_26_-_Teaching_climate_change8ct8x.mp3" >}}
+{{<podbean id="">}}
 
 In our experience, many non-school education providers offer 45min - 1hour
 sessions. In an effort to help teachers and attract bookings these are often

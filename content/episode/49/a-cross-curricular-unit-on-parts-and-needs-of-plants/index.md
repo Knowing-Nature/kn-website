@@ -12,7 +12,7 @@ categories:
 - Podcast
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/7dfmq4/Ep_49_-_Cross_curricular_plant_project81txb.mp3" >}}
+{{<podbean id="">}}
 
 Ideas for a cross curricular unit on the parts and needs of plants.
 

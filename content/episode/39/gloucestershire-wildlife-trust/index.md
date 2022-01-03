@@ -15,7 +15,7 @@ tags:
 - Outdoor education
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/t973qs/Ep_39_-_Gloucestershire_wildlife_trust6ce02.mp3" >}}
+{{<podbean id="">}}
 
 An interview with Lorna Fox - Head of Engagement and Learning at
 Gloucestershire Wildlife Trust

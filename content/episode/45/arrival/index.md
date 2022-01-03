@@ -17,7 +17,7 @@ tags:
 - Film
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/uvmun7/Ep_45_-Film_Club-_Arrival5zx2v.mp3" >}}
+{{<podbean id="">}}
 
 {{<film director="Denis Villeneuve"
         starring="Amy Adams, Jeremy Renner, Forest Whitaker"

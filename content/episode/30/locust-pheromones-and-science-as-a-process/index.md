@@ -15,7 +15,7 @@ tags:
 - News
 ---
 
-{{<audio src="https://mcdn.podbean.com/mf/web/a9fv89/Ep_30_-_Locust_pheromones_and_science_as_a_process705jq.mp3" >}}
+{{<podbean id="">}}
 
 ## Articles discussed
 

@@ -14,7 +14,7 @@ tags:
 - Tours
 ---
 
-{{<audio src="https://knowingnature.podbean.com/mf/play/kxggyn/Ep_6_-_Mammals_tour_pt_2.mp3" >}}
+{{<podbean id="">}}
 
 Another tour through the Mammal hall at the Natural History Museum in London.
 This tour focuses on some of the weird and wonderful mammal orders and their

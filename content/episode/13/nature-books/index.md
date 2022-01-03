@@ -13,7 +13,7 @@ tags:
 - Books
 ---
 
-{{<audio src="https://knowingnature.podbean.com/mf/play/c6t4ut/Ep_13_-_Nature_books.mp3" >}}
+{{<podbean id="">}}
 
 This episode we feature a few of our favourite nature/natural history books.
 
