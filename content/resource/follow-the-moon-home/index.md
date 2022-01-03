@@ -101,13 +101,13 @@ ask questions directly.
 
 ## Further exploration of themes in the book
 
-### **Lights out for turtles**
+### Lights out for turtles
 
 [Lights out for sea turtles](https://conserveturtles.org/lights-out-for-sea-turtles/) \- Sea Turtle Conservancy   
   
 [Behaviour of loggerhead sea turtles on an urban beach: Hatchling orientation](https://www.jstor.org/stable/1564740) \- JSTOR
 
-###  **Project-based learning**
+###  Project-based learning
 
 [What is Project-based Learning](https://www.pblworks.org/what-is-pbl) \- PBL works  
   
