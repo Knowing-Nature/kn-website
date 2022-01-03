@@ -9,7 +9,9 @@
     "start": "npm run hugo:serve",
     "hugo:build": "hugo -d build",
     "hugo:serve": "hugo server",
-    "hugo:clean": "shx rm -rf build public resources"
+    "hugo:clean": "shx rm -rf build public resources",
+    "new-loud": "node scripts/new.js",
+    "new": "npm run --silent new-loud"
   },
   "repository": {
     "type": "git",
@@ -22,7 +24,10 @@
   },
   "homepage": "https://github.com/victor-heng/kn-website#readme",
   "devDependencies": {
+    "fs": "^0.0.1-security",
     "hugo-bin-extended": "^0.91.2",
-    "shx": "^0.3.3"
+    "natural-orderby": "^2.0.3",
+    "shx": "^0.3.3",
+    "slugify": "^1.6.4"
   }
 }

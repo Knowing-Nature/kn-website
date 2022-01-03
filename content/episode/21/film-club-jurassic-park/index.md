@@ -1,6 +1,5 @@
 ---
 author: knowingnaturepodcast
-comments: true
 date: 2020-07-18 09:10:54+00:00
 draft: false
 slug: jurassic-park
