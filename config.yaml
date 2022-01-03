@@ -18,6 +18,12 @@ DefaultContentLanguage: en
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: false
 
+# Stop writing assets/jsconfig.json, which caused problems when sharing
+# the build across platforms. (Path delimiters kept being switched.)
+# https://gohugo.io/getting-started/configuration/#configure-build
+build:
+    noJSConfigInAssets: true
+
 permalinks:
     post: /article/:slug/
     page: /:slug/
