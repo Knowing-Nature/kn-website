@@ -24,6 +24,17 @@ hasCJKLanguage: false
 build:
     noJSConfigInAssets: true
 
+# https://www.thenewdynamic.com/article/hugo-module-netlify-redirects/
+disableAliases: true
+module:
+    imports:
+    - path: github.com/theNewDynamic/hugo-module-tnd-redirects
+outputs:
+  home:
+  - HTML
+  - RSS
+  - tnd_redirects_netlify
+
 permalinks:
     post: /article/:slug/
     page: /:slug/
@@ -173,6 +184,9 @@ params:
             enabled: true
         content:
             enabled: true
+
+    tnd_redirects:
+        use_aliases: true
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html

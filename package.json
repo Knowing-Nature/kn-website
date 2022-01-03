@@ -7,9 +7,9 @@
     "build": "npm run hugo:build",
     "clean": "npm run hugo:clean",
     "start": "npm run hugo:serve",
-    "hugo:build": "hugo -d build",
+    "hugo:build": "hugo",
     "hugo:serve": "hugo server",
-    "hugo:clean": "shx rm -rf build public resources",
+    "hugo:clean": "shx rm -rf public resources",
     "new": "node scripts/new.js"
   },
   "repository": {

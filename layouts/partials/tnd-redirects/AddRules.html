@@ -1,0 +1,9 @@
+{{ $rules := slice }}
+{{ range where site.RegularPages "Type" "episode" }}
+  {{ $origin := path.Dir .RelPermalink | path.Dir }}
+  {{ $target := .RelPermalink }}
+  {{ $rule := dict "origin" $origin "target" $target "code" 301 }}
+  {{ $rules = $rules | append $rule }}
+{{ end }}
+
+{{ return $rules }}
