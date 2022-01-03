@@ -6,13 +6,13 @@ draft: false
 slug: ways-of-knowing
 title: Ways of Knowing
 episode: 36
+image: glasses.jpg
 music: Gradual_Sunrise
 categories:
 - Podcast
 - Journal Club
 tags:
 - Decolonizing
-- Environmental education
 - Pedagogy
 - Ways of knowing
 ---

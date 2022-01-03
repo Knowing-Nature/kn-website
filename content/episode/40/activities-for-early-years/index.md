@@ -6,6 +6,7 @@ draft: false
 slug: activities-for-early-years
 title: Activities for early years
 episode: 40
+image: bughotel.jpg
 music: Marble_Machine
 categories:
 - Podcast

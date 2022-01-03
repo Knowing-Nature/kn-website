@@ -6,6 +6,7 @@ draft: false
 slug: ecoactive-and-forest-school-sessions
 title: EcoActive and forest school sessions
 episode: 42
+image: ecoactive.jpg
 music: Marble_Machine
 categories:
 - Podcast

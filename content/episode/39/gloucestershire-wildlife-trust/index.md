@@ -6,9 +6,13 @@ draft: false
 slug: gloucestershire-wildlife-trust
 title: Gloucestershire Wildlife Trust
 episode: 39
+image: gloucestershire.jpg
 music: Marble_Machine
 categories:
 - Podcast
+tags:
+- Behaviour change
+- Outdoor education
 ---
 
 {{<audio src="https://mcdn.podbean.com/mf/web/t973qs/Ep_39_-_Gloucestershire_wildlife_trust6ce02.mp3" >}}

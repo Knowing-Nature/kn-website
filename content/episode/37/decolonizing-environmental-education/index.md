@@ -6,6 +6,7 @@ draft: false
 slug: decolonizing-environmental-education
 title: Decolonizing environmental education
 episode: 37
+image: decolonizing.jpg
 music: Marble_Machine
 categories:
 - Podcast

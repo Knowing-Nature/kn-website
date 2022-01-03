@@ -7,7 +7,7 @@ slug: ocean-school
 title: Ocean school
 episode: 38
 music: Gradual_Sunrise
-image: ocean-school.png
+image: oceanschool.jpg
 wordpress_id: 405
 categories:
 - Podcast

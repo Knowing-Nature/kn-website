@@ -6,6 +6,7 @@ draft: false
 slug: a-cross-curricular-unit-on-parts-and-needs-of-plants
 title: A cross-curricular unit on parts and needs of plants
 episode: 49
+image: plants.jpg
 music: Marble_Machine
 categories:
 - Podcast
