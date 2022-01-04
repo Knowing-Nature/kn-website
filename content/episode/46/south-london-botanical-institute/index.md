@@ -10,6 +10,8 @@ image: slbi-garden-helen-firminger-059-667x500-1.jpg
 music: Marble_Machine
 categories:
 - Podcast
+tags:
+- Plants
 podbean:
   id: e2sjs-fe5fb6
   mp3: https://mcdn.podbean.com/mf/web/w3t5pv/Ep_46_-_South_London_Botanical_Instituteatb6u.mp3
