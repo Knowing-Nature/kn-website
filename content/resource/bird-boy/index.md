@@ -15,6 +15,7 @@ tags:
 ---
 
 {{<book ageFrom="4" ageTo="8"
+        title="Bird Boy"
         author="Matthew Burgess"
         illustrator="Shahrzad Maydani"
         cover="birdboy_book.jpg"
