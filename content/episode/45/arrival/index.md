@@ -15,9 +15,12 @@ tags:
 - Aliens
 - Climate change
 - Film
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/uvmun7/Ep_45_-Film_Club-_Arrival5zx2v.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 {{<film director="Denis Villeneuve"
         starring="Amy Adams, Jeremy Renner, Forest Whitaker"

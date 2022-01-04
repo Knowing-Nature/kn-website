@@ -10,9 +10,12 @@ image: plants.jpg
 music: Marble_Machine
 categories:
 - Podcast
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/7dfmq4/Ep_49_-_Cross_curricular_plant_project81txb.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Ideas for a cross curricular unit on the parts and needs of plants.
 

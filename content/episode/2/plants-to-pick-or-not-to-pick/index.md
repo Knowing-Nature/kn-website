@@ -12,9 +12,12 @@ categories:
 tags:
 - Lesson planning
 - Plants
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/wxvtpq/Episode_2_-_Pick_or_not_to_pick.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 It can be tough to get people to be interested in plants. They usually don't
 move or do anything on a timescale we pay attention to, so a hands-on approach

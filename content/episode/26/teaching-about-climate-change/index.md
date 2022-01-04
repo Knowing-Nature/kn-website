@@ -11,9 +11,12 @@ categories:
 - Podcast
 tags:
 - Climate change
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/ajtwbj/Ep_26_-_Teaching_climate_change8ct8x.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 In our experience, many non-school education providers offer 45min - 1hour
 sessions. In an effort to help teachers and attract bookings these are often

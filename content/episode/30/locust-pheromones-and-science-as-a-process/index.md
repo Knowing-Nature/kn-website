@@ -13,9 +13,12 @@ categories:
 tags:
 - Insects
 - News
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/a9fv89/Ep_30_-_Locust_pheromones_and_science_as_a_process705jq.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 ## Articles discussed
 

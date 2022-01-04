@@ -15,9 +15,12 @@ tags:
 - Forest school
 - Lesson planning
 - Outdoor
+podbean:
+    id:
+    mp3: https://knowingnature.podbean.com/mf/play/f6m8ce/Ep_15_-_Education_indoors_and_out_99wee.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 This episode looks at the benefits and challenges for environmental education
 in classrooms and outdoors. We discuss strategies for dealing with these

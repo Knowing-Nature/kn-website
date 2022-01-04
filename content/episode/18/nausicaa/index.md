@@ -10,9 +10,12 @@ music: Selfish
 categories:
 - Podcast
 - Film Club
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/sgtchu/Ep_18_-_Film_club_Nausicaa_87p7z.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Discussion of the 1984 film Nausicaa of the valley of the wind. Directed by
 Hayao Miyazaki.

@@ -11,9 +11,12 @@ categories:
 - Podcast
 tags:
 - News
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/q7u8yi/Ep_7_-_2019_Nature_news.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 ## Space News
 

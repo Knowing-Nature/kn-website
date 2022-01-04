@@ -12,9 +12,12 @@ categories:
 - Film Club
 tags:
 - Deforestation
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/t1i2qq/Ep_16-Film_club-_Ferngully_654jh.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Discussion about environmental and conservation themes in the film Ferngully.
 Film recommended for ages 5-12.

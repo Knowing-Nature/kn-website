@@ -17,9 +17,12 @@ tags:
 - Farming
 - People and plants
 - Plants
+podbean:
+  id: w92se-111c042
+  mp3: https://mcdn.podbean.com/mf/web/5dzwpv/Ep_57_-_Saving_the_Shea_Tree_with_Agroforestry_in_Uganda67mwg.mp3
 ---
 
-{{<podbean id="w92se-111c042">}}
+{{<podcast-player>}}
 
 Interview with activist Mustafa Gerima about his campaign to develop local
 agroforestry in order to encourage communities to protect shea trees from

@@ -15,9 +15,12 @@ tags:
 - Citizen science
 - Pollinators
 - Science
+podbean:
+  id: 44fsk-105823a
+  mp3: https://mcdn.podbean.com/mf/web/mgqby7/Ep_54_-_Bumblebees_and_citizen_scienceagp4f.mp3
 ---
 
-{{<podbean id="44fsk-105823a">}}
+{{<podcast-player>}}
 
 Podcast interview with Dr. Richard Comont from the Bumblebee Conservation
 Trust about the citizen science projects they are involved in. He tells us

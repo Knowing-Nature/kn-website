@@ -13,9 +13,12 @@ tags:
 - Identification
 - Podcast
 - Ponds
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/p7tah8/Ep_44_-_WWT_London_Wetland_Centre891o1.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Interview with Paul, Learning manager at the London Wetland Centre (LWC). A
 site maintained by the Wildfowl and Wetlands Trust (WWT). We discuss the ever

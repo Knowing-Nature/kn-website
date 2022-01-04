@@ -12,9 +12,12 @@ categories:
 - Film Club
 tags:
 - Urban wildlife
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/98h1n0/Ep_17_-Film_club-_Over_the_hedge_bkg7p.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Discussion about the film Over the hedge. Released in 2006. Directed by Karey
 Kirkpatrick and Tim Johnson.

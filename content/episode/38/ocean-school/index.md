@@ -11,9 +11,12 @@ image: oceanschool.jpg
 wordpress_id: 405
 categories:
 - Podcast
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/xia5b4/Ep_38_-_Ocean_School9u4cr.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Interview with Lucija, Science producer at Ocean School.
 <https://oceanschool.nfb.ca/>

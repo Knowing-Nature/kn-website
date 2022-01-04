@@ -15,9 +15,12 @@ tags:
 - Invertebrates
 - Lockdown
 - Spiders
+podbean:
+    id:
+    mp3: https://knowingnature.podbean.com/mf/play/a6j8tm/Ep_11_-_Spiders_at_home.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 This episode we continue the invertebrate theme but focusing on spiders.
 

@@ -17,9 +17,12 @@ tags:
 - Lion King
 - Nature
 - Tourism
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/pi3gmd/Ep_8_-_Nature_in_film.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 In this episode we explore how nature is depicted in films and share ideas for
 using film to explore themes in ecology and conservation.

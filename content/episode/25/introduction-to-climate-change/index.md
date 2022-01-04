@@ -11,9 +11,12 @@ categories:
 - Podcast
 tags:
 - Climate change
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/tagfr7/Ep_25_-_Introduction_to_climate_change7qswu.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 A quick guide to the basics of climate science and the impacts of climate
 change.

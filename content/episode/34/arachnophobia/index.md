@@ -13,9 +13,12 @@ categories:
 - Film Club
 tags:
 - Arachnids
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/phvfr6/Ep_34_-Film_Club-_Arachnophobia60wtq.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Arachnophobia (1990) Directed by Frank Marshall
 

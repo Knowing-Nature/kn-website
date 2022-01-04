@@ -11,9 +11,12 @@ music: Selfish
 categories:
 - Podcast
 - Journal Club
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/5xhkas/Ep_29_-_Murder_hornets_and_science_news_literacyajblx.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Using science news literacy skills to put click-bait in context. Discussion
 about recent stories of ‘murder hornets’ found in monitoring traps in the

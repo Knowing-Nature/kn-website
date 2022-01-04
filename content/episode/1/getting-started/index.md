@@ -10,9 +10,12 @@ episode: 1
 wordpress_id: 26
 categories:
 - Podcast
+podbean:
+    id:
+    mp3: https://mcdn.podbean.com/mf/web/abcxqv/Knowing_Nature_-_episode_1_mixdown.mp3
 ---
 
-{{<podbean id="" >}}
+{{<podcast-player>}}
 
 Welcome to the Knowing Nature. A podcast exploring and engaging with the
 natural world.

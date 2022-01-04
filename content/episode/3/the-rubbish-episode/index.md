@@ -11,9 +11,12 @@ categories:
 - Podcast
 tags:
 - Pollution
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/6bq7h8/Ep_3_-_The_rubish_episode.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Pollution and garbage. Why they're problems and ideas for engaging with the
 issue.

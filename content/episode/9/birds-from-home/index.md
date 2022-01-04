@@ -4,16 +4,19 @@ comments: true
 date: 2020-03-21 17:10:28+00:00
 draft: false
 slug: birds-from-home
-title: Birds from home
+title: Birds from Home
 episode: 9
 music: Selfish
 categories:
 - Podcast
 tags:
 - Birds
+podbean:
+    id: nupjf-d6cb05
+    mp3: https://knowingnature.podbean.com/mf/play/eb23uy/Ep_9_-_Birds_from_home.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Engaging with nature can be difficult because it often involves working on
 very different scales than we are used to. Things can be too small to see, too

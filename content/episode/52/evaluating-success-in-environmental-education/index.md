@@ -15,9 +15,12 @@ tags:
 - Education
 - Evaluation
 - Pedagogy
+podbean:
+  id: 868ii-1030640
+  mp3: https://mcdn.podbean.com/mf/web/xuav93/Ep_52_-_Evaluating_success_in_environmental_education945wz.mp3
 ---
 
-{{<podbean id="868ii-1030640">}}
+{{<podcast-player>}}
 
 Discussion with Lorna Fox from Gloucestershire Wildlife Trust about the
 importance of systematic evaluation. This discussion was framed by three

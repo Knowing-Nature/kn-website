@@ -15,9 +15,12 @@ tags:
 - Art
 - Pedagogy
 - Science
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/m2k9dn/Ep_31_-Journal_club-_Art_in_environmental_education981e2.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 ## Framing paper
 

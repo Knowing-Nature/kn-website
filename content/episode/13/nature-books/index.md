@@ -11,9 +11,12 @@ categories:
 - Podcast
 tags:
 - Books
+podbean:
+    id:
+    mp3: https://knowingnature.podbean.com/mf/play/c6t4ut/Ep_13_-_Nature_books.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 This episode we feature a few of our favourite nature/natural history books.
 

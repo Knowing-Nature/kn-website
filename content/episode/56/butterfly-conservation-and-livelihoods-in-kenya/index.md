@@ -16,9 +16,12 @@ tags:
 - Conservation
 - Deforestation
 - Farming
+podbean:
+  id: s5rhk-108fbc8
+  mp3: https://mcdn.podbean.com/mf/web/8td8ht/Ep_56_-_Kipepeo_Butterfly_Projecta336y.mp3
 ---
 
-{{<podbean id="s5rhk-108fbc8">}}
+{{<podcast-player>}}
 
 Interview with the manager of the Kipepeo Butterfly Project, a conservation
 initiative manged in part by the National Museum of Kenya. The project works

@@ -14,9 +14,12 @@ categories:
 tags:
 - Amazon
 - Decolonizing
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/bm3t6t/Ep_35_-Film_club-_Lost_city_of_Zanpip.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Lost City of Z (2016). Directed by James Gray. Based on the 2009 book Lost
 city of Z by David Grann.

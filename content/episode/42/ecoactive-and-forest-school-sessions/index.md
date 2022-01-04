@@ -10,9 +10,12 @@ image: ecoactive.jpg
 music: Marble_Machine
 categories:
 - Podcast
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/mtxiy6/Ep_42_-_EcoActive72n78.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Interview with environmental educator Catia about her work with EcoActive.
 

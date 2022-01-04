@@ -12,9 +12,12 @@ categories:
 - Podcast
 tags:
 - Philosophy
+podbean:
+  id: 8iycq-107e51a
+  mp3: https://mcdn.podbean.com/mf/web/iwkvvz/Ep_55_-_Thinking_while_walking6r1ox.mp3
 ---
 
-{{<podbean id="8iycq-107e51a">}}
+{{<podcast-player>}}
 
 Conversation with Professor Martin Bunzl about what philosophy has to add to
 discussions around environmental issues. We also look at some of the themes in

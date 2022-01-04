@@ -13,9 +13,12 @@ categories:
 tags:
 - Education
 - Science
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/mxxfqa/Ep_27_-Journal_Club-_Uncertainty_and_the_nature_of_science72scb.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Discussion about challenges of teaching science. The discussion is framed by a
 paper by Rabinovich and Morton (2012) which looked at participants beliefs

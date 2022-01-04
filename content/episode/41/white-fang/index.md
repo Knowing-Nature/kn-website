@@ -14,9 +14,12 @@ categories:
 tags:
 - Pioneers
 - Wolves
+podbean:
+  id:
+  mp3: https://mcdn.podbean.com/mf/web/ktxdi2/Ep_41_-Film_Club-_Whitefang8lp2p.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 Discussion of the 2018 film _White Fang_, directed by Alexandre Espigares and
 distributed by Netflix. Based on the 1906 book by Jack London. In this episode

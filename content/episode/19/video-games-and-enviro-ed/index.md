@@ -9,9 +9,12 @@ episode: 19
 music: Selfish
 categories:
 - Podcast
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/8i5c87/Ep19-_Video_games_and_enviro-ed_9mjnq.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 How games can support engagement **** with nature
 

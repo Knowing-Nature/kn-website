@@ -11,9 +11,12 @@ categories:
 - Podcast
 tags:
 - Frogs
+podbean:
+  id:
+  mp3: https://knowingnature.podbean.com/mf/play/qkbbfu/Ep_4_-_Frogs.mp3
 ---
 
-{{<podbean id="">}}
+{{<podcast-player>}}
 
 All about frogs! With ideas for engaging with amphibians, including tips for
 raising tadpoles and issues to consider if you want to keep them as pets.
