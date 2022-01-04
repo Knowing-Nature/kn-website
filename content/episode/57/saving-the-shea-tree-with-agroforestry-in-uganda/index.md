@@ -134,19 +134,16 @@ campaign.
 ![](sheatree2.jpg)
 ![](sheatree3.jpg)
 
-### About charcoal
+## Further Reading on topics discussed
+### Charcoal
+[Charcoal as a fuel](https://youtu.be/xxa4cCo9CYw)
 
-https://youtu.be/xxa4cCo9CYw
-
-### **How shea butter is made**
-
-https://youtu.be/Q7ktkxQuCjI
-
-### **Shea and biodiversity**
+### Shea Butter
+[How shea butter is made](https://youtu.be/Q7ktkxQuCjI)
 
 [Birds, bees and butter: Biodiversity critical for shea crop in Africa](https://www.sciencedaily.com/releases/2020/05/200526091355.htm) \- Science Daily
 
-### **Agroforestry**
+### Agroforestry
 
 [What is Agroforestry?](https://www.soilassociation.org/causes-campaigns/agroforestry/what-is-agroforestry/) \- Soil Association
 
@@ -161,6 +158,3 @@ https://youtu.be/Q7ktkxQuCjI
 [The link between healthcare and deforestation on Borneo](https://www.bbc.co.uk/programmes/b08hnly0) \- BBC - Costing the Earth
 
 [Key reasons why tree planting so often fails](https://www.naturebasedsolutionsinitiative.org/news/key-reasons-why-tree-planting-so-often-fails/) \- Nature Based Solutions Initiative
-
-## Related Resources from Knowing Nature
-

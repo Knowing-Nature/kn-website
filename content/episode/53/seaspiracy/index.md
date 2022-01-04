@@ -58,16 +58,16 @@ and approach the various issues it raises.
 
 ### Conspiracy framing
 
-#### “Why am I only hearing about this now?" / "Why is nobody talking about this?"
+**“Why am I only hearing about this now?" / "Why is nobody talking about this?"**
 
-People in marine conservation are talking about issues like discarded fishing gear and have been for years. As an example the United Nations Environment Programme [published a report in 2009 about discarded fishing gear](https://stg-wedocs.unep.org/bitstream/handle/20.500.11822/8148/Abondaned%20%2C%20lost%20or%20otherwise%20discarded%20fishing%20gear%20Marine_Litter_Abandoned_Lost_Fishing_Gear.pdf?sequence=3&isAllowed=y), and international organizations have been taking action on waste dumping in the oceans since the 1970s. That said, the intended target audience for the film may have been those who haven't heard about the issue before and the many people who don't follow marine conservation research.
+People in marine conservation are talking about issues like discarded fishing gear and have been for years. As an example, the United Nations Environment Programme [published a report in 2009 about discarded fishing gear](https://stg-wedocs.unep.org/bitstream/handle/20.500.11822/8148/Abondaned%20%2C%20lost%20or%20otherwise%20discarded%20fishing%20gear%20Marine_Litter_Abandoned_Lost_Fishing_Gear.pdf?sequence=3&isAllowed=y), and international organizations have been taking action on waste dumping in the oceans since the 1970s. That said, the intended target audience for the film may have been those who haven't heard about the issue before and the many people who don't follow marine conservation research.
 
 Asking these questions within a conspiracy framing is a problem because it
 implies there is an active attempt to cover up the issue. This is inaccurate
 and has the effect of undermining the organizations which have been working to
 take action on these issues.
 
-#### “Everyone only talks about plastic straws?" / “Why are they avoiding talking about fishing?”
+**“Everyone only talks about plastic straws?" / “Why are they avoiding talking about fishing?”**
 
 Again, within the conspiracy framing, these questions imply that there is an
 active effort to cover up or avoid the issue. If asked outside of a conspiracy
@@ -88,7 +88,7 @@ behaviours. Single use plastics are much closer to the consumer, so individual
 action is more feasible, and has proved successful. Bans on plastic straws and
 bags have led to dramatic declines in their use.
 
-#### "Follow the money" - not as useful as it sounds
+**"Follow the money" - not as useful as it sounds**
 
 Receiving money from the industry being monitored tells you there is the
 **_potential_** for a problem, it does not indicate there **_is_** a problem.
@@ -151,60 +151,60 @@ on these issues, and no discussion of steps which could be taken to improve
 the situation.
 
 It is also problematic because the distrust in regulatory bodies and
-conservation charities it is based on encourages viewers to disengage from
+conservation charities pushes viewers to disengage from
 those processes. Viewers who might no longer trust sustainability labels may
-revert to purchasing the cheapest and probably less sustainable options.
+revert to purchasing cheaper and, probably, less sustainable options.
 
 ### You don't have to do just one thing
 
 The end focus on one solution misses out on an opportunity inform viewers of
 all the actions they could take which can help. A list or hierarchy of options
-so that viewers could see actions which they are able to take. The film could
+so that viewers could see actions which tackle problems from many angles. The film could
 also have encouraged viewers to speak with their elected representatives about
 their concerns. Letting governments and regulatory bodies know that there is
-support for stronger regulation and enforcement, or even supporting fishing
-communities in transitioning away from those industries has the potential for
-huge impact on the problems facing oceans.
+support for stronger regulation and enforcement, or pushing for support for fishing
+communities to transition away from those industries.
 
 ## Making use of Seaspiracy
 
-  * **Compare documentary styles**
-    *  _Blue Planet 2_ vs _Seaspiracy_
-      * Compare language use, information provided, messages, narratives
-      * BP2: Talks about problems, causes, solutions, work still to be done
-      * Ssp: problems, fear, revulsion, presents single solution
-    * Compare cultural perspectives on the dolphin hunt in Taiji, Japan 
-      * _A Whale of a Tale,_ 2018
-      *  _Behind the Cove,_ 2015
-      *  _The Cove_ , 2009
+### Compare documentary styles
+* Compare language use, information provided, messages, narratives
+* Blue Planet 2 vs Seaspiracy
+  * BP2: Talks about problems, causes, solutions, work still to be done
+  * Ssp: problems, fear, revulsion, presents single solution
+  * Compare cultural perspectives on the dolphin hunt in Taiji, Japan
+    * _A Whale of a Tale_, 2018
+    * _Behind the Cove_, 2015
+    * _The Cove_, 2009
 
-  * **Fact-checking exercise**
-    * The film provides many specific numbers which students can track down
-    * [Sustainable fisheries article on the facts in the film](https://sustainablefisheries-uw.org/science-of-seaspiracy/?fbclid=IwAR1YUgE2DT1ssckYL6R8aWdQeO_JgYFJ4HnKMtrWkimnyEvalhfhu6AtoVE)
+### Fact-checking exercise
+* The film provides many specific numbers which students can track down
+* [Sustainable fisheries article on the facts in the film](https://sustainablefisheries-uw.org/science-of-seaspiracy/?fbclid=IwAR1YUgE2DT1ssckYL6R8aWdQeO_JgYFJ4HnKMtrWkimnyEvalhfhu6AtoVE)
 
-  * **Media literacy exercise**
-    * What is this trying to make me feel and why?
+### Media literacy exercise
+* What is this trying to make me feel and why?
 
-  * **Power/Western colonialism**
-    * Whose views are being represented? Whose are being left out?
-    * Whose voices to you get to hear? Who gets a film maker's voiceover summary?
-    * How is power and privilege being exercised?
+### Power/Western colonialism
+* Whose views are being represented? Whose are being left out?
+* Whose voices to you get to hear? Who gets a film maker's voiceover summary?
+* How is power and privilege being exercised?
 
-  * **Check your own biases and assumptions**
-    * How do you feel about the issues raised? 
-    * Do you agree with points because you know they are supported by evidence or because they feel plausible?
-    * Could you be mistaken in your views on the film's accuracy?
+### Check your own biases and assumptions
+* How do you feel about the issues raised?
+* Do you agree with points because you know they are supported by evidence or because they feel plausible?
+* Could you be mistaken in your views on the film's accuracy?
 
-  * **Outline a better documentary**
-    * Students could think of what they would do to improve the documentary
-      * Do they want more emotional resonance? Less?
-      * What other information would they include?
-      * Who else would they want to speak to?
-    * Compare improved documentary outlines and discuss differences in approach
-      * Important to be able to express your opinions and the basis for your opinions
-      * Important to be able to listen to other people’s opinions and be able to see where they are coming from. This exercise is not about arriving at a right/wrong answer or reaching consensus, it is about constructive feedback and empathy.
+### Outline a better documentary
+* Students could think of what they would do to improve the documentary
+  * Do they want more emotional resonance? Less?
+  * What other information would they include?
+  * Who else would they want to speak to?
 
-### More responses to Seaspiracy
+* Compare improved documentary outlines and discuss differences in approach
+  * Important to be able to express your opinions and the basis for your opinions
+  * Important to be able to listen to other people’s opinions and be able to see where they are coming from. This exercise is not about arriving at a right/wrong answer or reaching consensus, it is about constructive feedback and empathy.
+
+## More responses to Seaspiracy
 
 [Big Fish tries to sink Seaspiracy - Comment piece by the editor from The Ecologist](https://theecologist.org/2021/apr/09/big-fish-tries-sink-seaspiracy)
 
@@ -214,7 +214,7 @@ huge impact on the problems facing oceans.
 
 [The Seaspiracy Controversy: Should we stop eating fish? - Today in Focus podcast from The Guardian](https://www.theguardian.com/news/audio/2021/apr/26/the-seaspiracy-controversy-should-we-stop-eating-fish-podcast)
 
-### Relevant resources
+## Further reading about topics discussed
 
 [Faroe Island Whaling, a 1,000-Year Tradition, Comes Under Renewed Fire - National Geographic](https://www.nationalgeographic.com/culture/article/140911-faroe-island-pilot-whale-hunt-animals-ocean-science)
 
