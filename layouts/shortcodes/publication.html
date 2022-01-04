@@ -1,10 +1,12 @@
 {{/* Customize the image based on the publisher, if possible */}}
 {{ $cover_image := "/journal.png" }}
-{{ if isset .Params "publisher" }}
-	{{ if eq (.Get "publisher") "Springer" }}
-		{{ $cover_image := "/journal_springer.png" }}
-	{{ else if eq (.Get "publisher") "Nature" }}
-		{{ $cover_image := "/journal_nature.png" }}
+{{ with $pub := .Get "publisher" }}
+	{{ if eq $pub "Springer" }}
+		{{ $cover_image = "/journal_springer.png" }}
+	{{ else if eq $pub "Nature" }}
+		{{ $cover_image = "/journal_nature.png" }}
+	{{ else if eq $pub "Wiley" }}
+		{{ $cover_image = "/journal_wiley.png" }}
 	{{ end }}
 {{ end }}
 
@@ -29,7 +31,7 @@
 {{ end }}
 {{ $location := delimit $locs ", "}}
 
-<div class="media-callout">
+<div class="media-callout publication">
 	<div class="media-thumb">
 		<a href='{{ $link }}'><img src='{{ $cover_image }}'/></a>
 	</div>
@@ -46,8 +48,10 @@
 		<div class="media-callout-key">Journal</div>
 		<div><em>{{ .Get "journal" }}</em></div>
 
-		<div class="media-callout-key">Location</div>
-		<div>{{ $location }}</div>
+		{{ if gt (len $location) 0 }}
+			<div class="media-callout-key">Location</div>
+			<div>{{ $location }}</div>
+		{{ end }}
 
 		{{ with .Get "publisher" }}
 			<div class="media-callout-key">Publisher</div>

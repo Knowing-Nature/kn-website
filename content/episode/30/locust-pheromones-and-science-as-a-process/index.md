@@ -138,14 +138,24 @@ Related reading
                issue="1"
 >}}
 
-Besley, J. C., Lee, N. M., & Pressgrove, G. (2020). Reassessing the Variables
-Used to Measure Public Perceptions of Scientists. Science Communication.
-https://doi.org/10.1177/1075547020949547
+{{<publication title="Reassessing the Variables Used to Measure Public Perceptions of Scientists"
+               authors="Besley, J. C., Lee, N. M., & Pressgrove, G."
+               year="2020"
+               journal="Science Communication"
+               doi="10.1177/1075547020949547"
+>}}
 
-Rabinovich, Anna & Morton, Thomas. (2012). Unquestioned Answers or Unanswered
-Questions: Beliefs About Science Guide Responses to Uncertainty in Climate
-Change Risk Communication. Risk analysis : an official publication of the
-Society for Risk Analysis. 32. 992-1002.
+{{<publication title="Unquestioned Answers or Unanswered Questions: Beliefs About Science Guide Responses to Uncertainty in Climate Change Risk Communication"
+               authors="Rabinovich, Anna & Morton, Thomas"
+               year="2012"
+               journal="Risk Analysis"
+               doi="10.1111/j.1539-6924.2012.01771.x"
+               link="https://www.mcser.org/index.php/37-archive/jesr-archive/jesr-2013/615-jesr-vol-3-no-1-january-2013-2"
+               publisher="Wiley"
+               pageStart="992" pageEnd="1002"
+               volume="32"
+               issue="6"
+>}}
 
 Questions? Comments? [Get in touch here](/about).
 
