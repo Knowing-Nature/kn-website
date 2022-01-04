@@ -3,17 +3,26 @@
 		<a href='{{ .Get "publisher-link" }}'><img src='{{ .Get "cover" }}'/></a>
 	</div>
 	<div class="media-callout-grid">
-		<div class="media-callout-key">Ages</div>
-			{{ .Get "ageFrom" }}–{{ .Get "ageTo" }} years
+		{{ if and (isset .Params "ageFrom") (isset .Params "ageTo") }}
+			<div class="media-callout-key">Ages</div>
+			<div>{{ .Get "ageFrom" }}–{{ .Get "ageTo" }} years</div>
+		{{ end }}
+
 		<div class="media-callout-key">Author</div>
-			{{ .Get "author" }}
-		<div class="media-callout-key">Illustrator</div>
-			{{ .Get "illustrator" }}
+		<div>{{ .Get "author" }}</div>
+
+		{{ with $illustrator := .Get "illustrator" }}
+			<div class="media-callout-key">Illustrator</div>
+			<div>{{ . }}</div>
+		{{ end }}
+
 		<div class="media-callout-key">Publisher</div>
-			<a href='{{ .Get "publisher-link" }}'>{{ .Get "publisher" }}</a>
+		<div><a href='{{ .Get "publisher-link" }}'>{{ .Get "publisher" }}</a></div>
+
 		<div class="media-callout-key">Published</div>
-			{{ .Get "date" | time.Format "2 January 2006" }}
+		<div>{{ .Get "date" | time.Format "2 January 2006" }}</div>
+
 		<div class="media-callout-key">Length</div>
-			{{ .Get "pages" }} pages
+		<div>{{ .Get "pages" }} pages</div>
 	</div>
 </div>
