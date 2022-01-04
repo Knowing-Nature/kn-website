@@ -13,6 +13,11 @@
 	position: relative;
 }
 
+article .summary {
+	color: var(--body-text-color);
+	margin: 0 30px 30px 30px;
+}
+
 //fully qualify to override the theme style
 .article-page .main-article .article-content {
 	.media-callout {
