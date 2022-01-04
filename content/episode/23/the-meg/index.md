@@ -6,11 +6,13 @@ draft: false
 slug: the-meg
 title: The Meg
 episode: 23
+image: meg.jpg
 music: Selfish
 categories:
 - Podcast
 - Film Club
 tags:
+- Oceans
 - Sharks
 podbean:
   id:

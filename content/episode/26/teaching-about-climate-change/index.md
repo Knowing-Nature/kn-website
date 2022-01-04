@@ -6,6 +6,7 @@ draft: false
 slug: teaching-about-climate-change
 title: Teaching about Climate Change
 episode: 26
+image: climateprotest.jpg
 music: Selfish
 categories:
 - Podcast

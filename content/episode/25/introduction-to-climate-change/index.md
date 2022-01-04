@@ -6,11 +6,13 @@ draft: false
 slug: introduction-to-climate-change
 title: Introduction to climate change
 episode: 25
+image: icebergs.jpg
 music: Selfish
 categories:
 - Podcast
 tags:
 - Climate change
+- Science
 podbean:
   id:
   mp3: https://mcdn.podbean.com/mf/web/tagfr7/Ep_25_-_Introduction_to_climate_change7qswu.mp3
