@@ -21,7 +21,8 @@ podbean:
 
 {{<podcast-player>}}
 
-{{<film director="Denis Villeneuve"
+{{<film title="Arrival"
+        director="Denis Villeneuve"
         starring="Amy Adams, Jeremy Renner, Forest Whitaker"
         thumb="arrival.jpg"
         release-date="2016-09-02"
