@@ -14,24 +14,17 @@ tags:
 - Decolonizing
 - Pedagogy
 podbean:
-  id:
+  id: emdq9-f38903
   mp3: https://mcdn.podbean.com/mf/web/piwfup/Ep_37_-_Decolonizing_environmental_education73tp5.mp3
 ---
 
 {{<podcast-player>}}
 
-## How does environmental education reproduce colonial structures and
-mindsets?
+## How does environmental education reproduce colonial structures and mindsets?
 
-Environmental education is often done from a western scientific perspective
+Environmental education is often done from a western scientific perspective. Concepts of natural capital and ecosystem services take the relationship between the natural world and people and encodes it within a capitalist system of values. In theory, these concepts could push economic and political systems to safeguard nature because of its value as raw resources and ‘free’ services such as flood protection or purification of air and water.
 
-Concepts of natural capital and ecosystem services take the relationship
-between the natural world and people and encodes it within a capitalist system
-of values.
-
-  * In theory, these concepts could push economic and political systems to safeguard nature because of its value as raw resources and ‘free’ services such as flood protection or purification of air and water. 
-
-  * Indigenous ways of conceptualizing nature often do not have the strong dichotomy between people and nature. Places are part of the people who live there, and are often referred to as relations. Evaluating the worth of an area’s resources and services might be like trying to quantify the value of your cousins or your parents. 
+Indigenous ways of conceptualizing nature often do not have the strong dichotomy between people and nature. Places are part of the people who live there, and are often referred to as relations. Evaluating the worth of an area’s resources and services might be like trying to quantify the value of your cousins or your parents.
 
 In an article by Sheelah McLean in The Canadian Geographer, she writes that
 environmental education tends to focus on the effects of environmental
@@ -86,7 +79,7 @@ These themes are in large part about understanding and reconciling with
 differences and inequalities, and so they are themes which offer benefits even
 for places or peoples without the same recent history colonization.  
 
-## **What might decolonizing environmental education look like?**
+## What might decolonizing environmental education look like?
 
 Recognition that our perspectives on nature are shaped by our personal
 cultural background, and the cultural environments we work within. And that
@@ -202,7 +195,7 @@ rainforests or deforestation, don’t just drop in mention of Amazonian peoples.
 Instead choose one or more groups to highlight and make their perspective, and
 their voices central to the lesson or the unit.
 
-### No context
+### Giving no context
 
 Lack of context can reinforce inaccurate or sometimes harmful stereotypes. A
 very simple example of this is depiction of peoples in traditional clothing.

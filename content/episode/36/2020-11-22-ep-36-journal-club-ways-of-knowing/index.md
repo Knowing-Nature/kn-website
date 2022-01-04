@@ -16,7 +16,7 @@ tags:
 - Pedagogy
 - Ways of knowing
 podbean:
-  id:
+  id: befd3-f2f49b
   mp3: https://mcdn.podbean.com/mf/web/fdd5cj/Ep_36_-Journal_Club-_Ways_of_knowing7mrdr.mp3
 ---
 
@@ -49,7 +49,7 @@ _Cultural Studies of Science Education._ 2, 539–620.
 
 ## Indigenous ways of knowing
 
-  * **Tend not to make use of dichotomies.  **
+  * Tend not to make use of dichotomies.
 
 > “The languages of Aboriginal peoples allow for the transcendence of
 > boundaries. For example, the categorizing process in many Aboriginal
@@ -62,16 +62,16 @@ _Cultural Studies of Science Education._ 2, 539–620.
 >
 > -Leroy Little Bear
 
-  * **Holistic and relational**
+  * Holistic and relational
     * Tends not to make the distinctions made by Europeans between concepts like science, art, religion.  Also tend to see everything as animate in some way, having knowledge and spirit. Don’t tend to have a hierarchy of status where plants are below animals, which are below people. Similarities between entities and people mean they are often also considered related to people.
 
-  * **Place-based**
+  * Place-based
     * Knowledge and identity are profoundly linked with place or landscape.
 
-  * **Systematically empirical**
+  * Systematically empirical
     * Experience is collected over generations, incorporating or embracing changes. New information is “vetted collaboratively with wise knowledge keepers (often Elders), and all are tested out in the everyday world of personal experience.” (p.562)
 
-  * **Circular/Cyclical sense of time.**
+  * Circular/Cyclical sense of time.
     * Embraces cycles and patterns. Time is dynamic but is not a linear progression.
 
 ## Neo-indigenous ways of knowing**
@@ -121,10 +121,10 @@ environment they inhabit.
 
 ### Have you seen or encountered examples of different ways of understanding the world?
 
-  * **Ways of dealing with death and grief**
+  * Ways of dealing with death and grief
     * [End of life care: The importance of culture and ethnicity](https://www.issuelab.org/resources/17334/17334.pdf)
 
-  * **Cleanliness**
+  * Cleanliness
     * Moral or spiritual pollution - concepts like sin or karma
     * Dirtiness - Being muddy or unsanitary
     * Pollution - Contamination with poisons or toxins
@@ -134,7 +134,7 @@ fertilizers, or other toxins, but still be unsanitary or unsafe for drinking.
 It may be that neither of these dimensions have any bearing on the spiritual
 purity/pollution of the water.
 
-  * **Authority / expertise**
+  * Authority / expertise
     * Lived experience vs Academic knowledge
     * Who is an expert? Adults, Scientists, people with experience etc.
 
@@ -146,7 +146,7 @@ Reliance on experts for information may undermine individual’s drive to learn
 on their own. However individual first-hand investigation has limitations, and
 solely relying on this may lead to developing misconceptions.
 
-  * **Deconstructing/simplifying systems**
+  * Deconstructing/simplifying systems
     * Western sciences tend to deconstruct or simplify systems. May make holistic interpretations more difficult.
     * Qualitative vs quantitative methods. Using only one approach can miss important insights.
     * Long-term immersion in a setting is rare in western sciences. New projects show us what we’ve been missing.
@@ -157,19 +157,19 @@ solely relying on this may lead to developing misconceptions.
 ### Adapting to different paradigms
 What do you already do, or have done, which could be adapted to these different paradigms?
 
-  * **Incorporate more art into environmental communication**
+  * Incorporate more art into environmental communication
 
-  * **Change the way we talk about and look at the natural world. Learn to see from more holistic viewpoints.**
+  * Change the way we talk about and look at the natural world. Learn to see from more holistic viewpoints.
     * Many good examples in New Zealand
     * [Interpretation in Maori cultural tourism in New Zealand - Pacific Geographies](http://pacific-geographies.org/wp-content/uploads/sites/2/2017/06/pg39_dwyer.pdf)
 
-  * **Experiential learning**
+  * Experiential learning
     * Gardening is a good example. It is very place-based, cyclical, and can be very empirical. Gardeners are constantly testing wisdom passed on from other gardeners.
 
-  * **Consider the relevance of what students learn.**
+  * Consider the relevance of what students learn.
     * Conceptualizing learning as ‘shiru’, which blends knowledge and how it shapes behaviour. The relevance of learning is built in. Learned ideas include how it changes the way you live or behave. All ‘shiru’ is practical.
 
-  * **Rethink dichotomies**
+  * Rethink dichotomies
     * Rethinking person/animal dichotomy might help with building respect
     * Similarly rethinking the animate/inanimate dichotomy might help people have greater respect for the environments they depend on
 

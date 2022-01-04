@@ -21,6 +21,14 @@ podbean:
 
 {{<podcast-player>}}
 
+{{<film director="Alexandre Espigares"
+        starring="Paul Giamatti, Rashida Jones, Nick Offerman, Eddie Spears"
+        thumb="whitefangfilm.jpg"
+        release-date="2018-03-25"
+        runtime="1h25m"
+        rating= "-"
+        imdb-link="https://www.imdb.com/title/tt5222768/">}}
+
 Discussion of the 2018 film _White Fang_, directed by Alexandre Espigares and
 distributed by Netflix. Based on the 1906 book by Jack London. In this episode
 I'm joined by educators Maggie and Ayesha.

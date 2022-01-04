@@ -15,14 +15,20 @@ tags:
 - Amazon
 - Decolonizing
 podbean:
-  id:
+  id: m7hs2-f2277c
   mp3: https://mcdn.podbean.com/mf/web/bm3t6t/Ep_35_-Film_club-_Lost_city_of_Zanpip.mp3
 ---
 
 {{<podcast-player>}}
 
-Lost City of Z (2016). Directed by James Gray. Based on the 2009 book Lost
-city of Z by David Grann.
+  {{<film director="James Gray"
+        starring="Charlie Hunnam, Robert Pattinson, Sienna Miller"
+        thumb="lostcityfilm.jpg"
+        release-date="2017-04-21"
+        runtime="2h21m"
+        rating="14-A"
+        imdb-link="https://www.imdb.com/title/tt1212428/">}}
+
 
 British soldier Percy Fawcett is contracted by the Royal Geographical Society
 to chart a river in the Amazon. During the journey he encounters remnants and

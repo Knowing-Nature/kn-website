@@ -16,7 +16,7 @@ tags:
 - Early years
 - Insects
 podbean:
-  id:
+  id: pwwsh-f9ff27
   mp3: https://mcdn.podbean.com/mf/web/25h5pw/Ep_40_-_Activities_for_early_yearsa88r1.mp3
 ---
 
@@ -33,9 +33,7 @@ Find out more about Gini
   * Facebook[ \- **The Walled Garden - Stanstead Abbotts**](https://www.facebook.com/walledgardenstansteadabbotts/)
   * email - [ginitrower@btinternet.com](mailto:ginitrower@btinternet.com)
 
-## Activities
-
-### Building birds nests
+## Building birds nests
 
 A bird puppet collects materials to build a nest. The bird sits on the nest
 and then reveals a blown egg which was hidden in the nest. Kids focus on the
@@ -48,7 +46,7 @@ beaks!
 Older kids (6+) also enjoy this activity, and may want to have a turn being
 the bird puppet.
 
-### Making compost
+## Making compost
 
 Kids learn about different kinds of soil and its components, focusing on dead
 plants. They then make their own compost using their own compostables from
@@ -69,7 +67,7 @@ soil is the top layer to avoid smells and flies. If you do get smells, add it
 to an outdoor compost heap where reinforcement worms can more quickly eat any
 food.
 
-### Insect homes
+## Insect homes
 
 The group thinks about the needs of insects and considers the kinds of places
 they might find shelter. The group then goes out to find good places for
