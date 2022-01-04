@@ -117,7 +117,7 @@ just a direction for future research. This could again undermine trust in
 scientists by giving the impression that solutions to problems are being
 withheld.  
 
-Uncertainties and directions for future research
+## Uncertainties and directions for future research
 
 The Nature piece highlights the limits of the information they gathered in
 their experiments. This primes readers to expect that additional information
@@ -125,7 +125,7 @@ will likely emerge which could change how these results are interpreted.
 Readers are primed to handle this future scenario as building a more complete
 picture rather than as falsification of what had been touted as truth.
 
-Related reading
+## Related reading
 
 {{<publication title="Scientific Literacy: Conceptual Overview, Importance and Strategies for Improvement"
                authors="Babalola, J & Ogunkola, Babalola"
@@ -143,6 +143,7 @@ Related reading
                year="2020"
                journal="Science Communication"
                doi="10.1177/1075547020949547"
+               publisher="SAGE"
 >}}
 
 {{<publication title="Unquestioned Answers or Unanswered Questions: Beliefs About Science Guide Responses to Uncertainty in Climate Change Risk Communication"
