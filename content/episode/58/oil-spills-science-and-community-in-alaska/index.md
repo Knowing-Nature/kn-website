@@ -86,7 +86,7 @@ For book and activity ideas, check out the [Knowing Nature's picture book pages]
 
 [More information on the Discovery Outreach Programme](https://pwssc.org/education/discovery-outreach/) \- Prince William Sound Science Centre
 
-**Do kids find the oil spill topic relevant?**  
+### Do kids find the oil spill topic relevant?
 The Cordova community is still seeing the impact of the spill and the event
 was a major landmark in the community's history, so kids hear about it a lot
 and see the relevance of the topic. More broadly, many people in Alaska are

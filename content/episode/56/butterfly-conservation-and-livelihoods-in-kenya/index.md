@@ -30,9 +30,7 @@ butterflies for export to butterfly displays around the world.
 
 For more information check out the [Kipepeo Butterfly Project website](http://kipepeo.org/).
 
-![](kipepeo.jpg)
-
-### Community relationships with the forest
+## Community relationships with the forest
 
 The communities in the area had initially used the forest, which is a
 protected national park, for bushmeat hunting, illegal logging, and charcoal
@@ -40,7 +38,7 @@ burning. Because it was more profitable to use land for farming, communities
 had been pressuring the government to remove the protections so that the
 forest could be cleared and developed.
 
-### About the project
+## About the project
 
 The project began with collection of wild butterflies for identification of
 the butterflies and their food plants. Butterflies were collected from the
@@ -52,7 +50,7 @@ records numbers and species. These are brought to 'market' days where the
 pupae are counted and graded for packaging and shipping to buyers. Farmers are
 paid for the species and number of pupae which successfully reach the buyers.
 
-### Farmers have contributed to science
+## Farmers have contributed to science
 
 Close relationship between the farmers and the species they rear has improved
 understanding of seasonality in butterfly species; their temperature and
@@ -61,7 +59,7 @@ interpretation of patterns seen in wild populations.
 
 Farmers are also able to identify an butterfly's sex while pupating.
 
-### Does butterfly farming apply pressure to wild populations?
+## Does butterfly farming apply pressure to wild populations?
 
 Invertebrates generally breed very rapidly and generally recover quickly from
 small scale collection. Regular monitoring of wild butterfly populations have
@@ -78,7 +76,7 @@ Farmers are also licenced to enter the forest, and can report illegal
 activities to the authorities. So farmers derive benefit from the forest, but
 they also give back to it.
 
-### Benefits to the community
+## Benefits to the community
 
   * 40k people are direct beneficiaries of the project (farmers and their families)
   * Protection of the forest provides ecosystem services to the community.
@@ -87,3 +85,4 @@ they also give back to it.
   * Butterfly farming also allows for the existence of butterfly displays internationally, and the education programs which surround them.
   * Continued support from zoos and other facilities has really helped breeders to stick with the program. Breeders feel connected and supported by other organizations involved with the butterfly industry.
 
+![](kipepeo.jpg)

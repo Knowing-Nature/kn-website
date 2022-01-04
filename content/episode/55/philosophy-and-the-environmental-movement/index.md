@@ -25,6 +25,12 @@ his latest book, Thinking While Walking.
 
 For more information about Martin Bunzl, head to his website. [www.mbunzl.org](https://sites.google.com/site/mbunzl/home?authuser=0)
 
+{{<book author="Martin Bunzl"
+        cover="thinkingwalkingbook.jpg"
+        publisher="Perry Street Press"
+        publisher-link="www.mbunzl.org"
+        date="2021-05-05"
+        pages="192">}}
 
 ## What does philosophy bring to environmental discussions?
 
