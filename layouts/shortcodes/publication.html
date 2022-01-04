@@ -1,0 +1,62 @@
+{{/* Customize the image based on the publisher, if possible */}}
+{{ $cover_image := "/journal.png" }}
+{{ if isset .Params "publisher" }}
+	{{ if eq (.Get "publisher") "Springer" }}
+		{{ $cover_image := "/journal_springer.png" }}
+	{{ else if eq (.Get "publisher") "Nature" }}
+		{{ $cover_image := "/journal_nature.png" }}
+	{{ end }}
+{{ end }}
+
+{{/* Construct the link, preferring an explicit link but falling back to DOI if necessary & possible */}}
+{{ $link := "" }}
+{{ if isset .Params "link"}}
+	{{ $link = .Get "link" }}
+{{ else if isset .Params "doi" }}
+	{{ $link = printf "https://doi.org/%s" .Params.doi }}
+{{ end }}
+
+{{/* Construct the location string from 4 optional parameters */}}
+{{ $locs := slice }}
+{{ with .Get "volume" }}
+	{{ $locs = $locs | append (printf "vol. %s" .) }}
+{{ end }}
+{{ with .Get "issue" }}
+	{{ $locs = $locs | append (printf "no. %s" .) }}
+{{ end }}
+{{ if and (isset .Params "pageStart") (isset .Params "pageEnd") }}
+	{{ $locs = $locs | append (printf "pp. %s–%s" (.Get "pageStart") (.Get "pageEnd")) }}
+{{ end }}
+{{ $location := delimit $locs ", "}}
+
+<div class="media-callout">
+	<div class="media-thumb">
+		<a href='{{ $link }}'><img src='{{ $cover_image }}'/></a>
+	</div>
+	<div class="media-callout-grid">
+		<div class="media-callout-key">Authors</div>
+		<div>{{ .Get "authors" }}</div>
+
+		<div class="media-callout-key">Year</div>
+		<div>{{ .Get "year" }}</div>
+
+		<div class="media-callout-key">Title</div>
+		<div><a href='{{ $link }}'>{{ .Get "title" }}</a></div>
+
+		<div class="media-callout-key">Journal</div>
+		<div><em>{{ .Get "journal" }}</em></div>
+
+		<div class="media-callout-key">Location</div>
+		<div>{{ $location }}</div>
+
+		{{ with .Get "publisher" }}
+			<div class="media-callout-key">Publisher</div>
+			<div>{{ . }}</div>
+		{{ end }}
+
+		{{ with $doi := .Get "doi" }}
+			<div class="media-callout-key">DOI</div>
+			<div class="media-callout-value-doi"><a href='{{ printf "https://doi.org/%s" . }}' target="_blank">{{.}}</a></div>
+		{{ end }}
+	</div>
+</div>

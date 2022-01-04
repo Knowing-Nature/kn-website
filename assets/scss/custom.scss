@@ -13,48 +13,63 @@
 	position: relative;
 }
 
-.article-page {
-	.main-article {
-		.article-content {
-			.media-callout {
-				display: flex;
-				flex-wrap: wrap;
-				justify-content: center;
-				row-gap: 20px;
-				column-gap: 10px;
+//fully qualify to override the theme style
+.article-page .main-article .article-content {
+	.media-callout {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		row-gap: 20px;
+		column-gap: 10px;
 
-				padding: 1em;
-				max-width: max-content;
-				border-radius: var(--tag-border-radius);
-				background-color: var(--accent-color);
-				color: var(--accent-color-text);
+		padding: 1em;
+		max-width: max-content;
+		border-radius: var(--tag-border-radius);
+		background-color: var(--accent-color);
+		color: var(--accent-color-text);
+	}
 
-				a {
-					color: var(--accent-color-text);
-					text-decoration: underline;
-				}
+	// Later CSS always overrides earlier, so the media query must
+	// come AFTER the default above
+	@media screen and (min-width: 600px) {
+		.media-callout {
+			flex-wrap: nowrap;
+		}
+	}
 
-				.media-thumb img {
-					float: left;
-					height: 175px;
-					width: auto;
-				}
+	.media-callout {
+		a {
+			color: var(--accent-color-text);
+			text-decoration: underline;
+		}
 
-				.media-callout-grid {
-					display: grid;
-					font-size: 12pt;
-					grid-template-columns: 6em 1fr;
-					align-content: center;
-					gap: 0 15px;
+		.media-thumb {
+			width: 175px;
+		}
 
-					.media-callout-key {
-						text-align: right;
-						font-weight: bold;
-					}
-				}
+		.media-thumb img {
+			display: block;
+			width: 100%;
+			height: auto;
+		}
+
+		.media-callout-grid {
+			display: grid;
+			font-size: 12pt;
+			grid-template-columns: 5em 1fr;
+			align-content: center;
+			gap: 0 15px;
+
+			.media-callout-key {
+				text-align: right;
+				font-weight: bold;
+			}
+
+			.media-callout-value-doi {
+				word-break: break-all;
 			}
 		}
-	}	
+	}
 }
 
 .music {

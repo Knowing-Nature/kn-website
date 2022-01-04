@@ -127,9 +127,16 @@ picture rather than as falsification of what had been touted as truth.
 
 Related reading
 
-Babalola, J & Ogunkola, Babalola. (2013). Scientific Literacy: Conceptual
-Overview, Importance and Strategies for Improvement. Journal of Educational
-and Social Research. 3. 265 - 274. 10.5901/jesr.2013.v3n1p265.
+{{<publication title="Scientific Literacy: Conceptual Overview, Importance and Strategies for Improvement"
+               authors="Babalola, J & Ogunkola, Babalola"
+               year="2013"
+               journal="Journal of Educational and Social Research"
+               doi="10.5901/jesr.2013.v3n1p265"
+               link="https://www.mcser.org/index.php/37-archive/jesr-archive/jesr-2013/615-jesr-vol-3-no-1-january-2013-2"
+               pageStart="265" pageEnd="274"
+               volume="3"
+               issue="1"
+>}}
 
 Besley, J. C., Lee, N. M., & Pressgrove, G. (2020). Reassessing the Variables
 Used to Measure Public Perceptions of Scientists. Science Communication.
