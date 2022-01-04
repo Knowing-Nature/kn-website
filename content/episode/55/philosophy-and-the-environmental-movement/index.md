@@ -28,7 +28,7 @@ For more information about Martin Bunzl, head to his website. [www.mbunzl.org](h
 {{<book author="Martin Bunzl"
         cover="thinkingwalkingbook.jpg"
         publisher="Perry Street Press"
-        publisher-link="www.mbunzl.org"
+        publisher-link="https://sites.google.com/site/mbunzl/home?authuser=0"
         date="2021-05-05"
         pages="192">}}
 
