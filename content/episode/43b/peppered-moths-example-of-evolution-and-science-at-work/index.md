@@ -6,13 +6,16 @@ draft: false
 slug: peppered-moths-example-of-evolution-and-science-at-work
 title: 'Peppered moths: Example of evolution and science at work'
 episode: 43b
+image: pepperedmoth.jpg
 music: Marble_Machine
 categories:
 - Podcast
 tags:
 - Resources
+- Evolution
+- Adaptation
 podbean:
-  id:
+  id: wy526-fc2975
   mp3: https://mcdn.podbean.com/mf/web/h6yaja/Ep_43_-_EE_research_news_and_Peppered_mothsa8vg9.mp3
 ---
 

@@ -10,8 +10,10 @@ image: plants.jpg
 music: Marble_Machine
 categories:
 - Podcast
+tags:
+- Plants
 podbean:
-  id:
+  id: dfks4-1005f49
   mp3: https://mcdn.podbean.com/mf/web/7dfmq4/Ep_49_-_Cross_curricular_plant_project81txb.mp3
 ---
 

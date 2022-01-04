@@ -14,9 +14,8 @@ categories:
 tags:
 - Aliens
 - Climate change
-- Film
 podbean:
-  id:
+  id: jxen3-fd9743
   mp3: https://mcdn.podbean.com/mf/web/uvmun7/Ep_45_-Film_Club-_Arrival5zx2v.mp3
 ---
 

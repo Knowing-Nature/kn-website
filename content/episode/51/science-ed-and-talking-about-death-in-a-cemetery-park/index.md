@@ -28,6 +28,8 @@ This interview was recorded on location with a door open for ventilation, and
 fortunately/unfortunately includes a lot of background noise. (Bonus points of
 each bird species you can identify in the background?)
 
+## Sessions
+
 ### Rocks and minerals
 
   * Match rock samples with words describing uses

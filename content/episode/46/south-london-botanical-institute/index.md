@@ -6,12 +6,12 @@ draft: false
 slug: south-london-botanical-institute
 title: South London Botanical Institute
 episode: 46
-image: popuppainting.jpg
+image: slbi-garden-helen-firminger-059-667x500-1.jpg
 music: Marble_Machine
 categories:
 - Podcast
 podbean:
-  id:
+  id: e2sjs-fe5fb6
   mp3: https://mcdn.podbean.com/mf/web/w3t5pv/Ep_46_-_South_London_Botanical_Instituteatb6u.mp3
 ---
 
@@ -23,7 +23,6 @@ sessions, and get an overview of the huge variety of programmes they offer.
 
 [South London Botanical Institute Website](https://www.slbi.org.uk/)
 
-  ![Greenhouse entrance to the garden. Display of carnivorous plants on the left.](slbi-garden-helen-firminger-059-667x500-1.jpg)
 
 ## **School sessions**
 

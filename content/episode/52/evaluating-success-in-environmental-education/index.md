@@ -26,11 +26,11 @@ Discussion with Lorna Fox from Gloucestershire Wildlife Trust about the
 importance of systematic evaluation. This discussion was framed by three
 papers:
 
-[Evaluation, or just data collection? An exploration of the evaluation practice of selected UK environmental educators. Published in Journal of Environmental Education, 2015.](https://www.tandfonline.com/doi/abs/10.1080/00958964.2014.973351)
+* [Evaluation, or just data collection? An exploration of the evaluation practice of selected UK environmental educators. Published in Journal of Environmental Education, 2015.](https://www.tandfonline.com/doi/abs/10.1080/00958964.2014.973351)
 
-[Does student enthusiasm equal learning? The mismatch between observed and self-reported student engagement and environmental literacy outcomes in a residential setting. Published in The Journal of Environmental Education, 2020.](https://www.tandfonline.com/doi/full/10.1080/00958964.2020.1727404)
+* [Does student enthusiasm equal learning? The mismatch between observed and self-reported student engagement and environmental literacy outcomes in a residential setting. Published in The Journal of Environmental Education, 2020.](https://www.tandfonline.com/doi/full/10.1080/00958964.2020.1727404)
 
-[Practitioner's Guide to Assessing Connection to Nature. Published by North American Association for Environmental Education, 2020.](https://naaee.org/eepro/publication/practitioner-guide-assessing-connection)
+* [Practitioner's Guide to Assessing Connection to Nature. Published by North American Association for Environmental Education, 2020.](https://naaee.org/eepro/publication/practitioner-guide-assessing-connection)
 
 ### The state of evaluation in environmental education
 
@@ -102,8 +102,6 @@ not tell you if the game was successful in teaching anything about the topic.
     * Look for bookings where part a visit from a year group is split across more than one day.
     * Aim for all classes to complete 3 surveys: before the visit, after the visit, after an in-school lesson on the same topic.
 
-  * Use external evaluators or connect with research institutions / teacher training programmes
-
   * Be consistent but realistic in use of evaluation.
     * Some evaluation is better than none
     * Find a target frequency which will work for your capacity. (Annually, quarterly, weekly etc.)
@@ -112,6 +110,8 @@ not tell you if the game was successful in teaching anything about the topic.
     * There are many survey tools which have been developed, don't be afraid to switch.
     * Modify wording to suit your context, particularly if the results are only going to be used internally.
     * Shorten survey tools if you are concerned about time. It will be more difficult to compare results with more formal research, but can still provide you with valuable information. 
+
+  * Use external evaluators or connect with research institutions / teacher training programmes
 
 ### Evaluation tools
 

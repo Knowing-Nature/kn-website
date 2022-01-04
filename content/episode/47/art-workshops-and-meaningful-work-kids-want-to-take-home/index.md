@@ -10,8 +10,11 @@ image: popuppainting.jpg
 music: Marble_Machine
 categories:
 - Podcast
+tags:
+- Pedagogy
+- Art
 podbean:
-  id:
+  id: defys-ff170a
   mp3: https://mcdn.podbean.com/mf/web/si4edy/Ep_47_-_Art_and_meaningful_work_kids_are_proud_to_take_home63fxe.mp3
 ---
 
