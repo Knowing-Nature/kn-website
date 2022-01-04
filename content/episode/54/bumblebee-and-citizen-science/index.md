@@ -34,7 +34,7 @@ guides for UK bees and bumblebees (33:30).
 
   * [Citizen science programmes](https://www.bumblebeeconservation.org/surveys/)
 
-### 1km surveys
+## 1km surveys
 
   * Adopt a 1km square from the National Plant Monitoring Scheme
   * Visit your square 4 times in the year (May, June, July, August)
@@ -43,7 +43,7 @@ guides for UK bees and bumblebees (33:30).
 
 [1km Squares site](https://ukpoms.org.uk/one-km-square-survey)
 
-### Bee walks
+## Bee walks
 
   * Walk a 1km route once per month and tally bumblebees
   * Bumblebees identified to species, and ideally also caste (Queens, male, worker)
@@ -51,7 +51,7 @@ guides for UK bees and bumblebees (33:30).
 
 [Bee Walks site](https://www.bumblebeeconservation.org/beewalk/)
 
-### PoMS Flower-Insect Timed (FIT) counts
+## PoMS Flower-Insect Timed (FIT) counts
 
   * Spend 10 minutes watching a patch of flowers and count insect visitors.
   * Tally bees, bumblebees, butterflies, flies, beetles. No more detailed ID experience required
@@ -59,9 +59,9 @@ guides for UK bees and bumblebees (33:30).
 
 [FIT counts site](https://ukpoms.org.uk/fit-counts)
 
-### Casual recording
+## Casual recording
 
-#### iNaturalist and iSpot
+### iNaturalist and iSpot
 
   * Submit photos of sightings to get help with identification.
   * iNaturalist uses image recognition to suggest an ID which can then be confirmed by the community.
@@ -71,7 +71,7 @@ guides for UK bees and bumblebees (33:30).
 
 [iSpot site](https://www.ispotnature.org/)
 
-#### iRecord
+### iRecord
 
   * Designed to allow naturalists and recorders a more streamlined way of submitting their records
   * Records submitted are confirmed by experts and added the UK biodiversity monitoring programmes
