@@ -15,6 +15,7 @@ tags:
 podbean:
   id: k2azw-116af9d
   mp3: https://mcdn.podbean.com/mf/web/9c2fui/Ep_59_-_Tahoma_Audobon8m9ja.mp3
+summary: We discuss birdwatching with the awesome people at the Tahoma Audubon Society.
 ---
 
 {{<podcast-player>}}

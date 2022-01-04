@@ -13,6 +13,7 @@ tags:
 - Oceans
 - People and animals
 - Turtles
+summary: When Viv moves to the South Carolina coast, she has no idea she'll soon be helping sea turtles.
 ---
 
 {{<book ageFrom="5" ageTo="8"

@@ -18,6 +18,12 @@ article .summary {
 	margin: 0 30px 30px 30px;
 }
 
+section.article-list {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+	grid-column-gap: 1em;
+}
+
 //fully qualify to override the theme style
 .article-page .main-article .article-content {
 	.media-callout {

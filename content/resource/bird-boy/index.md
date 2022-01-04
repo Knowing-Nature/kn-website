@@ -11,7 +11,7 @@ tags:
 - Birds
 - Mental health
 - Classroom community
-
+summary: Take flight in this heartwarming story about a boy who learns to be true to himself at school while following his love of nature.
 ---
 
 {{<book ageFrom="4" ageTo="8"
