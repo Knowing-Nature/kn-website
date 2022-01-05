@@ -15,6 +15,7 @@ tags:
 podbean:
   id: dfks4-1005f49
   mp3: https://mcdn.podbean.com/mf/web/7dfmq4/Ep_49_-_Cross_curricular_plant_project81txb.mp3
+summary: Ideas for a cross curricular unit on the parts and needs of plants. Thoughts on how project-based learning can allow deeper exploration of a topic.
 ---
 
 {{<podcast-player>}}

@@ -15,6 +15,7 @@ tage:
 podbean:
   id: wy526-fc2975
   mp3: https://mcdn.podbean.com/mf/web/h6yaja/Ep_43_-_EE_research_news_and_Peppered_mothsa8vg9.mp3
+summary: Discussion on a report from Learning Through Landscapes about the results of a pilot project on the impact of their outdoor education programme.Thoughts on how the results of the report fit in the context of wider enviro ed research.
 ---
 
 {{<podcast-player>}}

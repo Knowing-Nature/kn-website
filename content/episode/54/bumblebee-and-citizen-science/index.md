@@ -18,6 +18,7 @@ tags:
 podbean:
   id: 44fsk-105823a
   mp3: https://mcdn.podbean.com/mf/web/mgqby7/Ep_54_-_Bumblebees_and_citizen_scienceagp4f.mp3
+summary: Dr. Richard Comont from the Bumblebee Conservation Trust gives an overview of their citizen science projects. We also discuss the benefits and limitations of citizen science projects. Discussion of the pros and cons of different ID guides for UK bees and bumblebees (33:30).
 ---
 
 {{<podcast-player>}}

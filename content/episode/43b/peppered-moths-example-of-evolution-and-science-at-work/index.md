@@ -17,6 +17,7 @@ tags:
 podbean:
   id: wy526-fc2975
   mp3: https://mcdn.podbean.com/mf/web/h6yaja/Ep_43_-_EE_research_news_and_Peppered_mothsa8vg9.mp3
+summary: Primer for a resource on the peppered moth and evolution by natural selection. The study the changes in peppered moth populations as an example of how science operates.
 ---
 
 {{<podcast-player>}}

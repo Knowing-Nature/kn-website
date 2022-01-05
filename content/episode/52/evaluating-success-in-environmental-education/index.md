@@ -18,6 +18,7 @@ tags:
 podbean:
   id: 868ii-1030640
   mp3: https://mcdn.podbean.com/mf/web/xuav93/Ep_52_-_Evaluating_success_in_environmental_education945wz.mp3
+summary: Discussion about evaluation in environmental education and thoughts on the importance of doing it systematically. Tips for making evaluation work for your organization.
 ---
 
 {{<podcast-player>}}

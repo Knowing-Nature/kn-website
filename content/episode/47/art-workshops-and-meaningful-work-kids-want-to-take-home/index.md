@@ -16,6 +16,7 @@ tags:
 podbean:
   id: defys-ff170a
   mp3: https://mcdn.podbean.com/mf/web/si4edy/Ep_47_-_Art_and_meaningful_work_kids_are_proud_to_take_home63fxe.mp3
+summary: Facilitating social painting events with PopUp Painting, and helping people take pride in their work. Ideas for how environmental educators can make art experiences are more meaningful.
 ---
 
 {{<podcast-player>}}

@@ -13,6 +13,7 @@ categories:
 podbean:
   id: z2xsy-fb49eb
   mp3: https://mcdn.podbean.com/mf/web/mtxiy6/Ep_42_-_EcoActive72n78.mp3
+summary: Interview with environmental educator Catia about her work with EcoActive. Based in East London, their programmes are usually long-term projects which focus on developing connections with nature or empowering students to take action on environmental issues.
 ---
 
 {{<podcast-player>}}

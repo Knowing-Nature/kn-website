@@ -16,6 +16,7 @@ tags:
 podbean:
   id: dgwn7-1010a96
   mp3: https://mcdn.podbean.com/mf/web/cbcsd4/Ep_50_-_Balancing_needs_of_nature_and_people_in_a_cemetery_park86xwj.mp3
+summary: Interview with Kenneth Greenway about balancing the needs of people and nature in a historic cemetery park. We discuss managing responsible foraging and anti-social behaviour in a public space.
 ---
 
 {{<podcast-player>}}

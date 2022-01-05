@@ -13,6 +13,7 @@ categories:
 podbean:
   id: qu7yf-101b268
   mp3: https://mcdn.podbean.com/mf/web/t78jad/Ep_51_-_Rocks_erosion_and_decomposition_in_a_cemetery_park7cu3g.mp3
+summary: Education in Tower Hamlets Cemetery park. Taking advantage the historical grave stones and navigating the topics of death and decay which inevitably come up teaching in such a unique setting.
 ---
 
 {{<podcast-player>}}
