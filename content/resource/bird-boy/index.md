@@ -4,7 +4,7 @@ title: Bird Boy
 date: 2022-01-03T16:39:40Z
 draft: false
 slug: bird-boy
-image: birdboy.jpg
+image: birdboybanner.jpg
 categories:
 - Picture books
 tags:
@@ -54,22 +54,28 @@ Laughter and boistrous fun are easy indicators of engagement, and many outdoors 
 
 ## Discussion ideas
 
-**The power of names** - Nico likes birds and the birds like him, but that isn't the only reason why the other kids start calling him 'Bird Boy'. A challenging discussion for younger kids, but why do Nico classmates choose to give him a nickname? How do Nico's classmates think the nickname makes him feel? Do all nicknames hurt people? Why or why not? What could other classmates have done when they realized Nico was hurt by being called Bird Boy at first?
+**The power of names**\
+Nico likes birds and the birds like him, but that isn't the only reason why the other kids start calling him 'Bird Boy'. A challenging discussion for younger kids, but why do Nico classmates choose to give him a nickname? How do Nico's classmates think the nickname makes him feel? Do all nicknames hurt people? Why or why not? What could other classmates have done when they realized Nico was hurt by being called Bird Boy at first?
 
 We know that the nickname hurts Nico at first becuase he knows the others are teasing him. What do you think it means when Nico turns the name over in his mind? Why does it make him smile after a while?
 
-**What do you like to do outside** - Each illustration is filled with little details of Nico's classmates in action. What kinds of things are his classmates doing while he watches ants and feels the sun? What kinds of things do the readers like to do outside?
+**What do you like to do outside?**\
+Each illustration is filled with little details of Nico's classmates in action. What kinds of things are his classmates doing? What kinds of things do the readers like to do outside?
 
 ## Activity ideas
 
-**Make and celebrate a nickname** - The other kids call Nico Bird Boy to tease him, but he turns that name over in his head and makes it something good. Kids can take inspiration from this to take something they like or something they enjoy doing, and creat their own nicknames. They might draw or make a costume for themselves, write a short story, or just play as themselves.
+**Make and celebrate a nickname**\
+The other kids call Nico Bird Boy to tease him, but he turns that name over in his head and makes it something good. Kids can take inspiration from this to take something they like or something they enjoy doing, and creat their own nicknames. They might draw or make a costume for themselves, write a short story, or just play as themselves.
 
-**Animal yoga** - Take inspiration from animal behaviour like Nico and give some animal yoga poses a try!\
+**Animal yoga**\
+Take inspiration from animal behaviour like Nico and give some animal yoga poses a try!\
 [Animal yoga poses for kids](https://kidsyogafun.com/66-easy-animal-yoga-poses-for-kids/) - KidsYogaFun.com
 
-**Bird feeders** - Set up a bird feeder! There are many different styles: bottles with holes and a stick for a perch, pinecones with peanut butter, bird tables etc. Each will attract different birds from your local area. Place them somewhere semi-secluded where kids can watch the action without needing to get too close. Older kids can help wash the feeders each week with soapy water to keep them clean.
+**Bird feeders**\
+Set up a bird feeder! There are many different styles: bottles with holes and a stick for a perch, pinecones with peanut butter, bird tables etc. Each will attract different birds from your local area. Place them somewhere semi-secluded where kids can watch the action without needing to get too close. Older kids can help wash the feeders each week with soapy water to keep them clean.
 
-**Bird watching** - Nico loves imagining himself as a bird. Spend some time watching birds in your area and develop an appreciation for the different characters in your neighbourhood! What kinds of personalities do different types of bird have? Binoculars can help, but aren't necessary. A pair of toilet rolls stapled together can be enough to help kids focus their attention.
+**Bird watching**\
+Nico loves imagining himself as a bird. Spend some time watching birds in your area and develop an appreciation for the different characters in your neighbourhood! What kinds of personalities do different types of bird have? Binoculars can help, but aren't necessary. A pair of toilet rolls stapled together can be enough to help kids focus their attention.
 
 ## Further exploration of themes in the book
 
