@@ -18,6 +18,7 @@ tags:
 podbean:
   id: pwwsh-f9ff27
   mp3: https://mcdn.podbean.com/mf/web/25h5pw/Ep_40_-_Activities_for_early_yearsa88r1.mp3
+summary: Interview with freelance educator Gini Trower about her work with afterschool clubs and nursery groups. She shares her experience getting started as a freelance environmental educator and talks us through a few of her favourite activities.
 ---
 
 {{<podcast-player>}}

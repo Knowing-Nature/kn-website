@@ -17,6 +17,7 @@ tags:
 podbean:
   id: m7hs2-f2277c
   mp3: https://mcdn.podbean.com/mf/web/bm3t6t/Ep_35_-Film_club-_Lost_city_of_Zanpip.mp3
+summary: Discussion about the 2016 film _The Lost City of Z_. We discuss the role of nature in the film. Thoughts on the characters' colonial relationships with Amazonian peoples and how the film could have challenged these views.
 ---
 
 {{<podcast-player>}}

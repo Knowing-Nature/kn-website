@@ -18,6 +18,8 @@ tags:
 podbean:
   id: befd3-f2f49b
   mp3: https://mcdn.podbean.com/mf/web/fdd5cj/Ep_36_-Journal_Club-_Ways_of_knowing7mrdr.mp3
+summary: Exploration of similarities and differences among Eurocentric sciences, Indigenous, and Neo-indigenous ways of knowing. Thoughts on how better understanding of these ways of knowing might build bridges.
+
 ---
 
 {{<podcast-player>}}

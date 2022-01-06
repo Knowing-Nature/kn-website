@@ -16,6 +16,7 @@ tags:
 podbean:
   id: emdq9-f38903
   mp3: https://mcdn.podbean.com/mf/web/piwfup/Ep_37_-_Decolonizing_environmental_education73tp5.mp3
+summary: Thoughts on the colonial legacies in environmental education in the UK. Thoughts on how to start decolonizing your own teaching and being more culturally responsive.
 ---
 
 {{<podcast-player>}}

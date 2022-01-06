@@ -14,13 +14,21 @@ categories:
 tags:
 - Arachnids
 podbean:
-  id:
+  id: 8xfkj-f04775
   mp3: https://mcdn.podbean.com/mf/web/phvfr6/Ep_34_-Film_Club-_Arachnophobia60wtq.mp3
+summary: Discussion of the 1990 film _Arachnophobia_. We discuss the depiction of scientists and spiders, and share some information about social spiders.
 ---
 
 {{<podcast-player>}}
 
-Arachnophobia (1990) Directed by Frank Marshall
+{{<film director="Frank Marshall"
+  starring="Jeff Daniels, Julian Sands, John Goodman"
+  thumb="arachnophobia_cover.jpg"
+  release-date="1990-07-18"
+  runtime="1h49m"
+  rating="14-A"
+  imdb-link="https://www.imdb.com/title/tt0099052/">}}
+
 
 A Family Physician moves to the small town of Canima, California with his
 family to take over the practice of a retiring doctor. Unbeknownst to the
