@@ -14,8 +14,9 @@ tags:
 - Insects
 - News
 podbean:
-  id:
+  id: rkv8f-ea5391
   mp3: https://mcdn.podbean.com/mf/web/a9fv89/Ep_30_-_Locust_pheromones_and_science_as_a_process705jq.mp3
+summary: A suggested outline for effective science reporting using examples of news articles about the identification of a pheromone associated with swarming locusts. Focusing too much on results could undermine long-term confidence in scientists and scientific institutions.
 ---
 
 {{<podcast-player>}}

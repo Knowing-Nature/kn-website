@@ -16,8 +16,9 @@ tags:
 - Pedagogy
 - Science
 podbean:
-  id:
+  id: bmawi-ec3307
   mp3: https://mcdn.podbean.com/mf/web/m2k9dn/Ep_31_-Journal_club-_Art_in_environmental_education981e2.mp3
+summary: Discussion about how art can enhance scientific investigation skills. We also share experiences of thinking of ourselves as science or art people and consider the benefits of breaking down these self imposed barriers.
 ---
 
 {{<podcast-player>}}
