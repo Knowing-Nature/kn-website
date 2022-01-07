@@ -14,8 +14,9 @@ tags:
 - Climate change
 - Science
 podbean:
-  id:
+  id: cetgi-e6ef30
   mp3: https://mcdn.podbean.com/mf/web/tagfr7/Ep_25_-_Introduction_to_climate_change7qswu.mp3
+summary: A brief teacher's guide to some climate change terminology and impacts.
 ---
 
 {{<podcast-player>}}

@@ -12,9 +12,12 @@ categories:
 - Podcast
 tags:
 - Climate change
+- Mental health
+- Pedagogy
 podbean:
-  id:
+  id: keart-e6f826
   mp3: https://mcdn.podbean.com/mf/web/ajtwbj/Ep_26_-_Teaching_climate_change8ct8x.mp3
+summary: Issues and considerations when teaching about climate change in schools and other environmental education providers. We talk problems with curriculum, climate anxiety, and the benefits of taking a whole school approach.
 ---
 
 {{<podcast-player>}}
@@ -39,7 +42,7 @@ focus.Instead these sessions could emphasize developing pro-environmental
 attitudes as it is this attitude which forms the basis for willingness to take
 action on climate change.
 
-## **Addressing climate change in schools**
+## Addressing climate change in schools
 
   * Embed climate impacts in other subjects
   * Develop skills for addressing problems
@@ -57,7 +60,7 @@ action on climate change.
     * [Climate curriculum - Leeds Development Education Centre](https://www.campaigncc.org/sites/data/files/sites/data/files/Docs/climate_curriculum_learning_outcomes.pdf)
     * [Teach the future](https://www.teachthefuture.uk/)
 
-**Climate anxiety**  
+## Climate anxiety
 Climate change is a big problem with frightening consequences. It can cause
 anxiety in adults and children.
 
@@ -71,7 +74,7 @@ anxiety in adults and children.
     * [Young Minds](https://youngminds.org.uk/find-help/conditions/anxiety/?gclid=EAIaIQobChMIiqOD4MaY6wIVDevtCh16aQ61EAAYAiAAEgJ3X_D_BwE)
 
   
-**Developing pro-environmental attitudes**  
+## Developing pro-environmental attitudes
 Chawla, Louise. (2007). Childhood experiences associated with care for the
 natural world: A theoretical framework for empirical results. Children, Youth
 and Environments. 17. 144-170.

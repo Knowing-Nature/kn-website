@@ -15,11 +15,20 @@ tags:
 - Oceans
 - Ways of knowing
 podbean:
-  id:
+  id: pqeuh-e8257d
   mp3: https://mcdn.podbean.com/mf/web/8gzb3n/Ep_28_-Film_club-_Moanaanam4.mp3
+summary: Discussion about environmental themes in the 2016 Disney film, Moana. We discuss the ocean, representation, and depiction of indigenous knowledge and skills.
 ---
 
 {{<podcast-player>}}
+
+{{<film director="Ron Clements, John Musker, Don Hall"
+  starring="Auli'i Cravalho(voice), Dwayne Johnson(voice), Rachel House(voice)"
+  thumb="moana_poster.jpg"
+  release-date="2016-11-14"
+  runtime="1h47m"
+  rating="G"
+  imdb-link="https://www.imdb.com/title/tt3521164/">}}
 
 Discussion about environmental themes in the 2016 Disney film, Moana. Directed
 by Ron Clements and John Musker.
@@ -31,13 +40,12 @@ You may want to watch the film first and think about:
 
 ## What the film did well
 
-**Accurate depiction of ecology and geology**
-
+### Accurate depiction of ecology and geology
   * Employed biologist to guide animators while researching polynesian islands
   * Tamatoa - decorator crab - normally attaches things to shell as camouflage, but uses the behaviour to catch fish
   * Magical without as much exaggeration or fantasy as might be expected in an animated Disney film
 
-**Representing different cultures and ‘ways of knowing’**
+### Representing different cultures and ‘ways of knowing’
 
   * Localized into: Tahitian, Maori, Hawaiian
     * Languages with few remaining native speakers.
@@ -59,7 +67,7 @@ You may want to watch the film first and think about:
   * Return of Heart of Tefiti as a metaphor for voyaging to new islands as something central to their culture?
     * Balances population around islands, less resource pressure
 
-**Use of resources**
+### Use of resources
 
   * First introduced to problems with coconut groves and poor fishing Moana suggests measures for sustainable food production
   * Crop rotation is common practice
@@ -72,18 +80,18 @@ You may want to watch the film first and think about:
     * Dependence on single crop may be allowing pathogen to spread
     * Larger population, fishing pressure might be too high
 
-**Managing risk**
+### Managing risk
 
   * Father’s understandable response to tragic event early in life leads to extreme risk aversion
     * Moana never learns to sail and ends up in greater risk because she has not learned how to manage the dangers in sailing.
-    * Does nothing to curb Moana's desire to explore the ocean, but deprives her of the skills needed to do so with competence
+    * Does nothing to curb Moana's desire to explore the ocean, but deprives her of the skills needed to do so safely
 
   * Ocean is very hands-off
     * Other than when responding to Maui, the Ocean does not directly intervene
     * Possibly intervenes in extreme risk - Moana being knocked out in the storm
     * Allows Moana to learn how to sail on her own rather than propelling Moana to her goals
 
-**The magic of the Ocean**
+### The magic of the Ocean
 
   * Not reliant on abundance of coral reefs to create the desire to explore
   * The way characters relate to the ocean transmits the love of it
@@ -92,25 +100,25 @@ You may want to watch the film first and think about:
 
 ## Where the film missed the mark
 
-**Perspective is very human-centric**
+### Perspective is very human-centric
 
   * Presents care of the environment as being for the benefit of humans
   * Care of nature could have been for its own sake
 
-**Focus on expansion**
+### Focus on expansion
 
   * Hesitant about whether the world can support moving to new islands forever
   * Surely there are only so many islands Maui can pull from the ocean
 
 ## Other thoughts
 
-**Gaia hypothesis**
+### Gaia hypothesis
 
 Living things depend on and interact with inorganic parts of the environment,
 creating a self regulating system. This is similar to the way in which
 predator-prey relationships form self-regulating systems.
 
-You can learn more at [Wikipedia(https://en.wikipedia.org/wiki/Gaia_hypothesis).
+[Gaia hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Gaia_hypothesis).
 
   * The ocean represents the inorganic parts of the ecosystem, nudging humans restore balance by returning the Heart
 

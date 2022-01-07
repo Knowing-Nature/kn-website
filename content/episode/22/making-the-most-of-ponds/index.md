@@ -6,6 +6,7 @@ draft: false
 slug: making-the-most-of-ponds
 title: Making the most of ponds
 episode: 22
+image: pond.jpg
 music: Selfish
 categories:
 - Podcast
@@ -13,8 +14,9 @@ tags:
 - Ponds
 - Urban wildlife
 podbean:
-  id:
+  id: ip6gh-e46263
   mp3: https://mcdn.podbean.com/mf/web/mp56v2/ep_23_-_making_the_most_of_ponds8bmwp.mp3
+summary: Tips for setting up a wildlife pond and ideas for using it with kids or classes.
 ---
 
 {{<podcast-player>}}
@@ -22,7 +24,7 @@ podbean:
 Ponds have huge environmental and wildlife value. They are also an excellent
 way to have encounters with wildlife.
 
-Tips for building a pond
+## Tips for building a pond
 
 Size is not critical for wildlife pond, but bigger is better
 
@@ -41,7 +43,7 @@ Try to have the pond part shaded.
     * Fallen leaves can add too many nutrients and trigger blooms of algae. 
     * Decay can draw lots of oxygen from water which can affect larger animals.
 
-In-ground vs raised
+## In-ground vs raised
 
   * Raised ponds are more accessible
 
@@ -69,7 +71,7 @@ In-ground vs raised
         * Less likely to become slippery
         * Decking should be only slightly higher than the maximum height of pond
 
-Safety
+## Safety
 
 [Data from Ro](https://www.rospa.com/rospaweb/docs/advice-services/leisure-safety/pond-statistics.pdf)[yal Society for the Prevention of Accidents](https://www.rospa.com/rospaweb/docs/advice-services/leisure-safety/pond-statistics.pdf)
 
@@ -89,8 +91,8 @@ having very fast flow as a river with spring melt.
   * Sloped edges mean you step into shallow water rather than fall into deeper water
   * Coarse or large gravel on the bottom will not have the sticky effect of soil-like substrates
 
-**Fencing  \- **[In the UK there is no requirement to fence off a pond](https://www.hse.gov.uk/myth/myth-busting/2014/case333-managing-agent-says-garden-pond-to-be-fenced-in.htm). Check your local regulations.
-
+### Fencing
+**[In the UK there is no requirement to fence off a pond](https://www.hse.gov.uk/myth/myth-busting/2014/case333-managing-agent-says-garden-pond-to-be-fenced-in.htm). Check your local regulations.
   * Fencing can produce its own hazards
     * Standing on railing could mean kids fall from a higher height
     * Fences can prevent help from reaching someone who has fallen in or prevent them from easily getting out
@@ -101,22 +103,21 @@ having very fast flow as a river with spring melt.
       * Falling onto the grate could cause injury
       * Damaged grating or mesh could become risk for trapping feet/fingers
       * False sense of security, encouraging riskier behaviour such as walking on the grating
-    * Makes using pond more difficult, less likely to actually use it at all
+    * Makes using pond more difficult, so you will be less likely to actually use it at all
 
-**Diseases** \- Infections can occur from contact with untreated water as in a
-wildlife pond. Practice good hygiene and risk is extremely low.
+### Diseases
+Infections can occur from contact with untreated water as in a wildlife pond. Practice good hygiene and risk is extremely low.
 
   * Apply waterproof plasters/bandages to open wounds on hands
   * Wash hands with soap and water after using the pond
   * Weil’s disease is the most commonly cited zoonotic risk in the UK, bacterial infection transmitted by rat urine, but 1996-2006 never more than 60 cases in a year so risk is extremely low. (Risk is greater in tropical or subtropical areas)
     * <https://www.rospa.com/leisure-safety/Water/Advice/Weils-Disease>
 
-**Mosquitos**
-
+### Mosquitos
   * Addition of a fountain or pump to provide water circulation will reduce mosquito breeding
   * Add fish
 
-Plants and wildlife
+## Plants and wildlife
 
   * Most insects and wildlife will arrive quite quickly on their own
   * Small native freshwater fish can be added a few months after first setting up a pond.
@@ -128,7 +129,7 @@ Plants and wildlife
     * Do not import frogs from other ponds. This can spread diseases. 
     * If amphibians do not arrive on their own the surrounding area is probably not suitable for them, and young frogs will likely not survive after leaving the pond.
 
-Topics to start with
+## Topics to start with
 
 **Habitats** \- Involve kids in the design process. All the components of the
 habitat, and what conditions animals and plants need to thrive.
@@ -157,7 +158,7 @@ themselves to pastels or watercolours.
   * Pond plants are also often very vigorous and recover well from being picked. Collected material can be used as references for portraits of plants and their parts
   * Botanical illustration, technical drawing
 
-Teaching tips
+## Teaching tips
 
   * Familiarity will help a lot in figuring out if your pond will be suitable for a topic. Do your own pond dip and see what is most common.
 
@@ -166,8 +167,7 @@ Teaching tips
   * If classes tend not to use ponds or find live creatures often, structured collection from specific microhabitats can be very difficult to orchestrate.
     * Those who collect from the top of the pond in open water tend not to find much and can be disappointed.
 
-  * If going for structured collection, direct kids to ‘high yield’ areas 
-    * Plants, bottom of pond, whole water column
+  * If going for structured collection, direct kids to ‘high yield’ areas. Good areas to try are among plants and near the bottom of pond.
 
   * Close observation in containers can yield a lot of good information
     * Observed behaviour in containers tends to be similar behaviour to that would be seen in the habitat. 
