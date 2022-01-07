@@ -7,8 +7,6 @@
     "build": "npm run hugo:build",
     "clean": "npm run hugo:clean",
     "start": "npm run hugo:serve",
-
-    // https://github.com/gohugoio/hugo/issues/7391#issuecomment-979445462
     "hugo:build": "HUGO_CACHEDIR=${PWD}/.hugo_cache hugo",
     "hugo:serve": "HUGO_CACHEDIR=${PWD}/.hugo_cache hugo server",
     "hugo:clean": "shx rm -rf public resources",
