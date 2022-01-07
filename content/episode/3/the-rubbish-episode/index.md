@@ -6,14 +6,16 @@ draft: false
 slug: the-rubbish-episode
 title: The rubbish episode
 episode: 3
+image: rubbish.jpg
 music: Selfish
 categories:
 - Podcast
 tags:
 - Pollution
 podbean:
-  id:
+  id: qt3hw-c04cbd
   mp3: https://knowingnature.podbean.com/mf/play/6bq7h8/Ep_3_-_The_rubish_episode.mp3
+summary: Past and present issues with pollution and tackling it in everyday life.
 ---
 
 {{<podcast-player>}}

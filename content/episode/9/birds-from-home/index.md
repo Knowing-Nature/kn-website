@@ -6,14 +6,17 @@ draft: false
 slug: birds-from-home
 title: Birds from Home
 episode: 9
+image: feeder.jpg
 music: Selfish
 categories:
 - Podcast
 tags:
 - Birds
+- Lockdown
 podbean:
     id: nupjf-d6cb05
     mp3: https://knowingnature.podbean.com/mf/play/eb23uy/Ep_9_-_Birds_from_home.mp3
+summary: Suggestions for how to get into watching birds from home. Ideas for teaching about birds and migration.
 ---
 
 {{<podcast-player>}}

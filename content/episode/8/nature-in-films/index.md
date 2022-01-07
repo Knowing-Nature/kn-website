@@ -6,20 +6,19 @@ draft: false
 slug: nature-in-films
 title: Nature in films
 episode: 8
+image: film.jpg
 music: Selfish
 categories:
 - Podcast
 - Film Club
 tags:
-- Avatar
-- Film
-- How to Train Your Dragon
-- Lion King
-- Nature
 - Tourism
+- People and nature
+- Ecology
 podbean:
-  id:
+  id: 9vq6d-d2c1e0
   mp3: https://knowingnature.podbean.com/mf/play/pi3gmd/Ep_8_-_Nature_in_film.mp3
+summary: Discussing the importance of how nature is depicted in movies. Ideas for using films to explore ecosystems and how people and nature interact.
 ---
 
 {{<podcast-player>}}

@@ -6,6 +6,7 @@ draft: false
 slug: mammal-gallery-tour-part-1
 title: Mammal gallery tour, Part 1
 episode: 5
+image: mammals.jpg
 music: Selfish
 categories:
 - Podcast
@@ -13,8 +14,9 @@ tags:
 - Mammals
 - Tours
 podbean:
-  id:
+  id: baqhs-ca2608
   mp3: https://knowingnature.podbean.com/mf/play/hj2wxq/Ep_5_-_Mammals_tour.mp3
+summary: A tour through the Mammals hall at the Natural History Museum in London with info on teeth and diets. Discussion on planning tours/lessons for younger audiences and tips for getting the most out of a museum visit.
 ---
 
 {{<podcast-player>}}

@@ -6,14 +6,16 @@ draft: false
 slug: 2019-nature-news
 title: 2019 Nature news
 episode: 7
+image: news.jpg
 music: Selfish
 categories:
 - Podcast
 tags:
 - News
 podbean:
-  id:
+  id: d3j2e-d02b87
   mp3: https://knowingnature.podbean.com/mf/play/q7u8yi/Ep_7_-_2019_Nature_news.mp3
+summary: First photo of a black hole. Deer seen first time in 30 years. Nene no longer endangered. Rats playing hide and seek. EPA to expand use of antibiotics against citrus greening.
 ---
 
 {{<podcast-player>}}
