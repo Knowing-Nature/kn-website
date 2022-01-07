@@ -22,10 +22,15 @@ section.article-list {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
 	grid-column-gap: 1em;
+	grid-row-gap: 1em;
 }
 
 .article-list article:first-child {
 	grid-column: span 2;
+}
+
+.article-list article:not(:last-of-type) {
+	margin-bottom: 0px;
 }
 
 //fully qualify to override the theme style
