@@ -6,39 +6,45 @@ draft: false
 slug: ferngully
 title: Ferngully
 episode: 16
+image: ferngully_banner.jpg
 music: Selfish
 categories:
 - Podcast
 - Film Club
 tags:
 - Deforestation
+- Rainforest
 podbean:
-  id:
+  id: 6rkj2-de2d40
   mp3: https://knowingnature.podbean.com/mf/play/t1i2qq/Ep_16-Film_club-_Ferngully_654jh.mp3
+summary: Discussion about environmental and conservation themes in the film Ferngully.
 ---
 
 {{<podcast-player>}}
 
-Discussion about environmental and conservation themes in the film Ferngully.
-Film recommended for ages 5-12.
+{{<film director="Bill Kroyer"
+        starring="Samantha Mathis(voice), Christian Slater(voice), Robin Williams(voice)"
+        thumb="ferngully.jpg"
+        release-date="1992-04-10"
+        runtime="1h16m"
+        rating="G"
+        imdb-link="https://www.imdb.com/title/tt0104254/">}}
 
-Ferngully: The last rainforest, released 1992. Directed by Bill Kroyer. Based
-on the book _FernGully: The Last Rainforest_ by Diana Young
 
 You may like to watch the movie first have a think about:
 
   * What species do you recognize in the film?
-  * Who’s the villain?
+  * Who are the villains?
 
 This week's guests: Science and environmental educators Ayesha and Ane.
 
-Depiction of animals and habitats
+## Depiction of animals and habitats
 
 Great attention paid to the animals and plants to set the scene and make it
 specifically the Australian rainforest. Identifying the animals depicted in
 the film could be a great way of getting to know the ecosystem.
 
-Dealing with death and decay
+## Dealing with death and decay
 
 “There are worlds within worlds, Crysta. Everything in our world is connected
 by the delicate strands of the web of life, which is a balanced between the
@@ -48,7 +54,7 @@ There is some mention of the importance of balance between creation and
 destruction. However more could have been done to link destruction and decay
 to feeding new life.
 
-The antagonists
+## The antagonists
 
 “Our world was much larger then. The forest went on forever. We tree spirits
 nurtured the harmony of all living things, but our closest friends were

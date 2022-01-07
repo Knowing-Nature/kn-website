@@ -6,14 +6,17 @@ draft: false
 slug: invertebrates-from-home
 title: Invertebrates from home
 episode: 10
+image: bug.jpg
 music: Selfish
 categories:
 - Podcast
 tags:
 - Invertebrates
+- Lockdown
 podbean:
-    id:
+    id: 9xtn4-d752f9
     mp3: https://knowingnature.podbean.com/mf/play/pbii89/Ep_10_-_Invertebrates_from_home.mp3
+summary: Since we're all stuck indoors, here are some ideas for how to get started studying invertebrates from the comfort of your own home. How to keep dead windowsill specimens safe. Ideas for building your own ID key.
 ---
 
 {{<podcast-player>}}
@@ -22,7 +25,7 @@ More ideas for engaging with nature while we’re all stuck indoors. This
 episode we look at how to get started studying invertebrate from the comfort
 of your own home.
 
-What is a minibeast?
+## What is a minibeast?
 
 Used in the UK to refer to invertebrates. Invertebrates are the group animals
 which do not have a spinal column or notochord, which is a rod-like structure
@@ -36,14 +39,14 @@ same as explaining what defines an invertebrate. So if you are teaching a term
 anyways, you may as well start with ‘invertebrates’ because it has a clear
 scientific definition.
 
-Importance of the scientific terms
+## Importance of the scientific terms
 
   * Using scientific terminology get you thinking in terms of details and shared features
   * Scientific terms have agreed specific meaning. (Other people will know exactly what group of features you are referring to)
   * Can be important starting point in understanding an animal’s biology
   * Helps you make links between animals with shared features.
 
-How to learn more about invertebrates
+## How to learn more about invertebrates
 
 Read up on ones you are curious about. Or research what conditions are
 suitable for invertebrates you want to attract
@@ -94,12 +97,10 @@ make it easier to maintain recommended 2m minimum distance from others.
   * Return them to where you found them
 
 Good foster invertebrates are:
-
   * Slugs and snails  \- Watch how they feed and watch how them move as the move along the glass.
-
   * Worms **** \- Use a smaller container in the centre of the jar and wrap thick or dark paper around the outside to block out light when you are not observing your worm and ensure the worms spend their time close to the glass.)
 
-**Create your own ID key**
+## Create your own ID key
 
   * Write detailed descriptions and/or take photos
   * What features do you think are important in identifying
@@ -123,7 +124,6 @@ Made using: [https://](https://www.lucidchart.com/)[www.lucidchart.com](https://
   ![](example-id-key-2-2.jpeg)
 
   
-Thi
 
 Made with [https://](https://www.visme.co/)[www.visme.co](https://www.visme.co/)[/](https://www.visme.co/)
 

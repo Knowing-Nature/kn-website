@@ -6,6 +6,7 @@ draft: false
 slug: invertebrates-in-our-homes
 title: Invertebrates in our homes
 episode: 10b
+image: snail.jpg
 music: Selfish
 categories:
 - Podcast
@@ -13,13 +14,13 @@ tags:
 - DIY
 - Habitats
 - Invertebrates
-- Nature
 - Science
 - Woodlice
 - Worms
 podbean:
-    id:
+    id: e4yer-d7a9eb
     mp3: https://knowingnature.podbean.com/mf/play/p5fy7a/Ep_10b_-_Invertebrates_in_our_homes.mp3
+summary: Add-on to Ep.10. I ask some friends to tell us about how they've made habitats for invertebrates. We discuss snails, woodlice, worms, and kitchen herbs in window boxes.
 ---
 
 {{<podcast-player>}}
@@ -28,7 +29,7 @@ A short add-on to our last episode. I asked some friends to share the homes
 they're created for invertebrates, and tell us about how they put the habitats
 together.
 
-My home for tiny snails
+## Victor's home for tiny snails
 
 Made with a yogurt container with some soil from another flower pot. I also
 decorated their home with weed seedings carefully dug out from other flower
@@ -51,7 +52,7 @@ And the Field Studies Council has published an excellent key to the Land Snails 
   ![](snail2.jpg)
   ![](carrot.jpg)
 
-Maggie’s home for woodlice
+## Maggie’s home for woodlice
 
 Made with a jam jar and soil from the garden. Decorated with rotting wood from
 a cut down tree along the road and misted for moisture. The lid is made with a
@@ -73,6 +74,7 @@ invertebrates. Find them at: <https://www.field-studies-council.org/>
   ![](woodlouse-home-3.jpg)
   ![](woodlouse-home-4.jpg)
 
+## Ayesha's windowbox for butterflies
 Made with a small window box planted with kitchen herbs. Herbs were bought
 from a local grocer, rescued from being tossed for being out of date. Just
 repot them in a bigger container to give them room to grow and water

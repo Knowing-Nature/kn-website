@@ -20,7 +20,7 @@ podbean:
 
 {{<podcast-player>}}
 
-{{<film director="Tim JohnsonKarey Kirkpatrick"
+{{<film director="Tim Johnson, Karey Kirkpatrick"
         starring="Bruce Willis(voice), Garry Shandling(voice), Steve Carell(voice)"
         thumb="overthehedge_cover.png"
         release-date="1984-03-11"

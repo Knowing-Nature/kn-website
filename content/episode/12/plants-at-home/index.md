@@ -6,6 +6,7 @@ draft: false
 slug: plants-at-home
 title: Plants at home
 episode: 12
+image: plants.jpg
 music: Selfish
 categories:
 - Podcast
@@ -15,8 +16,9 @@ tags:
 - Plants
 - Terrariums
 podbean:
-    id:
+    id: x4rii-da93a5
     mp3: https://knowingnature.podbean.com/mf/play/9ws3qh/Ep_12_-_Plants_at_home.mp3
+summary: Ideas for engaging with plants without needing to leave your home. Time to rearrange, re-pot, and take cuttings. Make the most of kitchen scraps. Some thoughts on setting up your own terrarium.
 ---
 
 {{<podcast-player>}}

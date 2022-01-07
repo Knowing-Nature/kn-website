@@ -6,21 +6,23 @@ draft: false
 slug: nature-books
 title: Nature books
 episode: 13
+image: books.jpg
 music: Selfish
 categories:
 - Podcast
 tags:
 - Books
 podbean:
-    id:
+    id: 6zjax-db72dd
     mp3: https://knowingnature.podbean.com/mf/play/c6t4ut/Ep_13_-_Nature_books.mp3
+summary: A few nature book recommendations for adults and kids. Kids book recommendations at 22 min.
 ---
 
 {{<podcast-player>}}
 
 This episode we feature a few of our favourite nature/natural history books.
 
-Books for grownups
+## Books for adults
 
 **Last child in the woods** \- Richard Louv (2005)
 
@@ -50,7 +52,7 @@ reflections on intelligence and consciousness
 All about bumblebees and an ecologist’s mission to reintroduce the short-
 haired bumblebee back to the UK.
 
-Books for kids
+## Books for kids
 
 **How to Help a Hedgehog and Protect a Polar Bear** \- Jess French (2018)
 

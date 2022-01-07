@@ -5,7 +5,7 @@ date: 2020-05-12 18:34:21+00:00
 draft: false
 slug: nature-photography
 title: Nature photography
-image: oak-tree-star-trail_final.jpg
+image: photography.jpg
 episode: 14
 music: Selfish
 categories:
@@ -16,8 +16,9 @@ tags:
 - Identification
 - Photography
 podbean:
-    id:
+    id: 26n9p-dc33b3
     mp3: https://knowingnature.podbean.com/mf/play/ki4g4z/Ep14-Naturephotography9roy2.mp3
+summary: Tips for getting started in nature photography and taking photos for identification purposes. Introduction to cyanotyping and astrophotography.
 ---
 
 {{<podcast-player>}}
