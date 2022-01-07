@@ -6,29 +6,31 @@ draft: false
 slug: video-games-and-enviro-ed
 title: Video games and enviro-ed
 episode: 19
+image: videogames.jpg
 music: Selfish
 categories:
 - Podcast
 podbean:
-  id:
+  id: p2sgh-e1e02e
   mp3: https://knowingnature.podbean.com/mf/play/8i5c87/Ep19-_Video_games_and_enviro-ed_9mjnq.mp3
+summary: Discussion on how video games can be used as a tool for learning about the natural world. Ideas for teachers. Games discussed Minecraft, Oxygen not Included, and Animal Crossing.
 ---
 
 {{<podcast-player>}}
 
-How games can support engagement **** with nature
+## How games can support engagement with nature
 
   * Can allow introduction to new places and creatures in a ‘safe’ environment. This can help build a sense of familiarity and reduce worry about wild spaces and animals.
   * Can allow increased ‘access’ to remote or dangerous places, and allow encounters with rare animals.
 
-Potential pitfalls
+## Potential pitfalls
 
   * Oversimplification leading to misconceptions.
   * Safe virtual interaction leading to false sense of security.
   * False impression of how common some animals are.
   * Instant gratification leading to unrealistic expectations of the natural world.
 
-Game recommendations
+## Game recommendations
 
 **Minecraft** \- Very popular so many kids may have played it before. Reducing
 the need to teach the class how to use the tool. Even if students haven’t used
@@ -68,7 +70,7 @@ to talk about and a better feel for the possibilities for steering
 conversations. Also allows you to get a better understanding of the
 potentially addictive qualities of the game and see microtransaction elements.
 
-Strategies for limiting game time
+## Strategies for limiting game time
 
 Coordinate allowed gaming times with other parents. Gets around the struggle
 with kids feeling like they are missing out of what their friends are doing
@@ -76,7 +78,7 @@ with kids feeling like they are missing out of what their friends are doing
 Playing with kids allows you to say ‘we should take a break’ instead of ‘you
 should take a break’.
 
-Ideas for using videogames in teaching
+## Ideas for using videogames in teaching
 
 Important to be clear in what you want to achieve and carefully consider if a
 game is a good tool for the job. Is your focus in a lesson going to be

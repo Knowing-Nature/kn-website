@@ -6,6 +6,7 @@ draft: false
 slug: film-club-over-the-hedge
 title: Film Club - Over the Hedge
 episode: 17
+image: overthehedge.jpg
 music: Selfish
 categories:
 - Podcast
@@ -13,16 +14,20 @@ categories:
 tags:
 - Urban wildlife
 podbean:
-  id:
+  id: 8gn8b-df0a8c
   mp3: https://knowingnature.podbean.com/mf/play/98h1n0/Ep_17_-Film_club-_Over_the_hedge_bkg7p.mp3
 ---
 
 {{<podcast-player>}}
 
-Discussion about the film Over the hedge. Released in 2006. Directed by Karey
-Kirkpatrick and Tim Johnson.
+{{<film director="Tim JohnsonKarey Kirkpatrick"
+        starring="Bruce Willis(voice), Garry Shandling(voice), Steve Carell(voice)"
+        thumb="overthehedge_cover.png"
+        release-date="1984-03-11"
+        runtime="1h23m"
+        rating="G"
+        imdb-link="https://www.imdb.com/title/tt0327084/">}}
 
-This episode's guests are Environmental Educators: Ayesha and Lauren.
 
 You may want to watch the film before listening and think about these
 questions:
@@ -30,7 +35,7 @@ questions:
   * What type of food does the movie focus on?
   * What might happen to these animals in the next year?
 
-What the film did well
+## What the film did well
 
 **Highlighted the importance of eating and gathering food stores** for animals
 which hibernate.
@@ -40,7 +45,7 @@ which hibernate.
 **Human attitudes towards wildlife** \- Many of the humans were afraid of the
 animals despite not even knowing what they are.
 
-What did the film miss the mark on?
+## What did the film miss the mark on?
 
 **Food**
 

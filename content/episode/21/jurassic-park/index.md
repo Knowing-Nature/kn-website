@@ -12,9 +12,11 @@ categories:
 - Film Club
 tags:
 - Dinosaurs
+- Ethics
 podbean:
-  id:
+  id: ki3nf-e3ac17
   mp3: https://knowingnature.podbean.com/mf/play/ltpnab/Ep_21_-Film_Club-_Jurassic_Park_6ne79.mp3
+summary: Discussion of the 1993 film, Jurassic Park. We discuss the successes of the film in sparking interest in palaeontology, and share thoughts on the questions surrounding bringing back extinct species.
 ---
 
 {{<podcast-player>}}
@@ -27,12 +29,8 @@ podbean:
         rating="PG"
         imdb-link="https://www.imdb.com/title/tt0107290">}}
 
-Discussion of the 1993 classic of palaeontology, Jurassic Park, directed by
-Steven Spielberg. Based on the book by Michael Crichton. Guests on this
-episode: Tom and Conor.
 
 You may want to watch the film first and think about:
-
   * Are there situations where you would want to bring back an extinct species?
 
 ## What the film did well
@@ -52,15 +50,12 @@ the possible consequences.
 
 **Bringing back the wooly mammoth**
 
-[Scientists Could Resurrect the Woolly Mammoth](https://www.nationalgeographic.co.uk/animals/2017/11/scientists-could-resurrect-woolly-mammoth) \- National Geographic
-
-[Can We Bring Back Mammoths From Extinction? Probably Not](https://www.discovermagazine.com/planet-earth/can-we-bring-back-mammoths-from-extinction-probably-not-heres-why) \- Discover magazine
+* [Scientists Could Resurrect the Woolly Mammoth](https://www.nationalgeographic.co.uk/animals/2017/11/scientists-could-resurrect-woolly-mammoth) \- National Geographic
+* [Can We Bring Back Mammoths From Extinction? Probably Not](https://www.discovermagazine.com/planet-earth/can-we-bring-back-mammoths-from-extinction-probably-not-heres-why) \- Discover magazine
 
 **Genetic modification of mosquitoes to control disease**
-
-[Can genetically modified mosquitoes wipe out malaria?](https://science.howstuffworks.com/life/genetic/gm-mosquito.htm) \- How Stuff Works
-
-[Self-destructing mosquitoes and sterilized rodents: the promise of gene drive](https://www.nature.com/articles/d41586-019-02087-5) \- Nature
+* [Can genetically modified mosquitoes wipe out malaria?](https://science.howstuffworks.com/life/genetic/gm-mosquito.htm) \- How Stuff Works
+* [Self-destructing mosquitoes and sterilized rodents: the promise of gene drive](https://www.nature.com/articles/d41586-019-02087-5) \- Nature
 
 **Gender roles**
 
@@ -95,23 +90,25 @@ rivalry between Charles Marsh and Edward Cope.
 * The Dinosaur Hunters (2010) - Story of the 19th century scientists and the
 description of the first dinosaur hunters.
 
-**Go fossil hunting!** \- Check regulations in your area. Some types of fossil
+**Go fossil hunting!** \
+Check regulations in your area. Some types of fossil
 or locations may be protected by law. Significant finds should be turned into
 your local palaeontological museum or university department.
 
 * <https://ukfossils.co.uk/> \- Lists good fossil hunting sites and upcoming
 group fossil hunts.
-
 * <https://maps.roadtrippers.com/trips/20150022> \- List of some fossil hunting
 sites in America
 
-**Play with toys!** \- Sort into groups. Arrange into scenes.
+**Play with toys!** \
+Sort into groups. Arrange into scenes.
 
-**Volunteer** \- Look for opportunities at museums, nature reserves, or
+**Volunteer** \
+Look for opportunities at museums, nature reserves, or
 anywhere else. Builds experience and makes contacts with people in the field
 you are interested in.
 
-## Get involved in citizen science projects
+**Get involved in citizen science projects**
 
 <https://www.inaturalist.org/> \- US based app for sharing your natural
 history observations.

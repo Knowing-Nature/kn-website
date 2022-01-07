@@ -27,16 +27,13 @@ way to have encounters with wildlife.
 ## Tips for building a pond
 
 Size is not critical for wildlife pond, but bigger is better
-
   * Larger ponds are more stable. Changes in temperature, oxygen etc. will happen more gradually.
   * More places for wildlife to hide.
 
 Depth can be important in places which get particularly cold in winter.
-
   * Check locally, 50cm is often more than enough to prevent freezing top-bottom which would affect fish and larger wildlife
 
 Try to have the pond part shaded.
-
   * Reduces temperature swings
   * Reduce growth of algae which can quickly take over in new ponds
   * Not directly under a tree
@@ -46,9 +43,7 @@ Try to have the pond part shaded.
 ## In-ground vs raised
 
   * Raised ponds are more accessible
-
-  * Depending on height of edge can be used even by very young children
-    * ~50cm is a good minimum height
+  * Depending on height of edge can be used even by very young children. ~50cm is a good minimum height
   * Use study border, not just any raised bed.
     * Strong enough to sit on
     * Wide enough rim to be able to put specimen trays and charts.
@@ -59,12 +54,9 @@ Try to have the pond part shaded.
       * Raised pond can be accessed by amphibians if they are provided a planted bank up one edge of the pond.
     * Access area needs to be considered
       * Planted banks are not good. Plants trampled, becomes muddy,  can become slippery
-      * Gravel banks better, less messy, less slippery for people
-        * Gravel will work its way into the pond
-      * Mix of gravels, larger, flat rocks, even better
-        * Kids will tend to stand on the larger flat stones
-          * More stable, less gravel slippage into the pond
-          * Choose rough large stones for more grip
+      * Gravel banks better, less messy, less slippery for people. However gravel will gradually work its way into the pond.
+      * Mix of gravels, larger, flat rocks, even better. More stable, less gravel slippage into the pond
+        * Kids will tend to stand on the larger flat stones. Choose rough large stones for more grip.
       * Decking probably provides best access
         * If extended into the pond can allow access to deeper areas 
         * Kids won’t trample plants or get muddy
@@ -73,18 +65,16 @@ Try to have the pond part shaded.
 
 ## Safety
 
-[Data from Ro](https://www.rospa.com/rospaweb/docs/advice-services/leisure-safety/pond-statistics.pdf)[yal Society for the Prevention of Accidents](https://www.rospa.com/rospaweb/docs/advice-services/leisure-safety/pond-statistics.pdf)
-
   * Risk of drowning in ponds is extremely low
   * Overall garden ponds are as risky as bathtubs
   * Most at risk for ponds were 1 and 2 year olds
+  * [Data from Royal Society for the Prevention of Accidents](https://www.rospa.com/rospaweb/docs/advice-services/leisure-safety/pond-statistics.pdf)
 
-**Supervision of very young children is the best safety precaution**
+**Supervision of very young children is the best safety precaution**\
+Spend time with young children around ponds, supporting development of motor skills and demonstrating how to evaluate risk
 
-  * Spend time with young children around ponds supporting development of motor skills and demonstrating how to evaluate risk
-
-**Design your pond to minimize risk.** \- Most of the risk from bodies of
-water come from being very deep as can be the case in lakes and reservoirs, or
+**Design your pond to minimize risk.** \
+Most of the risk from bodies of water come from being very deep as can be the case in lakes and reservoirs, or
 having very fast flow as a river with spring melt.
 
   * Shallow enough that a child can stand up and walk out if they fall in will vastly reduce risks
@@ -92,18 +82,18 @@ having very fast flow as a river with spring melt.
   * Coarse or large gravel on the bottom will not have the sticky effect of soil-like substrates
 
 ### Fencing
-**[In the UK there is no requirement to fence off a pond](https://www.hse.gov.uk/myth/myth-busting/2014/case333-managing-agent-says-garden-pond-to-be-fenced-in.htm). Check your local regulations.
+[In the UK there is no requirement to fence off a pond](https://www.hse.gov.uk/myth/myth-busting/2014/case333-managing-agent-says-garden-pond-to-be-fenced-in.htm). Check your local regulations.
   * Fencing can produce its own hazards
     * Standing on railing could mean kids fall from a higher height
     * Fences can prevent help from reaching someone who has fallen in or prevent them from easily getting out
     * Can create false sense of security (Sitting on fence is riskier than sitting on the deck)
 
-  * Mesh coverings/grates
-    * Can produce own hazards
-      * Falling onto the grate could cause injury
-      * Damaged grating or mesh could become risk for trapping feet/fingers
-      * False sense of security, encouraging riskier behaviour such as walking on the grating
-    * Makes using pond more difficult, so you will be less likely to actually use it at all
+### Mesh coverings/grates
+  * Makes using pond more difficult, so you will be less likely to actually use it at all
+  * Can produce own hazards
+    * Falling onto the grate could cause injury
+    * Damaged grating or mesh could become risk for trapping feet/fingers
+    * False sense of security, encouraging riskier behaviour such as walking on the grating
 
 ### Diseases
 Infections can occur from contact with untreated water as in a wildlife pond. Practice good hygiene and risk is extremely low.
@@ -114,11 +104,12 @@ Infections can occur from contact with untreated water as in a wildlife pond. Pr
     * <https://www.rospa.com/leisure-safety/Water/Advice/Weils-Disease>
 
 ### Mosquitos
-  * Addition of a fountain or pump to provide water circulation will reduce mosquito breeding
+  * A rich ecosystem will include many predatory insects which feed on mosquitos, controlling their numbers.
+  * Adding of a fountain or pump to provide water circulation will reduce mosquito breeding
   * Add fish
 
-## Plants and wildlife
 
+## Plants and wildlife
   * Most insects and wildlife will arrive quite quickly on their own
   * Small native freshwater fish can be added a few months after first setting up a pond.
     * If your pond is well designed, and not overstocked, fish will not eat everything. Make sure you have planted submerged plants with lots of leaves. These are often sold as oxygenating plants.
@@ -151,11 +142,9 @@ Established ponds may be visible from satellite or aerial footage.
     * Get better feel for conditions around the pond mapping in-person
     * What conditions can be identified from aerial images? What requires in-person investigation?
 
-**Art** \- Ponds often have soft edges because of the planting, and lend
-themselves to pastels or watercolours.
-
+**Art** \- Ponds often have soft edges because of the planting, and lend themselves to pastels or watercolours.
   * Landscapes, impressionism
-  * Pond plants are also often very vigorous and recover well from being picked. Collected material can be used as references for portraits of plants and their parts
+  * Pond plants are also often very vigorous and recover well from being picked. Collected material can be used as references for portraits of plants and their parts.
   * Botanical illustration, technical drawing
 
 ## Teaching tips

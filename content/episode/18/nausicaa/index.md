@@ -6,24 +6,31 @@ draft: false
 slug: film-club-nausicaa
 title: Film Club – Nausicaa
 episode: 18
+image: nausicaa.jpg
 music: Selfish
 categories:
 - Podcast
 - Film Club
+tags:
+- People and nature
 podbean:
-  id:
+  id: i8pb2-e12fe7
   mp3: https://knowingnature.podbean.com/mf/play/sgtchu/Ep_18_-_Film_club_Nausicaa_87p7z.mp3
+summary: Discussion of the 1984 film Nausicaa of the Valley of the Wind. We discuss what the film says about how people relate to the natural world, and how unfamiliarity breeds fear.
 ---
 
 {{<podcast-player>}}
 
-Discussion of the 1984 film Nausicaa of the valley of the wind. Directed by
-Hayao Miyazaki.
+{{<film director="Hayao Miyazaki"
+        starring="Sumi Shimamoto(voice), Mahito Tsujimura(voice), Hisako Kyôda(voice)"
+        thumb="nausicaa_cover.jpg"
+        release-date="1984-03-11"
+        runtime="1h57m"
+        rating="PG"
+        imdb-link="https://www.imdb.com/title/tt0087544/">}}
 
-This episode’s guests are environmental educators, Maggie and Paul.
 
 You may want to watch the film first and think about:
-
   * How do the different groups in the film relate to the natural world.
   * How do the different groups of people feel about nature?
   * Why do they feel that way?

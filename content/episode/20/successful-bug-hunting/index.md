@@ -6,15 +6,17 @@ draft: false
 slug: successful-bug-hunting
 title: Successful bug hunting
 episode: 20
+image: bughunting.jpg
 music: Selfish
 categories:
 - Podcast
 tags:
 - Invertebrates
-- Lesson planning
+- Pedagogy
 podbean:
-  id:
+  id: gqf59-e2dfa1
   mp3: https://knowingnature.podbean.com/mf/play/out6vy/Ep_21_-_Successful_bug_hunt_9jvb1.mp3
+summary: Tips for setting up a bug hunting area for classes and have success in bug hunting sessions.
 ---
 
 {{<podcast-player>}}
