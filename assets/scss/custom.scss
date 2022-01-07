@@ -24,6 +24,10 @@ section.article-list {
 	grid-column-gap: 1em;
 }
 
+.article-list article:first-child {
+	grid-column: span 2;
+}
+
 //fully qualify to override the theme style
 .article-page .main-article .article-content {
 	.media-callout {
