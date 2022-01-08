@@ -1,0 +1,8 @@
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+{{ $filtered := ($pages | intersect $notHidden) }}
+
+{{/* https://discourse.gohugo.io/t/show-different-number-of-posts-on-first-page/36418 */}}
+{{/* Pad the list with the home page once so we can display only 5 on the first page */}}
+{{ $padded := (slice site.Home) | append $filtered }}
+{{ $pag := .Paginate $padded }}

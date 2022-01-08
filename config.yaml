@@ -1,7 +1,7 @@
 baseurl: https://knowingnature.cc
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+paginate: 6
 title: Knowing Nature
 
 # Change it to your Disqus shortname before using

@@ -1,0 +1,23 @@
+{{ define "main" }}
+    {{ partial "data/paginator" . }}
+
+    <section class="article-list">
+        {{ $hasPrev := .Paginator.HasPrev }}
+        {{ range $index, $element := .Paginator.Pages }}
+            {{ if not $element.IsHome }}
+                {{ if and (not $hasPrev) (eq $index 1) }}
+                    {{ partial "article-list/featured" $element }}
+                {{ else }}
+                    {{ partial "article-list/default" $element }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </section>
+
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" . }}
+{{ end }}

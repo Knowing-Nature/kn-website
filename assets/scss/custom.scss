@@ -25,7 +25,7 @@ section.article-list {
 	grid-row-gap: 1em;
 }
 
-.article-list article:first-child {
+.article-list article.featured {
 	grid-column: span 2;
 }
 
