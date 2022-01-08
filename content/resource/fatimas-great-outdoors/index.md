@@ -13,6 +13,7 @@ tags:
 - Camping
 - Diversity
 - Outdoors
+summary: The story of a family's first camping trip. That family just happens to have moved from India to America. This story brings much-needed diversity to the image of who gets to be in outdoor spaces, and how a camping trip can look.
 ---
 
   * Author: Ambreen Tariq

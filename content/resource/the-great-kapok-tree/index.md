@@ -15,6 +15,7 @@ tags:
 - Just transition
 - Plants
 - Rainforest
+summary: A phenomenal book for introducing habitats, the Amazon rainforest, and the problem of deforestation. Richly detailed illustrations convey the biodiversity and abundance of rainforests.
 ---
 
   * Author: Lynne Cherry

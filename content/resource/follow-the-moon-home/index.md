@@ -13,7 +13,7 @@ tags:
 - Oceans
 - People and animals
 - Turtles
-summary: When Viv moves to the South Carolina coast, she has no idea she'll soon be helping sea turtles.
+summary: Just arriving in town, Viv's class assignment is to find a problem and come up with a plan to tackle it. The story of a successful campaign against what, at first, seems to be an insurmountable problem.
 ---
 
 {{<book ageFrom="5" ageTo="8"

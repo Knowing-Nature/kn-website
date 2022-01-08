@@ -13,6 +13,7 @@ tags:
 - Foraging
 - Immigration
 - Plants
+summary: Driving through Ohio, a young girl’s parents stop when they spot watercress growing wild in a ditch. Watercress is about a child of immigrants wanting to fit in and how this experience can shape how they relate to nature.
 ---
 
 {{<book ageFrom="4" ageTo="8"

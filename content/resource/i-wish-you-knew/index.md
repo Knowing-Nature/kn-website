@@ -14,6 +14,7 @@ tags:
 - Eco-anxiety
 - Immigration
 - Mental health
+summary: Story about sharing, empathy, and creating a classroom community which feels safe and supportive.  A great book for supporting classes or students dealing with eco or climate anxiety.
 ---
 
   * Author: Jackie Azúa Kramer

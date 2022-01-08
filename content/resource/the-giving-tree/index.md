@@ -15,6 +15,7 @@ tags:
 - Plants
 - Sustainability
 - Trees
+summary: Simple story about a boy and an apple tree who gives the boy everything he needs. A powerful book for thinking about sustainability and human relationships with nature.
 ---
 
   * Author: Shel Silverstein

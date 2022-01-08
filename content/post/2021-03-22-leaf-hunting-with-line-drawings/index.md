@@ -8,6 +8,7 @@ title: Leaf hunting with line drawings
 type: post
 url: /2021/03/22/leaf-hunting-with-line-drawings/
 wordpress_id: 513
+image: leafhuntbanner.jpg
 categories:
 - Resources
 tags:
@@ -23,16 +24,16 @@ lends itself best to younger ages (UK KS1, age 6-7). With some work this can
 also be modified to be an activity focussing on classification for older
 groups.
 
-### **Sorting leaves**
+## **Sorting leaves**
 
 Sort pictures/pressed/laminated leaves into groups. Then pick one group of
 leaves and describe what they have in common/why they were put in the same
 group. Focus on introducing terminology for parts of a leaf and having groups
 make detailed descriptions.
 
-  * ![Word bank with simple descriptive words for leaves](word-bank.jpg)
+![Word bank with simple descriptive words for leaves](word-bank.jpg)
 
-### **Leaf hunt**
+## **Leaf hunt**
 
 Scout out your leaf hunting area to see what plants are about then build up a
 scavenger hunt sheet. Go out hunting!
@@ -48,9 +49,9 @@ with seeing leaf details later.
 
 Sample leaf hunt sheets:
 
-  * ![Leaf hunt sheet with line drawing of nettle, plantain, dandelion, geranium, and clover.](leaf-hunt-sheet-2.jpg)
+![Leaf hunt sheet with line drawing of nettle, plantain, dandelion, geranium, and clover.](leaf-hunt-sheet-2.jpg)
 
-### **20 questions**  
+## **20 questions**
 
 One student closes their eyes while the rest of the class chooses a leaf. The
 student opens their eyes and asks the class questions to narrow down the
@@ -96,13 +97,13 @@ in the way the guides arrange their keys?
 Feel free to download and use any of these illustrations of common lawn
 wildflowers.
 
-  * ![](cranesbill.jpg)
-  * ![](dandelion.jpg)
-  * ![](plantain.jpg)
-  * ![](nettle.jpg)
-  * ![](clover.jpg)
-  * ![](chickweed.jpg)
-  * ![](yarrow.jpg)
-  * ![](daisy.jpg)
-  * ![](mallow.jpg)
+  ![](cranesbill.jpg)
+  ![](dandelion.jpg)
+  ![](plantain.jpg)
+  ![](nettle.jpg)
+  ![](clover.jpg)
+  ![](chickweed.jpg)
+  ![](yarrow.jpg)
+  ![](daisy.jpg)
+  ![](mallow.jpg)
 

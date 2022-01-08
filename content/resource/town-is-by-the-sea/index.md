@@ -15,6 +15,7 @@ tags:
 - Fossil Fuels
 - Just transition
 - Mining
+summary: A beautiful, understated, and haunting story about life in a costal mining community. Use it to stimulate discussions about the challenges of making the transition away from fossil fuels.
 ---
 
   * Author: Joanne Schwartz
