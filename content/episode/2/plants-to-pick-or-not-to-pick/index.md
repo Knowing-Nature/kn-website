@@ -1,7 +1,7 @@
 ---
 author: knowingnaturepodcast
 comments: true
-date: 2020-01-19 16:01:31+00:00
+date: 2019-08-12 16:01:31+00:00
 draft: false
 slug: plants-to-pick-or-not-to-pick
 title: "Plants: To pick or not to pick"

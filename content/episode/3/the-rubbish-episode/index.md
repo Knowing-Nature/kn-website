@@ -1,7 +1,7 @@
 ---
 author: knowingnaturepodcast
 comments: true
-date: 2020-01-19 16:04:54+00:00
+date: 2019-09-20 16:04:54+00:00
 draft: false
 slug: the-rubbish-episode
 title: The rubbish episode

@@ -1,7 +1,7 @@
 ---
 author: knowingnaturepodcast
 comments: true
-date: 2020-01-19 16:11:31+00:00
+date: 2019-12-13 16:11:31+00:00
 draft: false
 slug: mammal-gallery-tour-part-2
 title: Mammal gallery tour, Part 2
