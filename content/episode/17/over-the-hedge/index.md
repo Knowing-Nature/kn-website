@@ -3,8 +3,8 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-06-07 16:45:39+00:00
 draft: false
-slug: film-club-over-the-hedge
-title: Film Club - Over the Hedge
+slug: over-the-hedge
+title: _Over the Hedge_
 episode: 17
 image: overthehedge.jpg
 music: Selfish

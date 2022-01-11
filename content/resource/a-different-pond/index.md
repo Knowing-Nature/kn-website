@@ -3,7 +3,7 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-12-03 15:07:32+00:00
 draft: true
-title: A Different Pond
+title: _A Different Pond_
 image: different-pond-cover.jpg
 wordpress_id: 1340
 categories:

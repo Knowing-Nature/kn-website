@@ -4,7 +4,7 @@ comments: true
 date: 2020-05-30 08:50:59+00:00
 draft: false
 slug: ferngully
-title: Ferngully
+title: _FernGully_
 episode: 16
 image: ferngully_banner.jpg
 music: Selfish
@@ -17,7 +17,7 @@ tags:
 podbean:
   id: 6rkj2-de2d40
   mp3: https://knowingnature.podbean.com/mf/play/t1i2qq/Ep_16-Film_club-_Ferngully_654jh.mp3
-summary: Discussion about environmental and conservation themes in the film Ferngully.
+summary: Discussion about environmental and conservation themes in the film _FernGully._
 ---
 
 {{<podcast-player>}}

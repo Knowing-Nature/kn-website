@@ -4,7 +4,7 @@ comments: true
 date: 2020-08-22 07:45:00+00:00
 draft: false
 slug: moana
-title: Moana
+title: _Moana_
 episode: 28
 image: moana.jpg
 music: Selfish

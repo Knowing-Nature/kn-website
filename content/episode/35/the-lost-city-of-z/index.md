@@ -3,8 +3,8 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-11-14 09:00:00+00:00
 draft: false
-slug: film-club-the-lost-city-of-z
-title: Film Club - The Lost City of Z
+slug: the-lost-city-of-z
+title: _The Lost City of Z_
 episode: 35
 image: lostcity.jpg
 music: Gradual_Sunrise

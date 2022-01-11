@@ -3,8 +3,8 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-02-15 07:30:00+00:00
 draft: false
-slug: film-club-white-fang
-title: Film Club - White Fang
+slug: white-fang
+title: _White Fang_
 episode: 41
 image: white-fang.jpg
 music: Marble_Machine
@@ -17,7 +17,7 @@ tags:
 podbean:
   id: 3cnbt-fab978
   mp3: https://mcdn.podbean.com/mf/web/ktxdi2/Ep_41_-Film_Club-_Whitefang8lp2p.mp3
-summary: Discussion of the 2018 Netflix film Whitefang. We discuss human interactions with animals and the environment, and tough subjects like treatment of wild and domestic animals.
+summary: Discussion of the 2018 Netflix film White Fang. We discuss human interactions with animals and the environment, and tough subjects like treatment of wild and domestic animals.
 ---
 
 {{<podcast-player>}}
@@ -42,9 +42,9 @@ You may like to watch the film first and think about:
 ## Depiction of animals
 
   * We were pleasantly surprised by how engaged we were with the characters and story.
-  * _White Fang_ has a lot of personality, but is not anthropomorphised.
+  * White Fang has a lot of personality, but is not anthropomorphised.
   * Lives of wild animals are shown with a darker, harsher edge, than might be expected in an animated kids movie. 
-  * Shows the struggle for food and survival. _White Fang_’s early life and relationship with his mother is not idealized in the same way as in animal movies like Bambi.
+  * Shows the struggle for food and survival. White Fang’s early life and relationship with his mother is not idealized in the same way as in animal movies like Bambi.
 
 ## Depiction of humans
 
@@ -69,7 +69,7 @@ You may like to watch the film first and think about:
 
 ### How animals are used
 
-  * Training _White Fang_ to fight other dogs for sport is intensely brutal and negative. 
+  * Training White Fang to fight other dogs for sport is intensely brutal and negative.
   * Potential for opening discussions about how animals should be treated.
   * How do you feel about a wild animal being used to pull sleds? Fight? Be a pet?
   * Also opens a window to a part of the reality of life in these places at this time which can often be glossed over by the image of brave, adventurous pioneers.
@@ -77,8 +77,8 @@ You may like to watch the film first and think about:
 ### Releasing animals into the wild
 
   * Liked the sense of a wild animal being allowed to return to freedom and its habitat.
-  * However, _White Fang_ has been domesticated for most of his life. By the end, also being taught not to hunt animals like chickens.
-  * Feels unlikely that _White Fang_ would do well in the wild given the behaviours he’s been taught.
+  * However, White Fang has been domesticated for most of his life. By the end, also being taught not to hunt animals like chickens.
+  * Feels unlikely that White Fang would do well in the wild given the behaviours he’s been taught.
   * Would be difficult for him to integrate into a pack.
   * Returning to humans could be dangerous as he could be seen as dangerous and killed.
 

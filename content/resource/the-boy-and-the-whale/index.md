@@ -4,7 +4,7 @@ comments: true
 date: 2021-11-20 17:25:43+00:00
 draft: false
 slug: the-boy-and-the-whale
-title: The Boy and the Whale
+title: _The Boy and the Whale_
 image: boyandthewhale.jpg
 wordpress_id: 1295
 categories:

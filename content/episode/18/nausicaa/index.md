@@ -3,8 +3,8 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-06-27 10:02:00+00:00
 draft: false
-slug: film-club-nausicaa
-title: Film Club – Nausicaa
+slug: nausicaa
+title: _Nausicaa_
 episode: 18
 image: nausicaa.jpg
 music: Selfish

@@ -4,7 +4,7 @@ comments: true
 date: 2021-10-31 21:56:10+00:00
 draft: false
 slug: the-great-kapok-tree
-title: The Great Kapok Tree
+title: _The Great Kapok Tree_
 image: greatkapoktree-cover.png
 wordpress_id: 918
 categories:

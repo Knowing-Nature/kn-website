@@ -4,7 +4,7 @@ comments: true
 date: 2021-10-18 16:50:41+00:00
 draft: false
 slug: fatimas-great-outdoors
-title: Fatima's Great Outdoors
+title: _Fatima's Great Outdoors_
 image: fatimasgreatoutoors.jpg
 wordpress_id: 807
 categories:

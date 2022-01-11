@@ -4,7 +4,7 @@ comments: true
 date: 2021-11-11 13:16:25+00:00
 draft: false
 slug: the-giving-tree
-title: The Giving Tree
+title: _The Giving Tree_
 image: givingtree.jpg
 wordpress_id: 1194
 categories:

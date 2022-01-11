@@ -4,7 +4,7 @@ comments: true
 date: 2021-11-08 12:22:25+00:00
 draft: false
 slug: town-is-by-the-sea
-title: Town is by the Sea
+title: _Town is by the Sea_
 image: townisbythesea-cover.jpg
 wordpress_id: 1103
 categories:

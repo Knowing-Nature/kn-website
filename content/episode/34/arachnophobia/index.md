@@ -3,8 +3,8 @@ author: knowingnaturepodcast
 comments: true
 date: 2020-10-25 09:45:00+00:00
 draft: false
-slug: film-club-arachnophobia
-title: Film Club - Arachnophobia
+slug: arachnophobia
+title: _Arachnophobia_
 episode: 34
 image: arachnophobia.jpg
 music: Gradual_Sunrise

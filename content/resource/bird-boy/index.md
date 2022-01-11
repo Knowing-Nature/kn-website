@@ -1,6 +1,6 @@
 ---
 author: knowingnaturepodcast
-title: Bird Boy
+title: _Bird Boy_
 date: 2022-01-03T16:39:40Z
 draft: false
 slug: bird-boy

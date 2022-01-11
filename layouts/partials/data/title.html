@@ -26,7 +26,7 @@
     {{ if .Paginator.HasPrev }}
         <!-- Add page number-->
         {{ $title = $title | append " - " .Paginator }}
-    {{ end }} 
+    {{ end }}
 
     {{ $title = $title | append " - " $siteTitle }}
     {{ $title = delimit $title "" }}

@@ -3,7 +3,7 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-11-19 19:48:53+00:00
 draft: true
-title: The Bug Girl
+title: _The Bug Girl_
 image: bug-girl-cover.jpg
 wordpress_id: 936
 categories:

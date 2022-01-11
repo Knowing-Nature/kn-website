@@ -4,7 +4,7 @@ comments: true
 date: 2021-11-01 16:27:27+00:00
 draft: false
 slug: i-wish-you-knew
-title: I Wish You Knew
+title: _I Wish You Knew_
 image: wishyouknew-cover.jpg
 wordpress_id: 862
 categories:

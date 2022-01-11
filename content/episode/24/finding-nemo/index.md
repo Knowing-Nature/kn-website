@@ -4,7 +4,7 @@ comments: true
 date: 2020-08-08 10:15:00+00:00
 draft: false
 slug: finding-nemo
-title: Finding Nemo
+title: _Finding Nemo_
 episode: 24
 image: nemobanner.png
 music: Selfish
