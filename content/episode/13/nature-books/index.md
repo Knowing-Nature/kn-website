@@ -18,8 +18,6 @@ podbean:
 summary: A few nature book recommendations for adults and kids. Kids book recommendations at 22 min.
 ---
 
-{{<podcast-player>}}
-
 This episode we feature a few of our favourite nature/natural history books.
 
 ## Books for adults

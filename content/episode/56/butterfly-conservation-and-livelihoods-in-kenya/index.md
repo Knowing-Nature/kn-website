@@ -22,8 +22,6 @@ podbean:
 summary: Butterfly farming as an agroforestry solution to deforestation. We discuss how the project increased community support for a protected forest. Turning from illegal logging to helping park rangers.
 ---
 
-{{<podcast-player>}}
-
 Interview with the manager of the Kipepeo Butterfly Project, a conservation
 initiative manged in part by the National Museum of Kenya. The project works
 with locals around the Arabuko Sokoke forest national park to breed

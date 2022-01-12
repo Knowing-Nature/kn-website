@@ -22,8 +22,6 @@ summary: Exploration of similarities and differences among Eurocentric sciences,
 
 ---
 
-{{<podcast-player>}}
-
 Exploration of similarities and differences among Eurocentric sciences,
 Indigenous, and Neo-indigenous ways of knowing, to hopefully offer insights to
 science educators. Better understanding of these ways of knowing could help

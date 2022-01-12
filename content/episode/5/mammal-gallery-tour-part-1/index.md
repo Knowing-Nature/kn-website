@@ -19,8 +19,6 @@ podbean:
 summary: A tour through the Mammals hall at the Natural History Museum in London with info on teeth and diets. Discussion on planning tours/lessons for younger audiences and tips for getting the most out of a museum visit.
 ---
 
-{{<podcast-player>}}
-
 A tour through the Mammal hall at the Natural History Museum in London. This
 tour focuses on teeth and diets. We end with some thoughts on how to structure
 a tour for children and family audiences.

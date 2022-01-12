@@ -20,8 +20,6 @@ podbean:
 summary: Primer for a resource on the peppered moth and evolution by natural selection. The study the changes in peppered moth populations as an example of how science operates.
 ---
 
-{{<podcast-player>}}
-
 Part 2: Primer on a resource on the peppered moth and evolution, using
 digitized specimens from the collections of the Natural History Museum.
 

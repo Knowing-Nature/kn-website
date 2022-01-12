@@ -20,8 +20,6 @@ podbean:
 summary: Discussion about the film Arrival and the lessons it has for climate activism and communication. We discuss the importance of taking different perspectives and recognizing personal biases in communicaton
 ---
 
-{{<podcast-player>}}
-
 {{<film title="Arrival"
         director="Denis Villeneuve"
         starring="Amy Adams, Jeremy Renner, Forest Whitaker"

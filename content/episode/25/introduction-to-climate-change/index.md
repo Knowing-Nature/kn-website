@@ -19,8 +19,6 @@ podbean:
 summary: A brief teacher's guide to some climate change terminology and impacts.
 ---
 
-{{<podcast-player>}}
-
 A quick guide to the basics of climate science and the impacts of climate
 change.
 

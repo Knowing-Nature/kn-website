@@ -19,8 +19,6 @@ podbean:
 summary: Discussion of the 1993 film, Jurassic Park. We discuss the successes of the film in sparking interest in palaeontology, and share thoughts on the questions surrounding bringing back extinct species.
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Steven Spielberg"
         starring="Sam Neill, Laura Dern, Jeff Goldblum"
         thumb="jurassic-park.jpg"

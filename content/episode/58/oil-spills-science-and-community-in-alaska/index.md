@@ -22,8 +22,6 @@ podbean:
 summary: Discussion about environmental education in Cordova, Alaska. How their programs address the legacy of the Exxon Valdez oil spill. We also talk about how they bring together kids from across the Copper River watershed to share experiences and understand how their communities are connected.
 ---
 
-{{<podcast-player>}}
-
 Discussion about environmental education in Cordova, Alaska. How the programs
 at the Prince William Sound Science Centre address the legacy of the Exxon
 Valdez oil spill. We also talk about their summer programs. Bringing together

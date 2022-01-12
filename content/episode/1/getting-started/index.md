@@ -19,8 +19,6 @@ podbean:
 summary: Meet hosts Annabeth and Victor! We discuss research into influences which produce positive relationships with nature and share some of our early influences.
 ---
 
-{{<podcast-player>}}
-
 Welcome to the Knowing Nature. A podcast exploring and engaging with the
 natural world.
 

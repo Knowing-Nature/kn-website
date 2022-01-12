@@ -20,8 +20,6 @@ podbean:
 summary: Ocean School equips learners to understand our influence on the ocean and the ocean’s influence on us. We talk about their educational experiences, which use storytelling techniques, immersive technologies, and interactive media.
 ---
 
-{{<podcast-player>}}
-
 Interview with Lucija, Science producer at Ocean School.
 <https://oceanschool.nfb.ca/>
 

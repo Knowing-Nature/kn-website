@@ -19,8 +19,6 @@ podbean:
 summary: Issues around collecting plants. Some botanical activity ideas.
 ---
 
-{{<podcast-player>}}
-
 It can be tough to get people to be interested in plants. They usually don't
 move or do anything on a timescale we pay attention to, so a hands-on approach
 can be a good way of getting others to engage with plants. In this episode we

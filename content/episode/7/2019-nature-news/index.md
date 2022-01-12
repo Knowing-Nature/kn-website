@@ -18,8 +18,6 @@ podbean:
 summary: First photo of a black hole. Deer seen first time in 30 years. Nene no longer endangered. Rats playing hide and seek. EPA to expand use of antibiotics against citrus greening.
 ---
 
-{{<podcast-player>}}
-
 ## Space News
 
   * [Astronomers take first photo of a black hole.](https://www.jpl.nasa.gov/edu/news/2019/4/19/how-scientists-captured-the-first-image-of-a-black-hole/)

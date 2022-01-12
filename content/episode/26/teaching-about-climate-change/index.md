@@ -20,8 +20,6 @@ podbean:
 summary: Issues and considerations when teaching about climate change in schools and other environmental education providers. We talk problems with curriculum, climate anxiety, and the benefits of taking a whole school approach.
 ---
 
-{{<podcast-player>}}
-
 In our experience, many non-school education providers offer 45min - 1hour
 sessions. In an effort to help teachers and attract bookings these are often
 curriculum focused. This has meant that climate change has been an add-on to

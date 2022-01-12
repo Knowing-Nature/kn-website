@@ -19,8 +19,6 @@ podbean:
 summary: Suggestions for how to get into watching birds from home. Ideas for teaching about birds and migration.
 ---
 
-{{<podcast-player>}}
-
 Engaging with nature can be difficult because it often involves working on
 very different scales than we are used to. Things can be too small to see, too
 big to get our heads around, take too long, or happen too quickly.

@@ -21,8 +21,6 @@ podbean:
 summary: Tips for getting started in nature photography and taking photos for identification purposes. Introduction to cyanotyping and astrophotography.
 ---
 
-{{<podcast-player>}}
-
 This episode we are joined by environmental educators Maggie and Paul to talk
 about photography. We share tips and experiences using cameras and Paul and
 Maggie tell us about their off the beaten track photography hobbies:

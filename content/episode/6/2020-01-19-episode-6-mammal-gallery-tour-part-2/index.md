@@ -19,8 +19,6 @@ podbean:
 summary: Another tour through the Mammal hall at the Natural History Museum in London. Focusing on weird and wonderful mammal orders and their reproductive strategies. We end with considerations for designing a tour for a general audience.
 ---
 
-{{<podcast-player>}}
-
 Another tour through the Mammal hall at the Natural History Museum in London.
 This tour focuses on some of the weird and wonderful mammal orders and their
 reproductive strategies. We end with considerations for designing a tour for a

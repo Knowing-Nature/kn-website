@@ -18,8 +18,6 @@ podbean:
 summary: Discussion about how pond dipping sessions can be structured, and the resources provided to support students. Thoughts on the wonders of exploring nature at night.
 ---
 
-{{<podcast-player>}}
-
 Interview with Paul, Learning manager at the London Wetland Centre (LWC). A
 site maintained by the Wildfowl and Wetlands Trust (WWT). We discuss the ever
 popular pond dipping sessions, how they're structured, and the resources

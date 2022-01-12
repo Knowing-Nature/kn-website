@@ -21,8 +21,6 @@ podbean:
 summary: Benefits and challenges for environmental education in classrooms and outdoors. Strategies for dealing with challenges and thinking about topics which are better tackled in particular settings.
 ---
 
-{{<podcast-player>}}
-
 This episode looks at the benefits and challenges for environmental education
 in classrooms and outdoors. We discuss strategies for dealing with these
 challenges and thinking about topics which are better tackled in particular

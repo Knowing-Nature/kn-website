@@ -21,8 +21,6 @@ podbean:
 summary: Interview with freelance educator Gini Trower about her work with afterschool clubs and nursery groups. She shares her experience getting started as a freelance environmental educator and talks us through a few of her favourite activities.
 ---
 
-{{<podcast-player>}}
-
 Interview with freelance educator Gini Trower about her work with afterschool
 clubs and nursery groups. She shares her experience getting started as a
 freelance environmental educator and talks us through a few of her favourite

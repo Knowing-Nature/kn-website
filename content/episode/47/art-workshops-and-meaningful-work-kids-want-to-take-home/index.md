@@ -19,8 +19,6 @@ podbean:
 summary: Facilitating social painting events with PopUp Painting, and helping people take pride in their work. Ideas for how environmental educators can make art experiences are more meaningful.
 ---
 
-{{<podcast-player>}}
-
 Interview with Educator and Artist Charlotte about her experiences
 facilitating social painting events with PopUp Painting, and helping people
 take pride in their work. Then ideas for how environmental educators can

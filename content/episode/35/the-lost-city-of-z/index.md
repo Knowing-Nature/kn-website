@@ -20,8 +20,6 @@ podbean:
 summary: Discussion about the 2016 film _The Lost City of Z_. We discuss the role of nature in the film and share thoughts on the characters' colonial relationships with Amazonian peoples and how the film could have challenged these views.
 ---
 
-{{<podcast-player>}}
-
   {{<film director="James Gray"
         starring="Charlie Hunnam, Robert Pattinson, Sienna Miller"
         thumb="lostcityfilm.jpg"

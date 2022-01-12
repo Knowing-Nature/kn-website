@@ -19,8 +19,6 @@ podbean:
 summary: Thoughts on the colonial legacies in environmental education in the UK. Thoughts on how to start decolonizing your own teaching and being more culturally responsive.
 ---
 
-{{<podcast-player>}}
-
 ## How does environmental education reproduce colonial structures and mindsets?
 
 Environmental education is often done from a western scientific perspective. Concepts of natural capital and ecosystem services take the relationship between the natural world and people and encodes it within a capitalist system of values. In theory, these concepts could push economic and political systems to safeguard nature because of its value as raw resources and ‘free’ services such as flood protection or purification of air and water.

@@ -18,8 +18,6 @@ podbean:
   mp3: https://knowingnature.podbean.com/mf/play/98h1n0/Ep_17_-Film_club-_Over_the_hedge_bkg7p.mp3
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Tim Johnson, Karey Kirkpatrick"
         starring="Bruce Willis(voice), Garry Shandling(voice), Steve Carell(voice)"
         thumb="overthehedge_cover.png"

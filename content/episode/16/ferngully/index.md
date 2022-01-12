@@ -20,8 +20,6 @@ podbean:
 summary: Discussion about environmental and conservation themes in the film _FernGully._
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Bill Kroyer"
         starring="Samantha Mathis(voice), Christian Slater(voice), Robin Williams(voice)"
         thumb="ferngully.jpg"

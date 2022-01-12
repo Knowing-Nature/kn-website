@@ -19,8 +19,6 @@ podbean:
 summary: Discussion of the 2003 film Finding Nemo. Thoughts on positive depictions of sharks and approaches to managing children's risk.
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Andrew Stanton, Lee Unkrich"
   starring="Albert Brooks(voice), Ellen DeGeneres(voice), Alexander Gould(voice)"
   thumb="nemo_cover.jpg"

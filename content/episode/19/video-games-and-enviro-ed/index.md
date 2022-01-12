@@ -16,8 +16,6 @@ podbean:
 summary: Discussion on how video games can be used as a tool for learning about the natural world. Ideas for teachers. Games discussed Minecraft, Oxygen not Included, and Animal Crossing.
 ---
 
-{{<podcast-player>}}
-
 ## How games can support engagement with nature
 
   * Can allow introduction to new places and creatures in a ‘safe’ environment. This can help build a sense of familiarity and reduce worry about wild spaces and animals.

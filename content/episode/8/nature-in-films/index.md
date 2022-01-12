@@ -21,8 +21,6 @@ podbean:
 summary: Discussing the importance of how nature is depicted in movies. Ideas for using films to explore ecosystems and how people and nature interact.
 ---
 
-{{<podcast-player>}}
-
 In this episode we explore how nature is depicted in films and share ideas for
 using film to explore themes in ecology and conservation.
 

@@ -22,8 +22,6 @@ podbean:
 summary: Interview with Sarah Elliott from the Royal Ontario Museum about using Minecraft for remote engagement with students.
 ---
 
-{{<podcast-player>}}
-
 An interview with Sarah Elliott, teacher at the Royal Ontario Museum (ROM),
 about using Minecraft for remote engagement with students.
 

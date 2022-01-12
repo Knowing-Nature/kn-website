@@ -21,8 +21,6 @@ podbean:
 summary: Ideas for engaging with plants without needing to leave your home. Time to rearrange, re-pot, and take cuttings. Make the most of kitchen scraps. Some thoughts on setting up your own terrarium.
 ---
 
-{{<podcast-player>}}
-
 While were all stuck at home its a great time to get to know your plants a bit
 better. Take this time to get on top of those house plant care tasks. This can
 be as simple as wiping down windowsills and shuffling plants to new places. A

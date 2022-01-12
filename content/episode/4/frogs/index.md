@@ -18,7 +18,5 @@ podbean:
 summary: All about frogs! With ideas for engaging with amphibians, including tips for raising tadpoles and issues to consider if you want to keep them as pets.
 ---
 
-{{<podcast-player>}}
-
 All about frogs! With ideas for engaging with amphibians, including tips for
 raising tadpoles and issues to consider if you want to keep them as pets.

@@ -18,8 +18,6 @@ podbean:
 summary: A case for taking a more detailed look at a habitat and how it connects with others. Some suggestions for approaching the topic in classrooms and outdoor settings.
 ---
 
-{{<podcast-player>}}
-
 ## What is a habitat?
 
 Common definition is: A habitat is an animal’s home.

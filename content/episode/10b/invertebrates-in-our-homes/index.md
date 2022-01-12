@@ -23,8 +23,6 @@ podbean:
 summary: Add-on to Ep.10. I ask some friends to tell us about how they've made habitats for invertebrates. We discuss snails, woodlice, worms, and kitchen herbs in window boxes.
 ---
 
-{{<podcast-player>}}
-
 A short add-on to our last episode. I asked some friends to share the homes
 they're created for invertebrates, and tell us about how they put the habitats
 together.

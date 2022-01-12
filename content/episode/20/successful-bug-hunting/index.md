@@ -19,8 +19,6 @@ podbean:
 summary: Tips for setting up a bug hunting area for classes and have success in bug hunting sessions.
 ---
 
-{{<podcast-player>}}
-
 As we think about moving into the new school year I hope teachers will try and
 make more use of outdoor spaces. A staple outdoor activity is the bug hunt or
 minibeast safari. It’s also a super easy activity to do as a family in almost

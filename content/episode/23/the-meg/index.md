@@ -20,8 +20,6 @@ podbean:
 Summary: Discussion about the 2018 film The Meg. Thoughts on the depiction of sharks, and the incredible lack of health and safety measures in the films research institute.
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Jon Turteltaub"
   starring="Jason Statham, Bingbing Li, Rainn Wilson"
   thumb="meg_cover.jpg"

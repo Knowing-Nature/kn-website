@@ -18,8 +18,6 @@ podbean:
 summary: Interview with the Tahoma Audubon Society about birdwatching, community science, and issues to think about when feeding birds.
 ---
 
-{{<podcast-player>}}
-
 ## Community science
 
 [Tahoma Audubon Community Science](https://www.tahomaaudubon.org/community-science)

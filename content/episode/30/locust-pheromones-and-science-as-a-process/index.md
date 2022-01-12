@@ -19,8 +19,6 @@ podbean:
 summary: A suggested outline for effective science reporting using examples of news articles about the identification of a pheromone associated with swarming locusts. Focusing too much on results could undermine long-term confidence in scientists and scientific institutions.
 ---
 
-{{<podcast-player>}}
-
 ## Articles discussed
 
 [Catching plague locusts with their own scent](https://www.nature.com/articles/d41586-020-02264-x) \- 12 August, 2020 - Nature news and views

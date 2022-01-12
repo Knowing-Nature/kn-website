@@ -20,8 +20,6 @@ podbean:
 summary: Discussion about environmental themes in the 2016 Disney film, Moana. We discuss the ocean, representation, and depiction of indigenous knowledge and skills.
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Ron Clements, John Musker, Don Hall"
   starring="Auli'i Cravalho(voice), Dwayne Johnson(voice), Rachel House(voice)"
   thumb="moana_poster.jpg"

@@ -21,8 +21,6 @@ podbean:
 summary: Discussion about how art can enhance scientific investigation skills. We also share experiences of thinking of ourselves as science or art people and consider the benefits of breaking down these self imposed barriers.
 ---
 
-{{<podcast-player>}}
-
 ## Framing paper
 
 Holzer, M., & Keller, L. (2020). WHY SCIENCE IS NOT A RECIPE: Expanding Habits

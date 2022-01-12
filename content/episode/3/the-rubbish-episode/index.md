@@ -18,7 +18,5 @@ podbean:
 summary: Past and present issues with pollution and tackling it in everyday life.
 ---
 
-{{<podcast-player>}}
-
 Pollution and garbage. Why they're problems and ideas for engaging with the
 issue.

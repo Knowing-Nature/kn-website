@@ -21,8 +21,6 @@ podbean:
 summary: Potential problems with embedding climate and sustainability in the curriculum. How environmental-hope-enhancing programs could resolve some of these issues.
 ---
 
-{{<podcast-player>}}
-
 Discussion of two pieces of research and what they mean for environmental
 educators. Potential problems with embedding climate and sustainability in the
 curriculum. How environmental-hope-enhancing programs could resolve some of

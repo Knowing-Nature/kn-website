@@ -21,8 +21,6 @@ podbean:
 summary: Discussion with Rosie and Cristina about the 2021 documentary Seaspiracy. Its successes and failings as a piece of science communication and the pitfalls of using the conspiracy framing. Ideas for making use of the film and approaching the issues it raises.
 ---
 
-{{<podcast-player>}}
-
 Discussion with Rosie and Cristina about the 2021 documentary Seaspiracy. We
 discuss its successes and failings as a piece of science communication or
 environmental education, including the pitfalls of using the conspiracy

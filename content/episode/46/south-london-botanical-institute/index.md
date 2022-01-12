@@ -18,8 +18,6 @@ podbean:
 summary: Interview with Sarah Webley, Education and Outreach Coordinator at the South London Botanical Institute. We discuss how they structure their school sessions, and get an overview of the huge variety of programmes they offer.
 ---
 
-{{<podcast-player>}}
-
 Interview with Sarah Webley, Education and Outreach Coordinator at the South
 London Botanical Institute. We discuss how they structure their school
 sessions, and get an overview of the huge variety of programmes they offer.

@@ -16,8 +16,6 @@ podbean:
 summary: Education in Tower Hamlets Cemetery park. Taking advantage the historical grave stones and navigating the topics of death and decay which inevitably come up teaching in such a unique setting.
 ---
 
-{{<podcast-player>}}
-
 Interview with Dimuthu about the education programme at the Soanes Centre in
 Tower Hamlets Cemetery park. Dim walks us through a few of the sessions he
 runs, including sessions on soil formation and rocks which take advantage of

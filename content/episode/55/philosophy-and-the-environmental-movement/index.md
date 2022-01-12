@@ -18,8 +18,6 @@ podbean:
 summary: Conversation with Professor Martin Bunzl about what philosophy has to add to discussions around environmental issues. We also look at some of the themes in his latest book, Thinking While Walking.
 ---
 
-{{<podcast-player>}}
-
 Conversation with Professor Martin Bunzl about what philosophy has to add to
 discussions around environmental issues. We also look at some of the themes in
 his latest book, Thinking While Walking.

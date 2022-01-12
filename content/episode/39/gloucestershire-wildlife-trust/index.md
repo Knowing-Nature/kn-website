@@ -19,8 +19,6 @@ podbean:
 summary: Learning programmes at the Gloucestershire Wildlife Trust. We discuss how they take advantage of an iron age site to connect kids with nature, history, and their local landscape.
 ---
 
-{{<podcast-player>}}
-
 An interview with Lorna Fox - Head of Engagement and Learning at
 Gloucestershire Wildlife Trust
 

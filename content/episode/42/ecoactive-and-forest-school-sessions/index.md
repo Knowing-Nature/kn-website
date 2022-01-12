@@ -16,8 +16,6 @@ podbean:
 summary: Interview with environmental educator Catia about her work with EcoActive. Based in East London, their programmes are usually long-term projects which focus on developing connections with nature or empowering students to take action on environmental issues.
 ---
 
-{{<podcast-player>}}
-
 Interview with environmental educator Catia about her work with EcoActive.
 
 EcoActive is a charity based in East London which runs workshops with schools

@@ -19,8 +19,6 @@ podbean:
 summary: Interview with Kenneth Greenway about balancing the needs of people and nature in a historic cemetery park. We discuss managing responsible foraging and anti-social behaviour in a public space.
 ---
 
-{{<podcast-player>}}
-
 Interview with Kenneth Greenway about balancing the needs of people and nature
 in a historic cemetery park.
 

@@ -21,8 +21,6 @@ podbean:
 summary: Discussion about evaluation in environmental education and thoughts on the importance of doing it systematically. Tips for making evaluation work for your organization.
 ---
 
-{{<podcast-player>}}
-
 Discussion with Lorna Fox from Gloucestershire Wildlife Trust about the
 importance of systematic evaluation. This discussion was framed by three
 papers:

@@ -18,8 +18,6 @@ podbean:
 summary: Discussion on a report from Learning Through Landscapes about the results of a pilot project on the impact of their outdoor education programme.Thoughts on how the results of the report fit in the context of wider enviro ed research.
 ---
 
-{{<podcast-player>}}
-
 Part 1: Discussion on a report from Learning Through Landscapes about the
 results of a pilot project involving 47 UK schools and 1000+ students.
 

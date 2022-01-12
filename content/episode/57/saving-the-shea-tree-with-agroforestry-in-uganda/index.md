@@ -22,8 +22,6 @@ podbean:
 summary: Interview about a campaign to develop local agroforestry in order to encourage communities to protect shea trees from being cut down for charcoal production.
 ---
 
-{{<podcast-player>}}
-
 Interview with activist Mustafa Gerima about his campaign to develop local
 agroforestry in order to encourage communities to protect shea trees from
 being cut down for charcoal production.

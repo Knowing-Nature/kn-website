@@ -17,8 +17,6 @@ podbean:
 summary: Using science news literacy skills to put click-bait in context. Discussion about recent stories of ‘murder hornets’ found in monitoring traps in the United States. Tips to avoid being distracted by emotionally charged language.
 ---
 
-{{<podcast-player>}}
-
 Using science news literacy skills to put click-bait in context. Discussion
 about recent stories of ‘murder hornets’ found in monitoring traps in the
 United States. Tips to avoid being distracted by emotionally charged language.

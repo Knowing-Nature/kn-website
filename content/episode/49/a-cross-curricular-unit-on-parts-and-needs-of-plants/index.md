@@ -18,8 +18,6 @@ podbean:
 summary: Ideas for a cross curricular unit on the parts and needs of plants. Thoughts on how project-based learning can allow deeper exploration of a topic.
 ---
 
-{{<podcast-player>}}
-
 Ideas for a cross curricular unit on the parts and needs of plants.
 
 ## Science

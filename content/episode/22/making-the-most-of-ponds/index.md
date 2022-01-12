@@ -19,8 +19,6 @@ podbean:
 summary: Tips for setting up a wildlife pond and ideas for using it with kids or classes.
 ---
 
-{{<podcast-player>}}
-
 Ponds have huge environmental and wildlife value. They are also an excellent
 way to have encounters with wildlife.
 

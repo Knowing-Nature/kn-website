@@ -19,8 +19,6 @@ podbean:
 summary: Discussion of the 1984 film Nausicaa of the Valley of the Wind. We discuss what the film says about how people relate to the natural world, and how unfamiliarity breeds fear.
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Hayao Miyazaki"
         starring="Sumi Shimamoto(voice), Mahito Tsujimura(voice), Hisako Kyôda(voice)"
         thumb="nausicaa_cover.jpg"

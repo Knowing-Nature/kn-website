@@ -19,8 +19,6 @@ podbean:
 summary: Since we're all stuck indoors, here are some ideas for how to get started studying invertebrates from the comfort of your own home. How to keep dead windowsill specimens safe. Ideas for building your own ID key.
 ---
 
-{{<podcast-player>}}
-
 More ideas for engaging with nature while we’re all stuck indoors. This
 episode we look at how to get started studying invertebrate from the comfort
 of your own home.

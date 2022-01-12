@@ -20,8 +20,6 @@ podbean:
 summary: Info on common spiders you might find in your house here in the UK. Are they dangerous (no they're not). And activities for getting to know your 8-legged roommates.
 ---
 
-{{<podcast-player>}}
-
 This episode we continue the invertebrate theme but focusing on spiders.
 
 Spiders are invertebrates belonging to the class of _Arachnida_ , which are

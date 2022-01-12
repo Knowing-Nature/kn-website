@@ -20,8 +20,6 @@ podbean:
 summary: Discussion about challenges of teaching science. The discussion is framed by a paper which looked at participants beliefs about the nature of science their response to uncertainty in science communication.
 ---
 
-{{<podcast-player>}}
-
 Discussion about challenges of teaching science. The discussion is framed by a
 paper by Rabinovich and Morton (2012) which looked at participants beliefs
 about the nature of science and how it impacts their response to varying

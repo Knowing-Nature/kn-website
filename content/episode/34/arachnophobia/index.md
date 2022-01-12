@@ -19,8 +19,6 @@ podbean:
 summary: Discussion of the 1990 film _Arachnophobia_. We discuss the depiction of scientists and spiders, and share some information about social spiders.
 ---
 
-{{<podcast-player>}}
-
 {{<film director="Frank Marshall"
   starring="Jeff Daniels, Julian Sands, John Goodman"
   thumb="arachnophobia_cover.jpg"
