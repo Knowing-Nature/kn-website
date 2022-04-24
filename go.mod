@@ -1,4 +1,4 @@
-module github.com/victor-heng/kn-website
+module github.com/Knowing-Nature/kn-website
 
 go 1.17
 
