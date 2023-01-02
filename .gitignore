@@ -24,4 +24,7 @@
 !/public/.gitkeep
 /.hugo_cache/
 
+# Sublime
+*.sublime-workspace
+
 .DS_Store
