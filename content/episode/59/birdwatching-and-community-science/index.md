@@ -47,7 +47,7 @@ summary: Interview with the Tahoma Audubon Society about birdwatching, community
 
 ### [Audubon Christmas bird count](https://www.audubon.org/conservation/science/christmas-bird-count)
 
-Developed from a tradition of going on a Christmas hunt. Concerned by potential declines in bird populations, in 1900 ornithologist Frank Chapman proposed new tradition of counting birds instead. The annual count provides a rich source of data on how bird populations are doing. Even if there isn't an Audubon society near you with an official count, anyone can do their own christmas bird count using platforms like eBird, iNaturalist, or iSpot (in the UK). 
+Developed from a tradition of going on a Christmas hunt. Concerned by potential declines in bird populations, in 1900 ornithologist Frank Chapman proposed new tradition of counting birds instead. The annual count provides a rich source of data on how bird populations are doing. Even if there isn't an Audubon society near you with an official count, anyone can do their own christmas bird count using platforms like eBird, iNaturalist, or iSpot (in the UK).
 
 *   December - January
 *   Results from previous years is available in the Trends viewer [https://www.audubon.org/conservation/where-have-all-birds-gone](https://www.audubon.org/conservation/where-have-all-birds-gone)
@@ -91,7 +91,7 @@ Consider alternative ways of increasing foraging opportunities for birds
 
 ## Related reading
 
-Review of potential impacts of supplementary bird feeding on bird populations. It is likely that this action is having an impact on natural selection as it affects almost every aspect of bird ecology.  [Frontiers in Ecology and the Environment](https://www.jstor.org/stable/20440990) via JSTOR
+Review of potential impacts of supplementary bird feeding on bird populations. It is likely that this action is having an impact on natural selection as it affects almost every aspect of bird ecology. [Frontiers in Ecology and the Environment](https://www.jstor.org/stable/20440990) via JSTOR
 
 UK garden bird feeders are associated with increases in the populations of species which use feeders. [Nature communications](https://www.nature.com/articles/s41467-019-10111-5)
 
