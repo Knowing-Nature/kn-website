@@ -206,6 +206,12 @@ menu:
               icon: home
     
     social:
+        - identifier: youtube
+          name: YouTube
+          url: https://www.youtube.com/channel/UChczdsDfBKOfdSL4TBIUGXA
+          params:
+            icon: brand-youtube
+
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/KN_Podcast

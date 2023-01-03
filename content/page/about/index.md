@@ -1,10 +1,15 @@
 ---
-title: Knowing Nature
+title: About
 comments: false
-type: page
-url: /about
+# type: page
+slug: about
 aliases:
   - contact
+menu:
+    main:
+        weight: 10
+        params: 
+            icon: info
 ---
 
 ![](progresspridebar.jpg)
