@@ -25,7 +25,7 @@
   "homepage": "https://github.com/victor-heng/kn-website#readme",
   "devDependencies": {
     "fs": "^0.0.1-security",
-    "hugo-bin-extended": "^0.91.2",
+    "hugo-bin-extended": "^0.109.0",
     "inquirer": "^8.2.0",
     "natural-orderby": "^2.0.3",
     "shx": "^0.3.3",
