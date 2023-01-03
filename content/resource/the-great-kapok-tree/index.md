@@ -18,13 +18,16 @@ tags:
 summary: A phenomenal book for introducing habitats, the Amazon rainforest, and the problem of deforestation. Richly detailed illustrations convey the biodiversity and abundance of rainforests.
 ---
 
-  * Author: Lynne Cherry
-  * Illustrator: Lynne Cherry
-  * Publisher: Houghton Mifflin Harcourt
-  * 1990
-  * 40 Pages 
-  * 6-10 years 
-  * ISBN 9780590980685
+{{<book ageFrom="6" ageTo="10"
+        author="Lynne Cherry"
+        illustrator="Lynne Cherry"
+        cover="greatkapoktree-cover.png"
+        publisher="Houghton Mifflin Harcourt"
+        publisher-link=""
+        date="1990-01-01"
+        pages="40"
+        isbn="9780590980685">}}
+
 
 ## Curriculum links
 

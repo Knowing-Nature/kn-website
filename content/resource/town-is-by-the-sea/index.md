@@ -18,13 +18,15 @@ tags:
 summary: A beautiful, understated, and haunting story about life in a costal mining community. Use it to stimulate discussions about the challenges of making the transition away from fossil fuels.
 ---
 
-  * Author: Joanne Schwartz
-  * Illustrator: Sydney Smith
-  * Publisher: Walker Books Ltd
-  * April 5, 2018
-  * 52 Pages 
-  * 5-8 years 
-  * ISBN 9781406378863
+{{<book ageFrom="5" ageTo="8"
+        author="Joanne Schwartz"
+        illustrator="Sydney Smith"
+        cover="townisbythesea-cover.jpg"
+        publisher="Walker Books Ltd"
+        publisher-link="https://www.walker.co.uk/Town-Is-by-the-Sea-9781406378863.aspx"
+        date="2018-04-05"
+        pages="52"
+        isbn="9781406378863">}}
 
 ## Curriculum links
 

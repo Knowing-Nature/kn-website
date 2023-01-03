@@ -23,7 +23,8 @@ summary: Driving through Ohio, a young girl’s parents stop when they spot wate
         publisher="Neal Porter Books"
         publisher-link="https://www.penguinrandomhouse.com/books/648171/watercress-by-by-andrea-wang-illustrated-by-jason-chin/"
         date="2021-03-30"
-        pages="32">}}
+        pages="32"
+        isbn="9780823446247">}}
 
 ## Publisher's summary
 
@@ -85,14 +86,18 @@ pressure to feel like nature and outdoor spaces are not for people like her.
 
 ## Activity ideas
 
-**Read together before heading outside** \- Kids who are worried about getting
+### Read together before heading outside
+
+Kids who are worried about getting
 muddy or dirty could discuss how the characters in the story feel about wading
 in the ditch with bare feet and compare that with how they might feel.
 
   * How do the parents and brother feel compared to the young girl? 
   * How might the young girl feel the next time they pull over to pick watercress?
 
-**Paint raw ingredients** \- The paintings in _Watercress_ are beautiful. The
+### Paint raw ingredients
+
+The paintings in _Watercress_ are beautiful. The
 watercolour brush strokes used to give the reader a sense of the plants
 without being too fussy with details. Take inspiration from the illustrations
 to draw or paint other vegetables as they might look growing in the ground or
@@ -101,7 +106,9 @@ impression of the leaves of different herbs.
 
 ![](watercress-plants.jpg)
 
-**Develop descriptive language to convey emotion** \- The author makes great
+### Develop descriptive language to convey emotion
+
+The author makes great
 use of description to give you a clear idea of how the young girl feels about
 gathering plants from a ditch, without needing to tell you directly. Kids
 could experiment with changing the desciptive language in the story to give
@@ -114,13 +121,17 @@ eaten in ways which give the reader an idea for how they were feeling.
 > peppery taste. It is delicate and slightly bitter, like Mom's memories of
 > home._
 
-**Sharing stories** \- An important moment is when the mother tells stories of
+### Sharing stories
+
+An important moment is when the mother tells stories of
 her life back in China. Kids can talk to relatives about their memories of
 plants they liked to eat when they were young. Are there plants they used to
 eat more that they don't have as much now? Did they ever pick leaves or
 berries to eat?
 
-**Class recipe** **book** \- Kids write and share recipes for their own
+### Class recipe book
+
+Kids write and share recipes for their own
 favourite ways to have vegetables. They could then refer to books on foraging
 or edible plants to identify ingredients which can be collected from the wild.
 An extra challenge might be to develop a new recipe from only foraged
@@ -130,7 +141,9 @@ ingredients.
   * Lettuce might be replaced with plants like chickweed, violets, or dandelion leaves.
   * Lemony sour flavour can be provided by wood sorrel or common sorrel.
 
-**Give watercress a taste!** \- Watercress is a versatile plant which can be
+### Give watercress a taste!
+
+Watercress is a versatile plant which can be
 used in the same ways a spinach, adding a peppery/radishy/bitter note to
 recipies. Try it:
 

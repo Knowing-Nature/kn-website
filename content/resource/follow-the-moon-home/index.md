@@ -23,7 +23,8 @@ summary: Just arriving in town, Viv's class assignment is to find a problem and 
         publisher="Chronicle Books"
         publisher-link="https://www.chroniclebooks.com/products/follow-the-moon-home"
         date="2016-04-05"
-        pages="48">}}
+        pages="48"
+        isbn="9781452112411">}}
 
 ## Curriculum links
 
@@ -108,7 +109,7 @@ ask questions directly.
   
 [Behaviour of loggerhead sea turtles on an urban beach: Hatchling orientation](https://www.jstor.org/stable/1564740) \- JSTOR
 
-###  Project-based learning
+### Project-based learning
 
 [What is Project-based Learning](https://www.pblworks.org/what-is-pbl) \- PBL works  
   
