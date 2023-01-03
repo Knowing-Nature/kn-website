@@ -1,10 +1,10 @@
 name: Run htmltest
 
 on:
-  # During testing, we'll leave this on
-  push:
-    branches:
-      - main
+  # Works, but far too many errors with the site not live yet
+  # push:
+  #   branches:
+  #     - main
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 0 1 * *' # Every first of the month at midnight
