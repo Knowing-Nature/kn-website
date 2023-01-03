@@ -6,8 +6,6 @@ draft: false
 slug: leaf-hunting-with-line-drawings
 title: Leaf hunting with line drawings
 type: post
-url: /2021/03/22/leaf-hunting-with-line-drawings/
-wordpress_id: 513
 image: leafhuntbanner.jpg
 categories:
 - Resources
@@ -24,7 +22,7 @@ lends itself best to younger ages (UK KS1, age 6-7). With some work this can
 also be modified to be an activity focussing on classification for older
 groups.
 
-## **Sorting leaves**
+## Sorting leaves
 
 Sort pictures/pressed/laminated leaves into groups. Then pick one group of
 leaves and describe what they have in common/why they were put in the same
@@ -33,7 +31,7 @@ make detailed descriptions.
 
 ![Word bank with simple descriptive words for leaves](word-bank.jpg)
 
-## **Leaf hunt**
+## Leaf hunt
 
 Scout out your leaf hunting area to see what plants are about then build up a
 scavenger hunt sheet. Go out hunting!
@@ -51,7 +49,7 @@ Sample leaf hunt sheets:
 
 ![Leaf hunt sheet with line drawing of nettle, plantain, dandelion, geranium, and clover.](leaf-hunt-sheet-2.jpg)
 
-## **20 questions**
+## 20 questions
 
 One student closes their eyes while the rest of the class chooses a leaf. The
 student opens their eyes and asks the class questions to narrow down the
@@ -60,7 +58,7 @@ descriptive language.
 
 ## Take it further
 
-### **Compare, contrast, and theorize**  
+### Compare, contrast, and theorize
 
 Some plants can have leaves with slightly different shapes. Kids can compare
 the leaves they found and come up with theories about any differences they
@@ -77,7 +75,7 @@ Common reasons for differences
   * Shaded leaves can be different from those growing in the sun, often larger.
   * Young plants/leaves can be different from mature leaves/plants
 
-### **Classification Modification**
+### Classification Modification
 
 Use all the leaf images, or collect as many different leaves as you can find.
 Students start making their own branching key sorting the leaves into groups,
