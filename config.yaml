@@ -58,10 +58,10 @@ params:
         lastUpdated: 02 Jan 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        # emoji: 🍥
+        subtitle: "Fostering a love of the natural\xA0world" # Nbsp to avoid orphan
         avatar:
-            enabled: true
+            enable: true
             local: true
             src: img/avatar.png
 
@@ -206,17 +206,18 @@ menu:
               icon: home
     
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-            icon: brand-github
-            
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/KN_Podcast
           params:
             icon: brand-twitter
+
+        - identifier: podbean
+          name: Podbean
+          url: https://knowingnature.podbean.com
+          params:
+            icon: brand-podbean
+
 
 related:
     includeNewer: true
