@@ -1,6 +1,13 @@
 name: Run htmltest
 
-on: push
+on:
+  # During testing, we'll leave this on
+  push:
+    branches:
+      - main
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 0 1 * *' # Every first of the month at midnight
 
 jobs:
   htmltest:
@@ -15,7 +22,7 @@ jobs:
       with:
         hugo-version: "latest"
     - name: Run Hugo
-      run: hugo -s site -d $GITHUB_WORKSPACE/dist
+      run: hugo -s . -d $GITHUB_WORKSPACE/dist
     - name: Test HTML
       continue-on-error: true
       uses: wjdp/htmltest-action@master
