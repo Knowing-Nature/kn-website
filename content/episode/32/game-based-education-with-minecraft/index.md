@@ -9,8 +9,6 @@ episode: 32
 image: minecraft.jpg
 music: Gradual_Sunrise
 type: post
-url: /2020/09/26/ep-32-game-based-education-with-minecraft/
-wordpress_id: 342
 categories:
 - Podcast
 tags:
