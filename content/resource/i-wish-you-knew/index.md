@@ -17,13 +17,17 @@ tags:
 summary: Story about sharing, empathy, and creating a classroom community which feels safe and supportive.  A great book for supporting classes or students dealing with eco or climate anxiety.
 ---
 
-  * Author: Jackie Azúa Kramer
-  * Illustrator: Magdalena Mora
-  * Publisher: Roaring Brook Press
-  * June 21, 2021
-  * 32 Pages 
-  * 4-7 years 
-  * ISBN 978-1250226303 (I wish you knew)
+{{<book ageFrom="4" ageTo="7"
+        author="Jackie Azúa Kramer"
+        illustrator="Magdalena Mora"
+        cover="wishyouknew-cover.jpg"
+        publisher="Roaring Brook Press"
+        publisher-link="https://us.macmillan.com/books/9781250226303/iwishyouknew"
+        date="2021-06-21"
+        pages="32"
+        isbn="9781250226303">}}
+
+
   * ISBN 978-1250814784 (Ojalá Supieras)
 
 ## Curriculum links

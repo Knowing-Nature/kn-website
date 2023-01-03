@@ -18,13 +18,18 @@ tags:
 summary: Simple story about a boy and an apple tree who gives the boy everything he needs. A powerful book for thinking about sustainability and human relationships with nature.
 ---
 
-  * Author: Shel Silverstein
-  * Illustrator: Shel Silverstein
-  * Publisher: Particular Books
-  * December 2, 2012 (First published Oct 7, 1964)
-  * 64 Pages
-  * 4-8 years
-  * ISBN 9781846143830
+
+{{<book ageFrom="4" ageTo="8"
+        author="Shel Silverstein"
+        illustrator="Shel Silverstein"
+        cover="givingtree.jpg"
+        publisher="Particular Books"
+        publisher-link=""
+        first-date="1964-10-07"
+        date="2012-12-02"
+        pages="64"
+        isbn="9781846143830">}}
+
 
 ## Curriculum links
 

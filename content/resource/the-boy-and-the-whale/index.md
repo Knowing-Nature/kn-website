@@ -23,7 +23,8 @@ summary: When a boy sees a whale caught in their net he worries about saving it.
         publisher="Roaring Brook Press"
         publisher-link="https://us.macmillan.com/books/9781626725058/the-boy-and-the-whale"
         date="2017-11-21"
-        pages="40">}}
+        pages="40"
+        isbn="9781626725058">}}
 
 ## Curriculum links
 
@@ -39,9 +40,9 @@ in childhood, he almost drowned before being rescued by his father. When the
 whale blinks an enormous eye, the boy knows that he has to try to save the
 creature, no matter how dangerous doing so may be.
 
-Expressive and perfectly paced, this powerful story,  _The Boy and the Whale_
-, by Caldecott Medal–winner Mordicai Gerstein was inspired in part by a real-
-life video of a whale’s rescue, and the creature’s joyful dance through the
+Expressive and perfectly paced, this powerful story, _The Boy and the Whale_,
+by Caldecott Medal–winner Mordicai Gerstein was inspired in part by a real-life
+video of a whale’s rescue, and the creature’s joyful dance through the
 waves after being freed.
 
 ## In Environmental Education
@@ -153,6 +154,4 @@ nets make fish fingers to cost less?
 
 If you've used this book with your class we'd love to hear about it! Photos,
 stories, comments, or suggestions. We love them all!
-
-## Related resources from Knowing Nature
 

@@ -199,10 +199,8 @@ menu:
         - identifier: home
           name: Home
           url: /
-          weight: -100
+          weight: 1
           params:
-              ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
               icon: home
     
     social:

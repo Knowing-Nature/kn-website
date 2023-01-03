@@ -16,13 +16,16 @@ tags:
 summary: The story of a family's first camping trip. That family just happens to have moved from India to America. This story brings much-needed diversity to the image of who gets to be in outdoor spaces, and how a camping trip can look.
 ---
 
-  * Author: Ambreen Tariq
-  * Illustrator: Stevie Lewis
-  * Published by Kokila
-  * Mar 30, 2021
-  * 40 Pages
-  * 4-8 years
-  * ISBN 9781984816955
+{{<book ageFrom="4" ageTo="8"
+        author="Ambreen Tariq"
+        illustrator="Stevie Lewis"
+        cover="fatimasgreatoutoors.jpg"
+        publisher="Kokila"
+        publisher-link="https://linktr.ee/kokilabooks"
+        date="2021-03-30"
+        pages="40"
+        isbn="9781984816955">}}
+
 
 ## Publisher's summary
 

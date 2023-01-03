@@ -1,7 +1,6 @@
 ---
 title: About
 comments: false
-# type: page
 slug: about
 aliases:
   - contact

@@ -5,7 +5,6 @@ date: 2021-12-03 15:07:32+00:00
 draft: true
 title: _A Different Pond_
 image: different-pond-cover.jpg
-wordpress_id: 1340
 categories:
 - Picture books
 tags:
@@ -15,12 +14,15 @@ tags:
 - Immigration
 ---
 
-  * Author: Bao Phi
-  * Publisher: Capstone
-  * January 1st 2017
-  * 32 pages
-  * 5-8 years
-  * ISBN: 9781479597468
+{{<book ageFrom="5" ageTo="8"
+        author="Bao Phi"
+        illustrator="Thi Bui"
+        cover="different-pond-cover.jpg"
+        publisher="Capstone"
+        publisher-link="https://shop.capstonepub.com/library/products/different-pond-1/"
+        date="2017-1-1"
+        pages="32"
+        isbn="9781479597468">}}
 
 ## Publisher's summary
 

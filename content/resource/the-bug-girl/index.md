@@ -14,14 +14,14 @@ tags:
 - Plants
 ---
 
-  * Author: Jackie Azúa Kramer
-  * Illustrator: Magdalena Mora
-  * Publisher: Roaring Brook Press
-  * June 21, 2021
-  * 32 Pages 
-  * 4-7 years 
-  * ISBN 978-1250226303 (I wish you knew)
-  * ISBN 978-1250814784 (Ojalá Supieras)
+{{<book ageFrom="4" ageTo="7"
+        author=""
+        illustrator=""
+        cover="bug-girl-cover.jpg"
+        publisher=""
+        publisher-link=""
+        date="2017-11-21"
+        pages="">}}
 
 ## Publisher's summary
 

@@ -20,9 +20,19 @@
 		<div><a href='{{ .Get "publisher-link" }}' target='_blank'>{{ .Get "publisher" }}</a></div>
 
 		<div class="media-callout-key">Published</div>
-		<div>{{ .Get "date" | time.Format "2 January 2006" }}</div>
+		<div>
+		{{with .Get "first-date"}}
+			{{ . | time.Format "2 January 2006" }}<br />
+		{{end}}
+		{{ .Get "date" | time.Format "2 January 2006" }}</div>
 
 		<div class="media-callout-key">Length</div>
 		<div>{{ .Get "pages" }} pages</div>
+
+		{{ with $isbn := .Get "isbn" }}
+			<div class="media-callout-key">ISBN</div>
+			<div><a href="https://isbnsearch.org/isbn/{{ . }}">{{ . }}</a></div>
+		{{ end }}
+
 	</div>
 </div>
