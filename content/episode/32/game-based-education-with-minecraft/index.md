@@ -56,7 +56,7 @@ game. Students record their experiences, thoughts, and reflections in a
 journal. Class debriefs guided by the teachers also helps to highlight
 curriculum connections.
 
-Classes are also sent and EduKit from the ROM which includes rock and mineral specimens and a teacher’s guide. ([Royal Ontario Museum EduKits](https://www.rom.on.ca/en/learn/travelling-programs/travelling-edukits))
+Classes are also sent and EduKit from the ROM which includes rock and mineral specimens and a teacher’s guide. ([Royal Ontario Museum EduKits](https://www.rom.on.ca/en/learn/travelling-programs/))
 
 ## Do you need to know how to code?
 

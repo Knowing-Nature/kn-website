@@ -69,7 +69,7 @@ Try to have the pond part shaded.
   * [Data from Royal Society for the Prevention of Accidents](https://www.rospa.com/rospaweb/docs/advice-services/leisure-safety/pond-statistics.pdf)
 
 **Supervision of very young children is the best safety precaution**\
-Spend time with young children around ponds, supporting development of motor skills and demonstrating how to evaluate risk
+Spend time with young children around ponds, supporting development of motor skills and demonstrating how to evaluate risk.
 
 **Design your pond to minimize risk.** \
 Most of the risk from bodies of water come from being very deep as can be the case in lakes and reservoirs, or
@@ -77,12 +77,12 @@ having very fast flow as a river with spring melt.
 
   * Shallow enough that a child can stand up and walk out if they fall in will vastly reduce risks
   * Sloped edges mean you step into shallow water rather than fall into deeper water
-  * Coarse or large gravel on the bottom will not have the sticky effect of soil-like substrates
+  * Coarse gravel or cobbles on the bottom will not have the sticky effect of soil-like substrates
 
 ### Fencing
-[In the UK there is no requirement to fence off a pond](https://www.hse.gov.uk/myth/myth-busting/2014/case333-managing-agent-says-garden-pond-to-be-fenced-in.htm). Check your local regulations.
+[There is no UK-wide requirement to fence off a pond](https://www.hse.gov.uk). Check your local regulations.
   * Fencing can produce its own hazards
-    * Standing on railing could mean kids fall from a higher height
+    * Standing or leaning over a railing could mean kids fall from a greater height
     * Fences can prevent help from reaching someone who has fallen in or prevent them from easily getting out
     * Can create false sense of security (Sitting on fence is riskier than sitting on the deck)
 
@@ -91,7 +91,7 @@ having very fast flow as a river with spring melt.
   * Can produce own hazards
     * Falling onto the grate could cause injury
     * Damaged grating or mesh could become risk for trapping feet/fingers
-    * False sense of security, encouraging riskier behaviour such as walking on the grating
+    * Can provide a false sense of security, or encourage riskier behaviour such as walking on the grating
 
 ### Diseases
 Infections can occur from contact with untreated water as in a wildlife pond. Practice good hygiene and risk is extremely low.

@@ -117,7 +117,7 @@ ask questions directly.
 
 ## More about the book
 
-[About the author](https://deborahhopkinson.com/pages/bio) \- DeborahHopkinson.com  
+[About the author](https://deborahhopkinson.com) \- DeborahHopkinson.com
   
 [More activities and resources for Follow The Moon Home](https://www.teachingbooks.net/tb.cgi?tid=49402) \- teachingbooks.net  
 

@@ -55,7 +55,7 @@ Developed from a tradition of going on a Christmas hunt. Concerned by potential 
 ### More community science projects
 
 *   [Wetland secretive bird monitoring project](https://www.pugetsoundbirds.org/1st-project)
-*   [Aging dunnocks by colour and pattern](http://blascozumeta.com/wp-content/uploads/aragon-birds/passeriformes/324.dunnock-pmodularis.pdf)
+*   [Aging dunnocks by colour and pattern](http://blascozumeta.com/specie_files/10840_Prunella_modularis.pdf)
 
 ![The age of a young dunnock can be estimated by looking at the colour of its iris.](dunnock.jpg)
 

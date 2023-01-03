@@ -166,10 +166,7 @@ improved story.
 ## More about the book
 
 [We Need to Talk About ‘The Giving Tree’; Kids and parents need to understand that there’s a big difference between selflessness and generosity.](https://www.nytimes.com/2020/04/15/parenting/we-need-to-talk-about-the-giving-tree.html) \- New York Times
-[  
-“The Giving Tree” at Fifty: Sadder Than I Remembered (reflecting on the book
-and author)](https://www.newyorker.com/books/page-turner/giving-
-tree-50-sadder-remembered) \- The New Yorker
+[“The Giving Tree” at Fifty: Sadder Than I Remembered](https://www.newyorker.com/books/page-turner/giving-tree-50-sadder-remembered) \- The New Yorker
 
 [About the author](https://www.shelsilverstein.com/about-shel/) \- ShelSilverstein.com
 

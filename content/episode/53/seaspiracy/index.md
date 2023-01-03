@@ -59,7 +59,7 @@ and approach the various issues it raises.
 
 **“Why am I only hearing about this now?" / "Why is nobody talking about this?"**
 
-People in marine conservation are talking about issues like discarded fishing gear and have been for years. As an example, the United Nations Environment Programme [published a report in 2009 about discarded fishing gear](https://stg-wedocs.unep.org/bitstream/handle/20.500.11822/8148/Abondaned%20%2C%20lost%20or%20otherwise%20discarded%20fishing%20gear%20Marine_Litter_Abandoned_Lost_Fishing_Gear.pdf?sequence=3&isAllowed=y), and international organizations have been taking action on waste dumping in the oceans since the 1970s. That said, the intended target audience for the film may have been those who haven't heard about the issue before and the many people who don't follow marine conservation research.
+People in marine conservation are talking about issues like discarded fishing gear and have been for years. As an example, the United Nations Environment Programme [published a report in 2009 about discarded fishing gear](https://www.unep.org/resources/report/abandoned-lost-or-otherwise-discarded-fishing-gear), and international organizations have been taking action on waste dumping in the oceans since the 1970s. That said, the intended target audience for the film may have been those who haven't heard about the issue before and the many people who don't follow marine conservation research.
 
 Asking these questions within a conspiracy framing is a problem because it
 implies there is an active attempt to cover up the issue. This is inaccurate
@@ -113,7 +113,7 @@ discussion could have moved on to tackling the issue at every level rather
 than criticizing organizations for not tackling the specific problem the film
 maker chose to focus on.
 
-Another nuance is the difference between commercial/industrial fishing, and small-scale fishing. At one point George Monbiot says that our image of fishing as a fisherman on a little boat bobbing along in the water is wrong. His point is that the vast majority of the fish caught are caught by huge industrial fishing ships. This is true, that most fish are caught by these large ships. But the majority of fishers would be considered small scale fishers; they are the small crew of people on a boat bobbing along in the water.([MSC: Large vs small scale fishing](http://blog.msc.org/blog/2016/10/13/large-vs-small-scale-fishing-sustainable/))
+Another nuance is the difference between commercial/industrial fishing, and small-scale fishing. At one point George Monbiot says that our image of fishing as a fisherman on a little boat bobbing along in the water is wrong. His point is that the vast majority of the fish caught are caught by huge industrial fishing ships. This is true, that most fish are caught by these large ships. But the majority of fishers would be considered small scale fishers; they are the small crew of people on a boat bobbing along in the water.([MSC: Large vs small scale fishing](https://www.msc.org/media-centre/news-opinion/news/2020/02/21/large-vs-small-scale-fishing-which-is-more-sustainable))
 
 ### Social / Environmental Justice
 
