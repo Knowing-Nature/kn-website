@@ -14,7 +14,7 @@ tags:
 podbean:
   id: puhvr-11a7821
   mp3: https://mcdn.podbean.com/mf/web/df7f87/Ep_63_-_Inclusivity_in_biology_education9kah1.mp3
-summary: XXXXXX
+summary: Supporting LGBTQ+ students in higher education. Why identity matters in STEM, the positive impacts of an instructor choosing to be out, and reducing anxiety in active learning practices.
 ---
 
 The Brownell Biology Education Research Group at Arizona State University is a team of dedicated biology education researchers studying ways to make undergraduate biology more inclusive.

@@ -18,7 +18,7 @@ tags:
 podbean:
   id: 3pqcu-11810e9
   mp3: https://mcdn.podbean.com/mf/web/m9r84p/Ep_60_-_BCT6g5pl.mp3
-summary: XXXXXX
+summary: Interview with Phillip from the Bat Conservation Trust about their citizen science programmes. We also discuss a bit of bat ecology and share tips for leading a successful bat walk.
 ---
 
 There are around 5400 mammal species in the world. Of those, 20% (more than 1400 species) are bats. They live in almost every part of the world except the arctic and antarctic, with 18 species here in the UK. With so much diversity, bats can be useful ‘indicator species’. Changes to bat populations can indicate that there are changes in ecosystems, such as insect population declines and habitat degrerdation.

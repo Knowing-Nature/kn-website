@@ -14,7 +14,7 @@ tags:
 podbean:
   id: ef2cz-119eceb
   mp3: https://mcdn.podbean.com/mf/web/tgcmi7/Ep_62_-_LGBTQ_tours_in_Zoology_museums9fnll.mp3
-summary: XXXXXX
+summary: Bridging Binaries tours at the Cambridge University Museum of Zoology. These tours look at the contributions that LGBTQ+ perspectives have made to natural history, and highlight ways in which nature is more complex than simple binaries.
 ---
 
 Natural history museums are a fantastic way to learn about nature, they allow you to look at the natural world in ways which are not always easy or otherwise possible. Specimens might be collected from parts of the world few people will ever get to visit, like the deep oceans. Natural history museums also preserve a record of nature and animals which can stretch back hundreds of years, offering insights into long-term trends which might otherwise be invisible. Museums are not just repositories, they also curate and display their collections, and in doing so they construct and convey narratives.

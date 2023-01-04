@@ -16,7 +16,7 @@ tags:
 podbean:
   id: e2ypk-1193f15
   mp3: https://mcdn.podbean.com/mf/web/guhac6/Ep_61-_Queer_identity_research_and_cricket_behaviourbgt10.mp3
-summary: XXXXXX
+summary: How heteronormative and queer perspectives have shaped research into animal reproductive behaviour. Research into evolution of same-sex sexual behaviours in non-human animals, and cricket mating behaviours.
 ---
 
 Environmental education can suffer from the same problem as a lot of STEM subjects, which is a mistaken understanding of what objectivity means in practice. The impulse of sticking to facts, figures, measurements often in practice means not talking about the person asking the questions and conducting the measurements. But of course these are human choices, affected by the identities of the humans who make them. In practice, objectivity should mean recognizing a person’s perspective, and taking steps to mitigate or balance any impacts this might have. Like wearing glasses to support vision. And most relevant to this series of episodes, focusing only on facts and figures also has the effect of erasing non-visible minorities from the picture.
