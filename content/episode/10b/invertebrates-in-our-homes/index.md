@@ -39,12 +39,11 @@ So far I’ve spotted them moving around on the soil, but not approaching the
 carrot or the wilted salad leaf. According to this handy snail ID sheet from
 the bedfordshire natural history society it’s a type of chrysalis snail.
 
-The picture ID guide I used can be found at: [www.bnhs.co.uk/youngnats/to-do/identify-snails-and-slugs](https://www.bnhs.co.uk/youngnats/to-do/identify-snails-and-slugs/)
+Here is [the picture ID guide I used](https://www.bnhs.co.uk/youngnats/to-do/identify-snails-and-slugs/).
 
-For more in depth snail identification visit the The Conchological Society of
-Great Britain and Ireland at: www.conchsoc.org/
+For more in-depth snail identification visit the [The Conchological Society of Great Britain and Ireland](https://www.conchsoc.org).
 
-And the Field Studies Council has published an excellent key to the Land Snails of the British Isles which can be found here: [www.field-studies-council.org/shop/publications/land-snails-in-the-british-isles-2nd-edition/](https://www.field-studies-council.org/shop/publications/land-snails-in-the-british-isles-2nd-edition/)
+And the Field Studies Council has published an excellent key to the [Land Snails of the British Isles](https://www.field-studies-council.org/shop/publications/land-snails-in-the-british-isles-2nd-edition/).
 
   ![](snail1.jpg)
   ![](snail2.jpg)
@@ -62,10 +61,10 @@ breathe. They eat rotting wood, so the wood is both a hiding place and a
 snack. Woodlice can also be fed on vegetable peels but avoid anything sour,
 like citrus.
 
-Again the Field Studies Council have produced really good guides to the
+Again the [Field Studies Council](https://www.field-studies-council.org/) have produced really good guides to the
 identification of woodlice. There is the woodlouse identification guide, for
 more detailed work. Or the Woodland Name Trail for an introduction to soil
-invertebrates. Find them at: <https://www.field-studies-council.org/>
+invertebrates.
 
   ![](woodlouse-home-1.jpg)
   ![](woodlouse-home-2.jpg)
