@@ -3,7 +3,7 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-03-08 07:15:00+00:00
 draft: false
-slug: pond-dipping-and-night-time-nature-at-london-wetland-centre
+slug: pond-dipping-at-wwt
 title: Pond dipping and night-time nature at London Wetland Centre
 episode: 44
 image: wwt-london-pond-zone.jpg
@@ -12,6 +12,8 @@ tags:
 - Classification
 - Identification
 - Ponds
+categories:
+- Podcast
 podbean:
   id: kdmau-fceae2
   mp3: https://mcdn.podbean.com/mf/web/p7tah8/Ep_44_-_WWT_London_Wetland_Centre891o1.mp3
