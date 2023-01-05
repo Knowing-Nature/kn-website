@@ -6,8 +6,7 @@ draft: false
 slug: spottersheets
 title: Spotter sheets
 type: post
-url: /2020/08/01/spottersheets/
-wordpress_id: 267
+image: fungishapes-1.jpg
 categories:
 - Resources
 tags:
