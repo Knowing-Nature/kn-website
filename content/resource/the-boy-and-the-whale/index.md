@@ -10,9 +10,9 @@ wordpress_id: 1295
 categories:
 - Picture books
 tags:
-- Foraging
-- Plants
+- Whales
 - Oceans
+- People and animals
 summary: When a boy sees a whale caught in their net he worries about saving it. His father worries about their ruined net and what it means for their family. A great book for thinking about human impact on oceans.
 ---
 
