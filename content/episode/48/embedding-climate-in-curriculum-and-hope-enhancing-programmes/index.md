@@ -55,7 +55,7 @@ these issues.
 
 ### Issues raised
 
-**Too political**
+#### Too political
 
 We need think about the topic into the situation and the solutions. The
 situation is a physical reality. Climate systems and the impact of greenhouse
@@ -76,7 +76,7 @@ Teacher can assess the technical aspects of students' work without needing to
 express an opinion on a student's view that everyone should be vegan, or that
 all flights should be cancelled.
 
-**Too much curriculum content already**
+#### Too much curriculum content already
 
 What is probably needed to resolve this perennial problem is a hard look at
 how the education system works in the UK, and there needs to be a push to give
@@ -87,8 +87,7 @@ depth.
   * BBC Radio 4 - [Positive thinking - Future Proofing our schools](https://www.bbc.co.uk/programmes/m000tcb9)
   * Cult of Pedagogy - [UDL as a key to equity](https://www.cultofpedagogy.com/udl-equity/)
 
-**Embedding in the curriculum may not be enough and or even
-counterproductive**
+#### Embedding in the curriculum may not be enough and or even counterproductive
 
   * There is some evidence that longer exposure to content may be more effective at promoting pro-environmental behaviour, but evidence is mixed. 
     * Source: [Evaluating the Impact of Environmental Interpretation: A Review of Three Research Studies. Research Symposium Proceedings: Coalition for Education in the Outdoors. ](https://eric.ed.gov/?id=ED413132)

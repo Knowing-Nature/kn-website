@@ -74,7 +74,7 @@ _Cultural Studies of Science Education._ 2, 539–620.
   * Circular/Cyclical sense of time.
     * Embraces cycles and patterns. Time is dynamic but is not a linear progression.
 
-## Neo-indigenous ways of knowing**
+## Neo-indigenous ways of knowing
 
 The authors identify neo-indigenous cultures as
 
