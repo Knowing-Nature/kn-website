@@ -11,6 +11,9 @@ categories:
 - Podcast
 tags:
 -
+podbean:
+  id: 
+  mp3: 
+summary: Voluptate incididunt et sint dolor culpa ea laboris magna laboris id laborum magna.
 ---
 
-{{<audio src="PATH_TO_MP3_ON_PODBEAN" >}}
