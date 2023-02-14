@@ -15,7 +15,6 @@ tags:
 - Science
 podbean:
   id: e2ypk-1193f15
-  mp3: https://mcdn.podbean.com/mf/web/guhac6/Ep_61-_Queer_identity_research_and_cricket_behaviourbgt10.mp3
 summary: How heteronormative and queer perspectives have shaped research into animal reproductive behaviour. Research into evolution of same-sex sexual behaviours in non-human animals, and cricket mating behaviours.
 ---
 

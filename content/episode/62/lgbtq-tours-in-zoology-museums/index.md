@@ -13,7 +13,6 @@ tags:
 - Museums
 podbean:
   id: ef2cz-119eceb
-  mp3: https://mcdn.podbean.com/mf/web/tgcmi7/Ep_62_-_LGBTQ_tours_in_Zoology_museums9fnll.mp3
 summary: Bridging Binaries tours at the Cambridge University Museum of Zoology. These tours look at the contributions that LGBTQ+ perspectives have made to natural history, and highlight ways in which nature is more complex than simple binaries.
 ---
 

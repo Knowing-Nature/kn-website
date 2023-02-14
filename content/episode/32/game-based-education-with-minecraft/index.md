@@ -16,7 +16,6 @@ tags:
 - Video games
 podbean:
   id: 89uc8-ed2798
-  mp3: https://mcdn.podbean.com/mf/web/rafwu8/Ep_32_-_Game-based_education_with_Minecraft87j4i.mp3
 summary: Interview with Sarah Elliott from the Royal Ontario Museum about using Minecraft for remote engagement with students.
 ---
 

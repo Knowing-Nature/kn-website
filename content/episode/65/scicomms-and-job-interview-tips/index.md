@@ -14,7 +14,6 @@ tags:
 - Applying for Jobs
 podbean:
   id: tkg6v-130a718
-  mp3: https://mcdn.podbean.com/mf/web/7gm854/Ep\_65\_-\_Sci\_comms\_and\_interview\_advice5zut4.mp3
 summary: What is science communication? Plus job interview tips for getting into science communication and environmental education.
 ---
 

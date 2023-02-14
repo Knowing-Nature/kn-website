@@ -13,7 +13,6 @@ categories:
 - Journal Club
 podbean:
   id: ypes2-e946e5
-  mp3: https://mcdn.podbean.com/mf/web/5xhkas/Ep_29_-_Murder_hornets_and_science_news_literacyajblx.mp3
 summary: Using science news literacy skills to put click-bait in context. Discussion about recent stories of ‘murder hornets’ found in monitoring traps in the United States. Tips to avoid being distracted by emotionally charged language.
 ---
 

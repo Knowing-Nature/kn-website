@@ -15,7 +15,6 @@ tags:
 - Outdoor education
 podbean:
   id: 4spfe-f87211
-  mp3: https://mcdn.podbean.com/mf/web/t973qs/Ep_39_-_Gloucestershire_wildlife_trust6ce02.mp3
 summary: Learning programmes at the Gloucestershire Wildlife Trust. We discuss how they take advantage of an iron age site to connect kids with nature, history, and their local landscape.
 ---
 

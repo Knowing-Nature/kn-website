@@ -12,7 +12,6 @@ categories:
 - Podcast
 podbean:
   id: p2sgh-e1e02e
-  mp3: https://knowingnature.podbean.com/mf/play/8i5c87/Ep19-_Video_games_and_enviro-ed_9mjnq.mp3
 summary: Discussion on how video games can be used as a tool for learning about the natural world. Ideas for teachers. Games discussed Minecraft, Oxygen not Included, and Animal Crossing.
 ---
 

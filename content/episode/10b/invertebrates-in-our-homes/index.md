@@ -19,7 +19,6 @@ tags:
 - Worms
 podbean:
     id: e4yer-d7a9eb
-    mp3: https://knowingnature.podbean.com/mf/play/p5fy7a/Ep_10b_-_Invertebrates_in_our_homes.mp3
 summary: Add-on to Ep.10. I ask some friends to tell us about how they've made habitats for invertebrates. We discuss snails, woodlice, worms, and kitchen herbs in window boxes.
 ---
 

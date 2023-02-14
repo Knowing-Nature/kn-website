@@ -15,7 +15,6 @@ tags:
 - Urban wildlife
 podbean:
   id: 8gn8b-df0a8c
-  mp3: https://knowingnature.podbean.com/mf/play/98h1n0/Ep_17_-Film_club-_Over_the_hedge_bkg7p.mp3
 ---
 
 {{<film director="Tim Johnson, Karey Kirkpatrick"

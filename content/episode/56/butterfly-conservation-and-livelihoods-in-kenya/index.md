@@ -18,7 +18,6 @@ tags:
 - Farming
 podbean:
   id: s5rhk-108fbc8
-  mp3: https://mcdn.podbean.com/mf/web/8td8ht/Ep_56_-_Kipepeo_Butterfly_Projecta336y.mp3
 summary: Butterfly farming as an agroforestry solution to deforestation. We discuss how the project increased community support for a protected forest. Turning from illegal logging to helping park rangers.
 ---
 

@@ -16,7 +16,6 @@ tags:
 - Ways of knowing
 podbean:
   id: pqeuh-e8257d
-  mp3: https://mcdn.podbean.com/mf/web/8gzb3n/Ep_28_-Film_club-_Moanaanam4.mp3
 summary: Discussion about environmental themes in the 2016 Disney film, Moana. We discuss the ocean, representation, and depiction of indigenous knowledge and skills.
 ---
 

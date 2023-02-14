@@ -16,7 +16,6 @@ tags:
 - Digital learning
 podbean:
   id: 4gxjh-f42609
-  mp3: https://mcdn.podbean.com/mf/web/xia5b4/Ep_38_-_Ocean_School9u4cr.mp3
 summary: Ocean School equips learners to understand our influence on the ocean and the ocean’s influence on us. We talk about their educational experiences, which use storytelling techniques, immersive technologies, and interactive media.
 ---
 

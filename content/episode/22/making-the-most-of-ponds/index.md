@@ -15,7 +15,6 @@ tags:
 - Urban wildlife
 podbean:
   id: ip6gh-e46263
-  mp3: https://mcdn.podbean.com/mf/web/mp56v2/ep_23_-_making_the_most_of_ponds8bmwp.mp3
 summary: Tips for setting up a wildlife pond and ideas for using it with kids or classes.
 ---
 

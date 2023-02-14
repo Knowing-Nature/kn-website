@@ -16,7 +16,6 @@ categories:
 - Podcast
 podbean:
   id: kdmau-fceae2
-  mp3: https://mcdn.podbean.com/mf/web/p7tah8/Ep_44_-_WWT_London_Wetland_Centre891o1.mp3
 summary: Discussion about how pond dipping sessions can be structured, and the resources provided to support students. Thoughts on the wonders of exploring nature at night.
 ---
 

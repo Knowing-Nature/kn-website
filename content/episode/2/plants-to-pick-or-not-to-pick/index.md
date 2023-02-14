@@ -15,7 +15,6 @@ tags:
 - Plants
 podbean:
   id: sdgdt-bb4dce
-  mp3: https://knowingnature.podbean.com/mf/play/wxvtpq/Episode_2_-_Pick_or_not_to_pick.mp3
 summary: Issues around collecting plants. Some botanical activity ideas.
 ---
 

@@ -16,7 +16,6 @@ tags:
 - Sharks
 podbean:
   id: 652bt-e53dbf
-  mp3: https://mcdn.podbean.com/mf/web/u232zc/ep_23_-film_club-_the_meg80g9g.mp3
 Summary: Discussion about the 2018 film The Meg. Thoughts on the depiction of sharks, and the incredible lack of health and safety measures in the films research institute.
 ---
 

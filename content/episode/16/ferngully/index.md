@@ -16,7 +16,6 @@ tags:
 - Rainforest
 podbean:
   id: 6rkj2-de2d40
-  mp3: https://knowingnature.podbean.com/mf/play/t1i2qq/Ep_16-Film_club-_Ferngully_654jh.mp3
 summary: Discussion about environmental and conservation themes in the film _FernGully._
 ---
 

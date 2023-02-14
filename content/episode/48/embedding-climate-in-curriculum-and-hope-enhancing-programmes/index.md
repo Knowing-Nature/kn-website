@@ -17,7 +17,6 @@ tags:
 - Pedagogy
 podbean:
   id: nkbaq-ffb98f
-  mp3: https://mcdn.podbean.com/mf/web/sgkxxi/Ep_48_-_Embedding_climate_in_curriculum_and_hope_enhancing_programmes9mn3r.mp3
 summary: Potential problems with embedding climate and sustainability in the curriculum. How environmental-hope-enhancing programs could resolve some of these issues.
 ---
 

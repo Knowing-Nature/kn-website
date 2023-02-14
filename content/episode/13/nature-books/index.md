@@ -14,7 +14,6 @@ tags:
 - Books
 podbean:
     id: 6zjax-db72dd
-    mp3: https://knowingnature.podbean.com/mf/play/c6t4ut/Ep_13_-_Nature_books.mp3
 summary: A few nature book recommendations for adults and kids. Kids book recommendations at 22 min.
 ---
 

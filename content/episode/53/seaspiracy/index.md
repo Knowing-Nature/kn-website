@@ -17,7 +17,6 @@ tags:
 - Sustainability
 podbean:
   id: 9iz6j-103a54d
-  mp3: https://mcdn.podbean.com/mf/web/tz9ytj/Ep_53_-Film_Club-_Seaspiracyaofle.mp3
 summary: Discussion with Rosie and Cristina about the 2021 documentary Seaspiracy. Its successes and failings as a piece of science communication and the pitfalls of using the conspiracy framing. Ideas for making use of the film and approaching the issues it raises.
 ---
 

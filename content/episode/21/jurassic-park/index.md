@@ -15,7 +15,6 @@ tags:
 - Ethics
 podbean:
   id: ki3nf-e3ac17
-  mp3: https://knowingnature.podbean.com/mf/play/ltpnab/Ep_21_-Film_Club-_Jurassic_Park_6ne79.mp3
 summary: Discussion of the 1993 film, Jurassic Park. We discuss the successes of the film in sparking interest in palaeontology, and share thoughts on the questions surrounding bringing back extinct species.
 ---
 

@@ -14,7 +14,6 @@ tags:
 - Plants
 podbean:
   id: i62bg-11bce05
-  mp3: https://mcdn.podbean.com/mf/web/66qk92/Ep\_64\_-\_Project\_Seagrassb2w0r.mp3
 summary: Introduction to seagrass meadows and the importance of these habitats for marine biodiversity, climate, and local fishing communities. We also talk about effort to restore lost seagrass meadows, and what ou can do to help monitor these vital ecosstems.
 ---
 

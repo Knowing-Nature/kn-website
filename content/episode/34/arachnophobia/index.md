@@ -15,7 +15,6 @@ tags:
 - Arachnids
 podbean:
   id: 8xfkj-f04775
-  mp3: https://mcdn.podbean.com/mf/web/phvfr6/Ep_34_-Film_Club-_Arachnophobia60wtq.mp3
 summary: Discussion of the 1990 film _Arachnophobia_. We discuss the depiction of scientists and spiders, and share some information about social spiders.
 ---
 

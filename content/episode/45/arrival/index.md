@@ -16,7 +16,6 @@ tags:
 - Climate change
 podbean:
   id: jxen3-fd9743
-  mp3: https://mcdn.podbean.com/mf/web/uvmun7/Ep_45_-Film_Club-_Arrival5zx2v.mp3
 summary: Discussion about the film Arrival and the lessons it has for climate activism and communication. We discuss the importance of taking different perspectives and recognizing personal biases in communicaton
 ---
 

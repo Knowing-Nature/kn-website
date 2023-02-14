@@ -15,7 +15,6 @@ tags:
 - Oceans
 podbean:
   id: qrhh6-e5f095
-  mp3: https://mcdn.podbean.com/mf/web/b25q5b/Ep_24_-Film_club-_Finding_Nemo91nsk.mp3
 summary: Discussion of the 2003 film Finding Nemo. Thoughts on positive depictions of sharks and approaches to managing children's risk.
 ---
 

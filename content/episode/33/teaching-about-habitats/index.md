@@ -14,7 +14,6 @@ tags:
 - Habitats
 podbean:
   id: xfwfa-eee915
-  mp3: https://mcdn.podbean.com/mf/web/zrmg7e/Ep_33_-_Teaching_about_habitats8a4l4.mp3
 summary: A case for taking a more detailed look at a habitat and how it connects with others. Some suggestions for approaching the topic in classrooms and outdoor settings.
 ---
 

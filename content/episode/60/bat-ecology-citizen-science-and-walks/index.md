@@ -17,7 +17,6 @@ tags:
 - Walks
 podbean:
   id: 3pqcu-11810e9
-  mp3: https://mcdn.podbean.com/mf/web/m9r84p/Ep_60_-_BCT6g5pl.mp3
 summary: Interview with Phillip from the Bat Conservation Trust about their citizen science programmes. We also discuss a bit of bat ecology and share tips for leading a successful bat walk.
 ---
 

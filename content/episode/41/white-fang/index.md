@@ -16,7 +16,6 @@ tags:
 - Decolonizing
 podbean:
   id: 3cnbt-fab978
-  mp3: https://mcdn.podbean.com/mf/web/ktxdi2/Ep_41_-Film_Club-_Whitefang8lp2p.mp3
 summary: Discussion of the 2018 Netflix film White Fang. We discuss human interactions with animals and the environment, and tough subjects like treatment of wild and domestic animals.
 ---
 

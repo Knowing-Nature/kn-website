@@ -16,7 +16,6 @@ tags:
 - Spiders
 podbean:
     id: 8qqgq-d86735
-    mp3: https://knowingnature.podbean.com/mf/play/a6j8tm/Ep_11_-_Spiders_at_home.mp3
 summary: Info on common spiders you might find in your house here in the UK. Are they dangerous (no they're not). And activities for getting to know your 8-legged roommates.
 ---
 

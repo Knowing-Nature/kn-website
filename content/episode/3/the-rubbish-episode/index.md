@@ -14,7 +14,6 @@ tags:
 - Pollution
 podbean:
   id: qt3hw-c04cbd
-  mp3: https://knowingnature.podbean.com/mf/play/6bq7h8/Ep_3_-_The_rubish_episode.mp3
 summary: Past and present issues with pollution and tackling it in everyday life.
 ---
 

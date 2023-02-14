@@ -15,7 +15,6 @@ tags:
 - Lockdown
 podbean:
     id: 9xtn4-d752f9
-    mp3: https://knowingnature.podbean.com/mf/play/pbii89/Ep_10_-_Invertebrates_from_home.mp3
 summary: Since we're all stuck indoors, here are some ideas for how to get started studying invertebrates from the comfort of your own home. How to keep dead windowsill specimens safe. Ideas for building your own ID key.
 ---
 

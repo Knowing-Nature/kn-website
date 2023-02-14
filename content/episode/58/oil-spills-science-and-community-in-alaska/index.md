@@ -18,7 +18,6 @@ tags:
 - Pedagogy
 podbean:
   id: 8g2yw-112f6e1
-  mp3: https://mcdn.podbean.com/mf/web/93au39/Ep_58_-_Oil_spills_science_and_community_in_Alaska6cef0.mp3
 summary: Discussion about environmental education in Cordova, Alaska. How their programs address the legacy of the Exxon Valdez oil spill. We also talk about how they bring together kids from across the Copper River watershed to share experiences and understand how their communities are connected.
 ---
 

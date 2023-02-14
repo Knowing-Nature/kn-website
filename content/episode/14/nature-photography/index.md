@@ -17,7 +17,6 @@ tags:
 - Photography
 podbean:
     id: 26n9p-dc33b3
-    mp3: https://knowingnature.podbean.com/mf/play/ki4g4z/Ep14-Naturephotography9roy2.mp3
 summary: Tips for getting started in nature photography and taking photos for identification purposes. Introduction to cyanotyping and astrophotography.
 ---
 

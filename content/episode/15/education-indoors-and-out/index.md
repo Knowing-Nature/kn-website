@@ -17,7 +17,6 @@ tags:
 - Outdoor education
 podbean:
     id: zihxi-dd6fe4
-    mp3: https://knowingnature.podbean.com/mf/play/f6m8ce/Ep_15_-_Education_indoors_and_out_99wee.mp3
 summary: Benefits and challenges for environmental education in classrooms and outdoors. Strategies for dealing with challenges and thinking about topics which are better tackled in particular settings.
 ---
 

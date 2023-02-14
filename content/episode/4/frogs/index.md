@@ -14,7 +14,6 @@ tags:
 - Frogs
 podbean:
   id: qe382-c4322c
-  mp3: https://knowingnature.podbean.com/mf/play/qkbbfu/Ep_4_-_Frogs.mp3
 summary: All about frogs! With ideas for engaging with amphibians, including tips for raising tadpoles and issues to consider if you want to keep them as pets.
 ---
 

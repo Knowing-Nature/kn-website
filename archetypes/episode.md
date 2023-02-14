@@ -13,7 +13,6 @@ tags:
 -
 podbean:
   id: 
-  mp3: 
 summary: Voluptate incididunt et sint dolor culpa ea laboris magna laboris id laborum magna.
 ---
 

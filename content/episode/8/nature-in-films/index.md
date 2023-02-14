@@ -17,7 +17,6 @@ tags:
 - Ecology
 podbean:
   id: 9vq6d-d2c1e0
-  mp3: https://knowingnature.podbean.com/mf/play/pi3gmd/Ep_8_-_Nature_in_film.mp3
 summary: Discussing the importance of how nature is depicted in movies. Ideas for using films to explore ecosystems and how people and nature interact.
 ---
 

@@ -16,7 +16,6 @@ tags:
 - Science
 podbean:
   id: wjmnd-e7588a
-  mp3: https://mcdn.podbean.com/mf/web/mxxfqa/Ep_27_-Journal_Club-_Uncertainty_and_the_nature_of_science72scb.mp3
 summary: Discussion about challenges of teaching science. The discussion is framed by a paper which looked at participants beliefs about the nature of science their response to uncertainty in science communication.
 ---
 

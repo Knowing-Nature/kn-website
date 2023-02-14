@@ -15,7 +15,6 @@ tags:
 - People and nature
 podbean:
   id: i8pb2-e12fe7
-  mp3: https://knowingnature.podbean.com/mf/play/sgtchu/Ep_18_-_Film_club_Nausicaa_87p7z.mp3
 summary: Discussion of the 1984 film Nausicaa of the Valley of the Wind. We discuss what the film says about how people relate to the natural world, and how unfamiliarity breeds fear.
 ---
 

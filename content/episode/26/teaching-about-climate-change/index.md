@@ -16,7 +16,6 @@ tags:
 - Pedagogy
 podbean:
   id: keart-e6f826
-  mp3: https://mcdn.podbean.com/mf/web/ajtwbj/Ep_26_-_Teaching_climate_change8ct8x.mp3
 summary: Issues and considerations when teaching about climate change in schools and other environmental education providers. We talk problems with curriculum, climate anxiety, and the benefits of taking a whole school approach.
 ---
 

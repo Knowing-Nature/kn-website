@@ -15,7 +15,6 @@ tags:
 - Pro-environmental attitudes
 podbean:
     id: n95d8-b96c1e
-    mp3: https://mcdn.podbean.com/mf/web/abcxqv/Knowing_Nature_-_episode_1_mixdown.mp3
 summary: Meet hosts Annabeth and Victor! We discuss research into influences which produce positive relationships with nature and share some of our early influences.
 ---
 
