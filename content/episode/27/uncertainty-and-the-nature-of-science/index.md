@@ -4,7 +4,7 @@ comments: true
 date: 2020-08-17 08:25:00+00:00
 draft: false
 slug: journal-club-uncertainty-and-the-nature-of-science
-title: Uncertainty and the nature of science
+title: Uncertainty and the Nature of Science
 episode: 27
 image: uncertain.jpg
 music: Selfish
