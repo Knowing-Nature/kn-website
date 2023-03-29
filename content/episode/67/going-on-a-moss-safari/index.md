@@ -14,7 +14,7 @@ tags:
 - Habitats
 - Invertebrates
 - Microscopes
-podbean:
+podbean: aj2xa-13ccef6
   id: 67
 summary: Encountering the tiny animals which live in moss. How to setup and facilitate a "Moss safari". Ideas for fostering a sense of scientific discovery.
 
@@ -90,8 +90,13 @@ Flat, wormlike animals covered in cillia. They glide quickly throughthe water.
 
 ### Choose the right moss
 While you will find animals living in any moss. You might have more success with tardigrades with tuft or cussion forming mosses. This is just anecdotal, so there is an opportunity here for some experimentation to see if there really are fewer animals living in feather mosses, and more in tuft-forming mosses.
-![](moss_feathery.jpg)
+
+Tuft forming moss - More success
 ![](moss_tuft.jpg)
+
+Feather moss - Less success
+![](moss_feathery.jpg)
+
 
 ### DIY darkfield lighting
 Many of there small animals are nearly transparent. This can make it difficult to see them again white backgrounds. Darkfield lighting is when a slide sample is lit from the side, making the background look dark or black, making it easier to see the white outlines of transparent or translucent animals. Some microscopes have a darkfield setting built in. A similar effect can be achieved by either placing a small black dot below the sample, still allowing light in around the side. Or by lighting the sample with a torch shining in from the side.
