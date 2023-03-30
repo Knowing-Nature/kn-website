@@ -69,7 +69,7 @@ Moss animals often have different movement phases or modes, and can look quite d
 ### The safari model
 Looking at moss samples can benefit from a little bit more structure or guidance to hold attention. This led to the development of a safari model, where there are a few specific animals to look out for as you explore. Animals which make good targets to look for should be common, easy to spot (large), and have distinctive shapes. This structure gives participants a starting framework to understand what they are seeing, and a sense of success when they see something they recognize.
 
-## The big 5
+## The Big 5
 -Mites
 Relatives of spiders and harvestmen. These will be round bodied with 8 legs, and one of the larger things you might encounter. Around the size of a grain of sand or larger.
 
@@ -91,12 +91,14 @@ Flat, wormlike animals covered in cillia. They glide quickly throughthe water.
 ### Choose the right moss
 While you will find animals living in any moss. You might have more success with tardigrades with tuft or cussion forming mosses. This is just anecdotal, so there is an opportunity here for some experimentation to see if there really are fewer animals living in feather mosses, and more in tuft-forming mosses.
 
-Tuft forming moss - More success
+Tuft forming moss - Often found growing on walls and logs.
 ![](moss_tuft.jpg)
 
-Feather moss - Less success
+Feather moss - Often found growing in lawns in a flatter, spreading fashion.
 ![](moss_feathery.jpg)
 
+### Choose the right light source
+LED lighting is preferable with this activity as it is much cooler. Older incandescent lights get quite hot, and if you are using a dissection microscope, where the sample might be sitting on a plate directly above the light source, the heat can become too much for hte animals after only a few minutes. If your microscope has different filters over the lightsource which polarize the light in different ways, experiment with these. You will find that different settings allow you to see different details.
 
 ### DIY darkfield lighting
 Many of there small animals are nearly transparent. This can make it difficult to see them again white backgrounds. Darkfield lighting is when a slide sample is lit from the side, making the background look dark or black, making it easier to see the white outlines of transparent or translucent animals. Some microscopes have a darkfield setting built in. A similar effect can be achieved by either placing a small black dot below the sample, still allowing light in around the side. Or by lighting the sample with a torch shining in from the side.
@@ -105,5 +107,16 @@ Many of there small animals are nearly transparent. This can make it difficult t
 ### Let things chill out
 If things are moving too quickly to see clearly or take photos, try cooling samples in a fridge for 5 or 10 minutes. THis will make everything a bit sleepy and slow without harming them.
 
+### Chosing the right magnification
+20x magnificaiton works well for quickly checking how much activity you have in a sample. You can see tardigrades, mites, and nematodes at this magnification. And you will be able to identify a few other organisms based on their movement. In the slightly blurry image below, a tardigrade is circled in red. The crystals are grains of sand.
+![](tardi_20x.jpg)
+
+40x magnification will mean that all the Big 5 moss organisms can be seen reasonably well. Tardigrades' legs and the rotifers' feeding behaviour can be seen. But seeing the wheel-like organs on rotifers is difficult. Below is the same sample at 40x magnification.
+![](tardi_40x.jpg)
+
+100x will be necessary for seeing details like the mouthparts and claws of tardigrades, which are important features for identification to species level. However at this magnification faster moving organisms can be difficult to keep in your field of view. Depth of field is also mich thinner, meaning it can be difficult to keep an entire organism in focus, particularly if you are using the all-plastic washer and slide setup as this gives the animals a lot of room to move about.
+
+
 ## Putting things back
 Give everything a rinse with water. Return the moss outside, pressing gently to encourage good contact with the substrate. Pour your rinsing water over the moss to allow everything to find its way home, and hopefully help the moss to re-anchor itself to the surface.
+
