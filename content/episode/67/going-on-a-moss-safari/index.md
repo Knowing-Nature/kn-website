@@ -14,8 +14,8 @@ tags:
 - Habitats
 - Invertebrates
 - Microscopes
-podbean: aj2xa-13ccef6
-  id: 67
+podbean:
+  id: aj2xa-13ccef6
 summary: Encountering the tiny animals which live in moss. How to setup and facilitate a "Moss safari". Ideas for fostering a sense of scientific discovery.
 
 ---
