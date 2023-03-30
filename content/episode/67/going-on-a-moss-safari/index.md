@@ -70,20 +70,23 @@ Moss animals often have different movement phases or modes, and can look quite d
 Looking at moss samples can benefit from a little bit more structure or guidance to hold attention. This led to the development of a safari model, where there are a few specific animals to look out for as you explore. Animals which make good targets to look for should be common, easy to spot (large), and have distinctive shapes. This structure gives participants a starting framework to understand what they are seeing, and a sense of success when they see something they recognize.
 
 ## The Big 5
--Mites
-Relatives of spiders and harvestmen. These will be round bodied with 8 legs, and one of the larger things you might encounter. Around the size of a grain of sand or larger.
 
--Rotifers
-These often move through the water with a leech or inchworm-like, looping, motion.  They have a sort of sucker on their more pointed 'tail' end, and two round flaps on their 'head' end. These flaps are lined with hairs which they use to whisk the water, creating a vortex that sucks particles towards their jaws or mastax. This behaviour often makes it look like they have a pair of spinning wheels on their head, which is where they get their name. 'Roti' as in 'rotate'.
+Here are the most common animals you'll find under the microscope.
 
--Nematodes
-Transparent, non-segmented worms. These can vary greatly in size but are very common.
+- Mites\
+  Relatives of spiders and harvestmen. These will be round bodied with 8 legs, and one of the larger things you might encounter. Around the size of a grain of sand or larger.
 
--Tardigrades
-A highlight of any moss safari. These tiny, charismatic animals have 8 legs tipped with quite long claws. They have a snout with a round mouth at the end. At higher magnifications the shape of their mouthparts and claws are important for identifying different types of tardigrade. They move with a distinctive 'ambling' motion, reminiscent of bears.
+- Rotifers\
+  These often move through the water with a leech or inchworm-like, looping, motion.  They have a sort of sucker on their more pointed 'tail' end, and two round flaps on their 'head' end. These flaps are lined with hairs which they use to whisk the water, creating a vortex that sucks particles towards their jaws or mastax. This behaviour often makes it look like they have a pair of spinning wheels on their head, which is where they get their name. 'Roti' as in 'rotate'.
 
--Gastorich
-Flat, wormlike animals covered in cillia. They glide quickly throughthe water.
+- Nematodes\
+  Transparent, non-segmented worms. These can vary greatly in size but are very common.
+
+- Tardigrades\
+  A highlight of any moss safari. These tiny, charismatic animals have 8 legs tipped with quite long claws. They have a snout with a round mouth at the end. At higher magnifications the shape of their mouthparts and claws are important for identifying different types of tardigrade. They move with a distinctive 'ambling' motion, reminiscent of bears.
+
+- Gastorich\
+  Flat, wormlike animals covered in cillia. They glide quickly throughthe water.
 
 
 ## Tips for success
@@ -107,7 +110,7 @@ Many of there small animals are nearly transparent. This can make it difficult t
 ### Let things chill out
 If things are moving too quickly to see clearly or take photos, try cooling samples in a fridge for 5 or 10 minutes. THis will make everything a bit sleepy and slow without harming them.
 
-### Chosing the right magnification
+### Choose the right magnification
 20x magnificaiton works well for quickly checking how much activity you have in a sample. You can see tardigrades, mites, and nematodes at this magnification. And you will be able to identify a few other organisms based on their movement. In the slightly blurry image below, a tardigrade is circled in red. The crystals are grains of sand.
 ![](tardi_20x.jpg)
 
