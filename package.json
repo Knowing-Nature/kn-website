@@ -7,10 +7,10 @@
     "build": "npm run hugo:build",
     "clean": "npm run hugo:clean",
     "start": "npm run hugo:serve",
+    "check:links": "npx linkinator ./content/**/*.md --markdown --verbosity error --skip outdoorafro.com",
     "hugo:build": "HUGO_CACHEDIR=${PWD}/.hugo_cache hugo",
     "hugo:serve": "HUGO_CACHEDIR=${PWD}/.hugo_cache hugo server",
     "hugo:clean": "shx rm -rf public resources",
-
     "new": "node scripts/new.js"
   },
   "repository": {
@@ -30,5 +30,8 @@
     "natural-orderby": "^2.0.3",
     "shx": "^0.3.3",
     "slugify": "^1.6.4"
+  },
+  "dependencies": {
+    "linkinator": "^5.0.1"
   }
 }
