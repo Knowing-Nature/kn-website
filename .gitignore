@@ -27,4 +27,7 @@
 # Sublime
 *.sublime-workspace
 
+# Broken links
+/broken-links.csv
+
 .DS_Store
