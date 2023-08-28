@@ -16,11 +16,11 @@ tags:
 - Pedagogy
 podbean:
   id: 9js84-148f2d4
-summary: Interview with Jack Ashby about his book Platypus matters. We discuss the history of natural history, and why we should drops the 'weird' from 'weird and wonderful'.
+summary: Interview with Jack Ashby about his book _Platypus Matters_. We discuss the history of natural history, and why we should drop the 'weird' from 'weird and wonderful'.
 
 ---
 
-Interview with Jack Ashby about his book Platypus matters. We discuss the history of natural history, and why we should drops the 'weird' from 'weird and wonderful'.
+Interview with Jack Ashby about his book _Platypus Matters_. We discuss the history of natural history, and why we should drop the 'weird' from 'weird and wonderful'.
 
 {{<book author="Jack Ashby"
         cover="platypus-matters-cover.jpg"
