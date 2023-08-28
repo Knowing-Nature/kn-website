@@ -45,7 +45,7 @@ reptilian feature. Lactating was seen as a mammalian feature. Animals that have 
 Proving to European scholars that the platypus laid eggs, something Aboriginal Australians knew already, led to the collection of thousands of platypuses in order to find one with a developing egg within its body. 
 
 Related reading\
-[Discovered: 150-year-old platypus and echidna specimens that proved some mammals lay eggs - University of Cambridge](https://www.cam.ac.uk/stories/rediscovery-platypus-echidna-proof-mammals-lay-eggs)
+[Discovered: 150-year-old platypus and echidna specimens that proved some mammals lay eggs - University of Cambridge](https://www.cam.ac.uk/stories/rediscovery-platypus-echidna-proof-mammals-lay-eggs)\
 
 [Tasting Platypus Milk: Linking Specimens and Stories - Biodiversity Heritage Library](https://blog.biodiversitylibrary.org/2020/07/tasting-platypus-milk.html)
 
@@ -65,9 +65,9 @@ Acclimatisation societies worked to introduce European species into the colonies
  
 
 Related reading\
-Nee, S. The great chain of being. Nature 435, 429 (2005). https://doi.org/10.1038/435429a
+Nee, S. The great chain of being. Nature 435, 429 (2005). https://doi.org/10.1038/435429a \
 
-Heather J. Aslin & David H. Bennett (2000): Wildlife and world views: Australian attitudes toward wildlife, Human Dimensions of Wildlife: An International Journal, 5:2, 15-35. http://dx.doi.org/10.1080/10871200009359177
+Heather J. Aslin & David H. Bennett (2000): Wildlife and world views: Australian attitudes toward wildlife, Human Dimensions of Wildlife: An International Journal, 5:2, 15-35. http://dx.doi.org/10.1080/10871200009359177 \
 
 [Stubbs, Brett J. (2001) “From ‘Useless Brutes’ to National Treasures: A Century of Evolving Attitudes towards Native Fauna in New South Wales, 1860s to 1960s.” Environment and History 7, no. 1: 23–56. EnvironmentandSociety.org](https://www.environmentandsociety.org/mml/useless-brutes-national-treasures-century-evolving-attitudes-towards-native-fauna-new-south)
 
@@ -78,6 +78,7 @@ It becomes easier to think of the declines in species like the platypus, or so c
 
 A related line of thinking is that specialist animals are less adaptable than generalist species. So when their popultions decline, because of human actions which change landscapes and ecosystems, they are their own enemy. Shifting blame from humans to the animals themselves.
 
+Related reading\
 Federico Morelli, Yanina Benedetti, Corey T. Callaghan, (2020) Ecological specialization and population trends in European breeding birds, [Global Ecology and Conservation](https://www.sciencedirect.com/science/article/pii/S2351989420301025)
 
 
@@ -85,17 +86,17 @@ Federico Morelli, Yanina Benedetti, Corey T. Callaghan, (2020) Ecological specia
 ## The history of collecting and its impacts 
 ### Parachute science
 
-Parachute science falls to earth - [Nature](https://www.nature.com/nature-index/news/parachute-science-falls-to-earth)
+Parachute science falls to earth - [Nature](https://www.nature.com/nature-index/news/parachute-science-falls-to-earth)\
 The Problem With ‘Parachute Science’ - [Science Friday podcast](https://www.sciencefriday.com/segments/parachute-science-problem/)
 
 
 ### Framework for collecting today
-[Convention on biological diversity](https://www.cbd.int/intro/)
+[Convention on biological diversity](https://www.cbd.int/intro/)\
 [Nagoya protocol on access and benefit sharing](https://www.cbd.int/abs/)
 
 
 Case study - The Moustached kingfisher
-[Moustached kingfisher photographed for the first time - Audubon](https://www.audubon.org/news/moustached-kingfisher-photographed-first-time)
+[Moustached kingfisher photographed for the first time - Audubon](https://www.audubon.org/news/moustached-kingfisher-photographed-first-time)\
 [Why I Collected a Moustached Kingfisher - Audubon](https://www.audubon.org/news/why-i-collected-moustached-kingfisher)
 
 
@@ -105,6 +106,6 @@ Specimens stored in museums are preserved snapshots of natural history. Physical
 Physical specimens can also inadvertently record environmental data that we hadn't considered in the past. However researchers can be very creative in finding new ways to look at old specimens. Old mosquito collections can sometimes still carry their last blood meals, potentially preserving information about the animals they fed on and the spread of mosquito-transmitted diseases. Bird specimens can presere air pollution in the form of particulates caught in their feathers.
 
 Related reading\
-[How Museum Collections Advance Knowledge of Human Health - Smithsonian Magazine](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/04/07/how-museum-collections-advance-knowledge-human-health/)
+[How Museum Collections Advance Knowledge of Human Health - Smithsonian Magazine](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/04/07/how-museum-collections-advance-knowledge-human-health/)\
 
 [What Hundred-Year-Old Birds Tell Us About the Environment - Field Museum](https://www.fieldmuseum.org/blog/what-hundred-year-old-birds-tell-us-about-environment)
