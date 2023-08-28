@@ -22,6 +22,14 @@ summary: Interview with Jack Ashby about his book Platypus matters. We discuss t
 
 Interview with Jack Ashby about his book Platypus matters. We discuss the history of natural history, and why we should drops the 'weird' from 'weird and wonderful'.
 
+{{<book author="Jack Ashby"
+        cover="platypus-matters-cover.jpg"
+        publisher="University of Chicago Press"
+        publisher-link="https://press.uchicago.edu/ucp/books/book/chicago/P/bo170589562.html"
+        date="2022-08-04"
+        pages="400"
+        isbn="9780008431433">}}
+
 ## History of natural history
 Museum specimens today are the same specimens upon which historical descriptions and theories were based. So we are still being influenced by those representations of animals. Most people doing natural history (in the European sense) were doing their work in  Europe, based on dead specimens. Most had never seen them alive in their natural habitat. These scientists wrote about ‘new’ animals based on skins, or specimens preserved in alcohol sent back from abroad. Some of this work was based only on drawings and descriptions. European naturalists or anatomists would use their experience with familiar animals to interpret what they thought these animals would look like in life, feed, and reproduce. 
 
@@ -36,7 +44,7 @@ reptilian feature. Lactating was seen as a mammalian feature. Animals that have 
 
 Proving to European scholars that the platypus laid eggs, something Aboriginal Australians knew already, led to the collection of thousands of platypuses in order to find one with a developing egg within its body. 
 
-Related reading 
+Related reading\
 [Discovered: 150-year-old platypus and echidna specimens that proved some mammals lay eggs - University of Cambridge](https://www.cam.ac.uk/stories/rediscovery-platypus-echidna-proof-mammals-lay-eggs)
 
 [Tasting Platypus Milk: Linking Specimens and Stories - Biodiversity Heritage Library](https://blog.biodiversitylibrary.org/2020/07/tasting-platypus-milk.html)
@@ -56,7 +64,7 @@ Primitive traits don’t really have solid technical definition and it is often 
 Acclimatisation societies worked to introduce European species into the colonies. In some cases this was because it was felt that the native fauna were essentially not good enough game for hunting, or otherwise inferior to European animals. At the same time these native species were felt to be threats to the ‘better’ European animals. The thylacine, or Tasmanian tiger, is an excellent case study of how contradictory views were used to justify the eradication of a species.
  
 
-Related reading
+Related reading\
 Nee, S. The great chain of being. Nature 435, 429 (2005). https://doi.org/10.1038/435429a
 
 Heather J. Aslin & David H. Bennett (2000): Wildlife and world views: Australian attitudes toward wildlife, Human Dimensions of Wildlife: An International Journal, 5:2, 15-35. http://dx.doi.org/10.1080/10871200009359177
@@ -96,7 +104,7 @@ Specimens stored in museums are preserved snapshots of natural history. Physical
 
 Physical specimens can also inadvertently record environmental data that we hadn't considered in the past. However researchers can be very creative in finding new ways to look at old specimens. Old mosquito collections can sometimes still carry their last blood meals, potentially preserving information about the animals they fed on and the spread of mosquito-transmitted diseases. Bird specimens can presere air pollution in the form of particulates caught in their feathers.
 
-Related reading
+Related reading\
 [How Museum Collections Advance Knowledge of Human Health - Smithsonian Magazine](https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/04/07/how-museum-collections-advance-knowledge-human-health/)
 
 [What Hundred-Year-Old Birds Tell Us About the Environment - Field Museum](https://www.fieldmuseum.org/blog/what-hundred-year-old-birds-tell-us-about-environment)
