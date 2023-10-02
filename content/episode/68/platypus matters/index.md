@@ -60,7 +60,7 @@ All living species, so far as we know at the moment, are descended from a single
 
 Primitive traits don’t really have solid technical definition and it is often used in a very biassed fashion. Having legs, for example, is a trait with a very long evolutionary history in mammals, but it isn’t thought of as a primitive trait. This is despite some mammals more recently having lost/changed their legs into flippers (whales and dolphins). If this is one of the more recent developments in mammal evolution, why is retaining legs not thought of as being primitive? Perhaps because it is a trait that we humans have, and we write about nature from our perspective.
 
-### Consequences of biassed views and thinking of evolution as hierarchical
+### Consequences of biased views and thinking of evolution as hierarchical
 Acclimatisation societies worked to introduce European species into the colonies. In some cases this was because it was felt that the native fauna were essentially not good enough game for hunting, or otherwise inferior to European animals. At the same time these native species were felt to be threats to the ‘better’ European animals. The thylacine, or Tasmanian tiger, is an excellent case study of how contradictory views were used to justify the eradication of a species.
  
 
