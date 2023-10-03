@@ -16,3 +16,14 @@ overwriting it if it already exists.
     ```
     npm run check:links
     ```
+
+## Checking spelling
+
+1. Run the spell checker script:
+    ```
+    npm run check:spelling
+    ```
+
+2. Fix any errors found
+
+3. If the spell checker flags correctly-spelled words, you can add them to the bottom of the `/dictionary.txt` file to "learn" them for the future.
