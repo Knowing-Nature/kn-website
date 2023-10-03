@@ -29,8 +29,10 @@
     "hugo-bin-extended": "^0.109.0",
     "inquirer": "^8.2.0",
     "natural-orderby": "^2.0.3",
+    "remark-frontmatter": "^5.0.0",
     "shx": "^0.3.3",
-    "slugify": "^1.6.4"
+    "slugify": "^1.6.4",
+    "spellchecker-cli": "^6.1.1"
   },
   "dependencies": {
     "linkinator": "^5.0.1"

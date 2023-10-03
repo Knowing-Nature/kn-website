@@ -3,7 +3,7 @@ author: knowingnaturepodcast
 comments: true
 date: 2021-12-16 11:32:47+00:00
 draft: true
-title: 'Ep - Picture books: Not just for little kids'
+title: 'Picture books: Not just for little kids'
 type: post
 url: /
 wordpress_id: 941
