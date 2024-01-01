@@ -48,7 +48,7 @@ Netherlands.
 
 ## Activity ideas
 
-* **Set up a birdfeeder** \- Somewhere you can see it easily, but not so close
+* **Set up a bird feeder** \- Somewhere you can see it easily, but not so close
 that you will disturb birds. 2m from a window should be enough. Alternatively,
 partly close blinds or use translucent curtains to camouflage yourself.
 

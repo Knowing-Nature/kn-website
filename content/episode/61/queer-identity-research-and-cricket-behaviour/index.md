@@ -24,7 +24,7 @@ Environmental education can suffer from the same problem as a lot of STEM subjec
 
 Refers to reproductive or courting behaviour aimed at individuals of the same sex. Usually this term is used when describing behaviour which deviates from what is ‘expected’. For example earthworms are simultaneous hermaphrodites, individuals can produce sperm and eggs. Any reproductive behviour could be classed as same-sex sexual behaviour, but it is not usually classed as such because it is the expected behaviour.
 
-This behaviour is also referred to as ‘homosexual behaviour’ in research, but there is a growing preference for SSB because it avoids the connotations ‘homosexual’ has from its use in human cultrual contexts. ‘Homosexual’ when referring to humans can refer to sexual behaviours, but also identities and romantic attractions.
+This behaviour is also referred to as ‘homosexual behaviour’ in research, but there is a growing preference for SSB because it avoids the connotations ‘homosexual’ has from its use in human cultural contexts. ‘Homosexual’ when referring to humans can refer to sexual behaviours, but also identities and romantic attractions.
 
 ## Theories about the evolution of reproductive behaviours
 
