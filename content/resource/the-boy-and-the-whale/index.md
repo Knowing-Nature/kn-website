@@ -143,7 +143,7 @@ nets make fish fingers to cost less?
 
 ### Whales
 
-[Population status](https://iwc.int/status) \- International whaling commision
+[Population status](https://iwc.int/about-whales/population-status) \- International whaling commision
 [Why do whales breach?](https://www.whalefacts.org/why-do-whales-breach/) \- WhaleFacts.org
 
 ## More about the book

@@ -97,7 +97,7 @@ actually problematic, has the impact of undermining organizations which have
 been successfully working on the issues.
 
   * [MSC - What is bycatch and how can it be reduced? ](https://www.msc.org/what-we-are-doing/oceans-at-risk/what-is-bycatch-and-how-can-it-be-managed)
-  * [WWF - Common Oceans ABNJ Tuna Project](https://www.worldwildlife.org/projects/pakistan-s-tuna-fleets-lead-efforts-to-untangle-our-oceans)
+  * [WWF - Bringing fisheries forward](https://www.worldwildlife.org/projects/bringing-fisheries-forward)
 
 ### Losing sight of the forest / trees for the other
 
