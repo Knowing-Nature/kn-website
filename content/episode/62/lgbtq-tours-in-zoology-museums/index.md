@@ -93,7 +93,7 @@ Over 90% of sexual behaviour in giraffes is between same-sex individuals. This s
 
 ### Penguins
 
-[Male penguin paris foster chicks](https://www.npr.org/2022/02/01/1077300105/gay-penguins-rosamond-gifford-zoo?t=1644273907172) \- NPR
+[Male penguin pair foster chicks](https://www.npr.org/2022/02/01/1077300105/gay-penguins-rosamond-gifford-zoo?t=1644273907172) \- NPR
 
 [Why are penguin's sex lives so scandelous?](https://www.atlasobscura.com/articles/penguin-sex-mating-habits) - Atlas Obscura
 

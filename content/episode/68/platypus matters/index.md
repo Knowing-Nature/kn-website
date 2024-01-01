@@ -76,7 +76,7 @@ Heather J. Aslin & David H. Bennett (2000): Wildlife and world views: Australian
 ### “Overspecialised animals”
 It becomes easier to think of the declines in species like the platypus, or so called ‘living fossils’ like the coelacanth, to be due to their ‘primitive’ traits making them unable to compete with more ‘modern’ or evolved species.
 
-A related line of thinking is that specialist animals are less adaptable than generalist species. So when their popultions decline, because of human actions which change landscapes and ecosystems, they are their own enemy. Shifting blame from humans to the animals themselves.
+A related line of thinking is that specialist animals are less adaptable than generalist species. So when their populations decline, because of human actions which change landscapes and ecosystems, they are their own enemy. Shifting blame from humans to the animals themselves.
 
 Related reading\
 Federico Morelli, Yanina Benedetti, Corey T. Callaghan, (2020) Ecological specialization and population trends in European breeding birds, [Global Ecology and Conservation](https://www.sciencedirect.com/science/article/pii/S2351989420301025)

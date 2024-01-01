@@ -20,7 +20,7 @@ podbean:
 summary: Interview with Phillip from the Bat Conservation Trust about their citizen science programmes. We also discuss a bit of bat ecology and share tips for leading a successful bat walk.
 ---
 
-There are around 5400 mammal species in the world. Of those, 20% (more than 1400 species) are bats. They live in almost every part of the world except the arctic and antarctic, with 18 species here in the UK. With so much diversity, bats can be useful ‘indicator species’. Changes to bat populations can indicate that there are changes in ecosystems, such as insect population declines and habitat degrerdation.
+There are around 5400 mammal species in the world. Of those, 20% (more than 1400 species) are bats. They live in almost every part of the world except the arctic and antarctic, with 18 species here in the UK. With so much diversity, bats can be useful ‘indicator species’. Changes to bat populations can indicate that there are changes in ecosystems, such as insect population declines and habitat degredation.
 
 Since 1991 the Bat Conservation Trust has run a diverse range of projects to conserve bat populations. They monitor bat populations across the UK, promote bat conservation through policy and advocacy work, and provide advice to the public
 
@@ -28,14 +28,14 @@ Since 1991 the Bat Conservation Trust has run a diverse range of projects to con
 
 ## Citizen science surveys
 
-[See all all BCT monitoring projects here.](https://www.bats.org.uk/our-work/national-bat-monitoring-programme/surveys)
+[See all BCT monitoring projects here.](https://www.bats.org.uk/our-work/national-bat-monitoring-programme/surveys)
 
 ### Sunset survey
 
 - An hour after sunset or an hour before dawn, watch for bats and record how many you see and what species (if you can)
 
 - Also record any other nocturnal animals.
-- BCT provides [simple guidesto IDing bats in flight](https://www.bats.org.uk/our-work/national-bat-monitoring-programme/surveys/sunset-sunrise-survey)
+- BCT provides [simple guides to IDing bats in flight](https://www.bats.org.uk/our-work/national-bat-monitoring-programme/surveys/sunset-sunrise-survey)
 
 ### Roost count
 
@@ -88,5 +88,5 @@ Since 1991 the Bat Conservation Trust has run a diverse range of projects to con
 ## Bat ecology tidbits
 
 - Insect activity often dips sharply during the night as temperatures drop. This drop is less pronounced in urban areas due to urban heat island effects, meaning bats may feed and stay active longer.
-- Bats sheter duringthe day in a roost, these are often different from winter hibernation sites because they have different sleeping needs vs hibernation needs.
+- Bats sheter during the day in a roost, these are often different from winter hibernation sites because they have different sleeping needs vs hibernation needs.
 - Bat hibernate during the winter. Keeping cold keeps their metabolism low so they conserve their energy/fat reserves. It is important not to disturb bats at this time because that causes them to use more of their reserves.
