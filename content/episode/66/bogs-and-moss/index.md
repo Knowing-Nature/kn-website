@@ -26,7 +26,7 @@ Josh studied Ecology at Edge Hill University and has an MSc in Biological Record
 
 More about Josh:
 
-- [Profile - One Tribe Talent](http://www.onetribetalent.co.uk/talent/joshua-styles/)
+- [Profile - Linkedin](https://uk.linkedin.com/in/joshua-styles-mcieem-727a0612b)
 - [Twitter](https://twitter.com/joshual951)
 
 ## What is a raised bog?

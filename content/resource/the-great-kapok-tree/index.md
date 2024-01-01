@@ -171,8 +171,4 @@ tall trees.
 
 [Creator Interview: Lynne Cherry](http://www.judynewmanatscholastic.com/blog/2020/04/interview-lynne-cherry-great-kapok-tree/) \- Judy Newman at Scholastic
 
-## Tried any activities?
-
-If you've used this book with your class [we'd love to hear about it](/contact)! Photos,
-stories, comments, or suggestions. We love them all!
 

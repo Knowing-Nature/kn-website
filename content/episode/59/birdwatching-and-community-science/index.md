@@ -103,5 +103,3 @@ Bird feeders and their impact on overwintering blackcaps in the UK and breeding 
 ## Avian salmonellosis outbreak
 
 [West coast avian salmonellosis outbreak (winter 2020-2021)](https://birdrescuecenter.org/salmonellosis/) - Bird Rescue Centre
-
-[Salmonellosis Outbreak Causing Songbird Deaths](https://cdfgnews.wordpress.com/2021/02/08/salmonellosis-outbreak-causing-songbird-deaths/) - California Department of Fish and Wildlife
