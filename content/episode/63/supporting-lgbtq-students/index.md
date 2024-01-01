@@ -26,7 +26,7 @@ The Brownell Biology Education Research Group at Arizona State University is a t
 
 Interventions are often measured against producing some improvement in learning, but equally important as academic achievement is to what extent do students feel they belong in a discipline. Education is not just about grades. It is also about helping students see themselves continuing on in a particular field.
 
-It is increasingly clear that science is not 100% objective. Who does the science has an impact on how the science is done, how how things are interpreted, and the conclusions what are eventually made. Diverse teams bring more different perspectives. Diverse teams tend to produce better results because that diversity can mitigate the impact of individual biases.
+It is increasingly clear that science is not 100% objective. Who does the science has an impact on how the science is done, how things are interpreted, and the conclusions what are eventually made. Diverse teams bring more different perspectives. Diverse teams tend to produce better results because that diversity can mitigate the impact of individual biases.
 
 ## Are there particular challenges for LGBTQ+ individuals in STEM subjects and in biology?
 

@@ -14,7 +14,7 @@ tags:
 - Plants
 podbean:
   id: i62bg-11bce05
-summary: Introduction to seagrass meadows and the importance of these habitats for marine biodiversity, climate, and local fishing communities. We also talk about effort to restore lost seagrass meadows, and what ou can do to help monitor these vital ecosstems.
+summary: Introduction to seagrass meadows and the importance of these habitats for marine biodiversity, climate, and local fishing communities. We also talk about effort to restore lost seagrass meadows, and what you can do to help monitor these vital ecosystems.
 ---
 
 ## What is seagrass?
@@ -25,7 +25,7 @@ Seagrasses are plants related to water plantains and land-grasses. Unlike seawee
 
 ## Why are seagrass meadows important?
 
-As mentioned above, the fronds of seagrasses can absorb wave energy. This takes away energy from waves and slows down costal erosion.The dense fronds are also an excellent food source for many marine herbivores, including dugongs and sea turtles. They also provide shelter for many young fish and other animal species.
+As mentioned above, the fronds of seagrasses can absorb wave energy. This takes away energy from waves and slows down coastal erosion.The dense fronds are also an excellent food source for many marine herbivores, including dugongs and sea turtles. They also provide shelter for many young fish and other animal species.
 
 Seagrasses absorb carbon dioxide and use it in photosynthesis to produce sugars. Then, because the roots of seagrasses can grow deep underground, this absorbed carbon is locked into the sediment. Because of this, these habitats are significant carbon sinks.
 
